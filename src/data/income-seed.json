@@ -6003,5 +6003,3672 @@
       "excerpt": "2024年东莞市城镇非私营单位就业人员年平均工资105062元，城镇私营单位就业人员年平均工资80632元。"
     },
     "version": 1
+  },
+  {
+    "id": "130100-2025-disposable-all",
+    "region": "130100",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 42085,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "全市常住居民全年人均可支配收入；按公报注释，居民收入不含辛集市，与公报GDP含辛集的范围不同。",
+    "source": {
+      "title": "石家庄市2025年国民经济和社会发展统计公报",
+      "url": "https://www.sjz.gov.cn/columns/839b1981-330e-4901-aba5-6c392154ce03/202605/26/06f23d4b-7e86-4109-bd56-5c75925b6e28.html",
+      "publishedAt": "2026-05-26",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年石家庄，全体居民 42085元/人/年；城镇居民 52559元/人/年；农村居民 24184元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "130100-2025-disposable-urban",
+    "region": "130100",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 52559,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "全市常住居民全年人均可支配收入；按公报注释，居民收入不含辛集市，与公报GDP含辛集的范围不同。",
+    "source": {
+      "title": "石家庄市2025年国民经济和社会发展统计公报",
+      "url": "https://www.sjz.gov.cn/columns/839b1981-330e-4901-aba5-6c392154ce03/202605/26/06f23d4b-7e86-4109-bd56-5c75925b6e28.html",
+      "publishedAt": "2026-05-26",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年石家庄，全体居民 42085元/人/年；城镇居民 52559元/人/年；农村居民 24184元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "130100-2025-disposable-rural",
+    "region": "130100",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 24184,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "全市常住居民全年人均可支配收入；按公报注释，居民收入不含辛集市，与公报GDP含辛集的范围不同。",
+    "source": {
+      "title": "石家庄市2025年国民经济和社会发展统计公报",
+      "url": "https://www.sjz.gov.cn/columns/839b1981-330e-4901-aba5-6c392154ce03/202605/26/06f23d4b-7e86-4109-bd56-5c75925b6e28.html",
+      "publishedAt": "2026-05-26",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年石家庄，全体居民 42085元/人/年；城镇居民 52559元/人/年；农村居民 24184元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "350200-2025-disposable-all",
+    "region": "350200",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 77762,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "厦门全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年厦门市国民经济和社会发展统计公报",
+      "url": "https://tjj.xm.gov.cn/tjzl/ndgb/202603/t20260325_2991064.htm",
+      "publishedAt": "2026-04-15",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年厦门，全体居民 77762元/人/年；城镇居民 79719元/人/年；农村居民 38512元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "350200-2025-disposable-urban",
+    "region": "350200",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 79719,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "厦门全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年厦门市国民经济和社会发展统计公报",
+      "url": "https://tjj.xm.gov.cn/tjzl/ndgb/202603/t20260325_2991064.htm",
+      "publishedAt": "2026-04-15",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年厦门，全体居民 77762元/人/年；城镇居民 79719元/人/年；农村居民 38512元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "350200-2025-disposable-rural",
+    "region": "350200",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 38512,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "厦门全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年厦门市国民经济和社会发展统计公报",
+      "url": "https://tjj.xm.gov.cn/tjzl/ndgb/202603/t20260325_2991064.htm",
+      "publishedAt": "2026-04-15",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年厦门，全体居民 77762元/人/年；城镇居民 79719元/人/年；农村居民 38512元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "350200-2025-wage-nonPrivate",
+    "region": "350200",
+    "year": 2025,
+    "metric": "wage",
+    "population": "nonPrivate",
+    "value": 131747,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "厦门全行政区域对应城镇单位就业人员全年税前平均工资，区别于在岗职工与规模以上单位口径。",
+    "source": {
+      "title": "2025年厦门市城镇非私营单位就业人员年平均工资情况",
+      "url": "https://tjj.xm.gov.cn/zwgk/ywtz/202606/t20260623_3002666.htm",
+      "publishedAt": "2026-06-23",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年厦门，非私营单位 131747元/人/年。指标为就业人员税前年平均工资，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "220100-2025-disposable-all",
+    "region": "220100",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 35399,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "长春全地区常住居民收入，城镇包含中心城市及双阳、九台、农安、德惠、榆树、公主岭；不采用旧中心城市口径。",
+    "source": {
+      "title": "长春市2025年国民经济和社会发展统计公报",
+      "url": "https://tjj.jl.gov.cn/tjsj/tjgb/ndgb/202609/t20260909_3669193.html",
+      "publishedAt": "2026-09-09",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年长春，全体居民 35399元/人/年；城镇居民 44250元/人/年；农村居民 23042元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "220100-2025-disposable-urban",
+    "region": "220100",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 44250,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "长春全地区常住居民收入，城镇包含中心城市及双阳、九台、农安、德惠、榆树、公主岭；不采用旧中心城市口径。",
+    "source": {
+      "title": "长春市2025年国民经济和社会发展统计公报",
+      "url": "https://tjj.jl.gov.cn/tjsj/tjgb/ndgb/202609/t20260909_3669193.html",
+      "publishedAt": "2026-09-09",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年长春，全体居民 35399元/人/年；城镇居民 44250元/人/年；农村居民 23042元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "220100-2025-disposable-rural",
+    "region": "220100",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 23042,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "长春全地区常住居民收入，城镇包含中心城市及双阳、九台、农安、德惠、榆树、公主岭；不采用旧中心城市口径。",
+    "source": {
+      "title": "长春市2025年国民经济和社会发展统计公报",
+      "url": "https://tjj.jl.gov.cn/tjsj/tjgb/ndgb/202609/t20260909_3669193.html",
+      "publishedAt": "2026-09-09",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年长春，全体居民 35399元/人/年；城镇居民 44250元/人/年；农村居民 23042元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "321000-2025-disposable-all",
+    "region": "321000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 52996,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "扬州全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年扬州市国民经济和社会发展统计公报",
+      "url": "https://tjj.yangzhou.gov.cn/tjgb/art/2026/art_5277f078f6ba4d9e834309d68721e41c.html",
+      "publishedAt": "2026-05-22",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年扬州，全体居民 52996元/人/年；城镇居民 62332元/人/年；农村居民 35450元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "321000-2025-disposable-urban",
+    "region": "321000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 62332,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "扬州全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年扬州市国民经济和社会发展统计公报",
+      "url": "https://tjj.yangzhou.gov.cn/tjgb/art/2026/art_5277f078f6ba4d9e834309d68721e41c.html",
+      "publishedAt": "2026-05-22",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年扬州，全体居民 52996元/人/年；城镇居民 62332元/人/年；农村居民 35450元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "321000-2025-disposable-rural",
+    "region": "321000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 35450,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "扬州全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年扬州市国民经济和社会发展统计公报",
+      "url": "https://tjj.yangzhou.gov.cn/tjgb/art/2026/art_5277f078f6ba4d9e834309d68721e41c.html",
+      "publishedAt": "2026-05-22",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年扬州，全体居民 52996元/人/年；城镇居民 62332元/人/年；农村居民 35450元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "320900-2025-disposable-all",
+    "region": "320900",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 45731,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "全市常住居民全年人均可支配收入。采用6月统计公报45731元；2月经济简析曾写45713元，保留口径差异说明，未混用。",
+    "source": {
+      "title": "2025年盐城市国民经济和社会发展统计公报",
+      "url": "https://www.yancheng.gov.cn/art/2026/6/24/art_128_4433718.html",
+      "publishedAt": "2026-06-24",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年盐城，全体居民 45731元/人/年；城镇居民 53128元/人/年；农村居民 33432元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "320900-2025-disposable-urban",
+    "region": "320900",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 53128,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "全市常住居民全年人均可支配收入。采用6月统计公报45731元；2月经济简析曾写45713元，保留口径差异说明，未混用。",
+    "source": {
+      "title": "2025年盐城市国民经济和社会发展统计公报",
+      "url": "https://www.yancheng.gov.cn/art/2026/6/24/art_128_4433718.html",
+      "publishedAt": "2026-06-24",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年盐城，全体居民 45731元/人/年；城镇居民 53128元/人/年；农村居民 33432元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "320900-2025-disposable-rural",
+    "region": "320900",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 33432,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "全市常住居民全年人均可支配收入。采用6月统计公报45731元；2月经济简析曾写45713元，保留口径差异说明，未混用。",
+    "source": {
+      "title": "2025年盐城市国民经济和社会发展统计公报",
+      "url": "https://www.yancheng.gov.cn/art/2026/6/24/art_128_4433718.html",
+      "publishedAt": "2026-06-24",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年盐城，全体居民 45731元/人/年；城镇居民 53128元/人/年；农村居民 33432元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "210100-2025-disposable-all",
+    "region": "210100",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 51827,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "沈阳全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年沈阳市国民经济和社会发展统计公报",
+      "url": "https://tjj.shenyang.gov.cn/sjfb/tjgb/202605/P020260519396879810015.pdf",
+      "publishedAt": "2026-05-19",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "官方PDF第16—17页人工核验：全市居民51827元，城镇58297元，农村27196元，分别增长4.2%、3.9%、5.5%。"
+    }
+  },
+  {
+    "id": "210100-2025-disposable-urban",
+    "region": "210100",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 58297,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "沈阳全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年沈阳市国民经济和社会发展统计公报",
+      "url": "https://tjj.shenyang.gov.cn/sjfb/tjgb/202605/P020260519396879810015.pdf",
+      "publishedAt": "2026-05-19",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "官方PDF第16—17页人工核验：全市居民51827元，城镇58297元，农村27196元，分别增长4.2%、3.9%、5.5%。"
+    }
+  },
+  {
+    "id": "210100-2025-disposable-rural",
+    "region": "210100",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 27196,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "沈阳全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年沈阳市国民经济和社会发展统计公报",
+      "url": "https://tjj.shenyang.gov.cn/sjfb/tjgb/202605/P020260519396879810015.pdf",
+      "publishedAt": "2026-05-19",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "官方PDF第16—17页人工核验：全市居民51827元，城镇58297元，农村27196元，分别增长4.2%、3.9%、5.5%。"
+    }
+  },
+  {
+    "id": "530100-2025-disposable-all",
+    "region": "530100",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 48754,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "昆明全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年昆明市国民经济和社会发展统计公报",
+      "url": "https://tjj.km.gov.cn/upload/resources/file/2026/05/21/4248107.pdf",
+      "publishedAt": "2026-05-21",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "官方PDF第17页人工核验：2025年居民人均可支配收入48754元，城镇58938元，农村24935元。"
+    }
+  },
+  {
+    "id": "530100-2025-disposable-urban",
+    "region": "530100",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 58938,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "昆明全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年昆明市国民经济和社会发展统计公报",
+      "url": "https://tjj.km.gov.cn/upload/resources/file/2026/05/21/4248107.pdf",
+      "publishedAt": "2026-05-21",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "官方PDF第17页人工核验：2025年居民人均可支配收入48754元，城镇58938元，农村24935元。"
+    }
+  },
+  {
+    "id": "530100-2025-disposable-rural",
+    "region": "530100",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 24935,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "昆明全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年昆明市国民经济和社会发展统计公报",
+      "url": "https://tjj.km.gov.cn/upload/resources/file/2026/05/21/4248107.pdf",
+      "publishedAt": "2026-05-21",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "官方PDF第17页人工核验：2025年居民人均可支配收入48754元，城镇58938元，农村24935元。"
+    }
+  },
+  {
+    "id": "321200-2025-disposable-all",
+    "region": "321200",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 54386,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "泰州全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年泰州市国民经济和社会发展统计公报",
+      "url": "https://tjj.taizhou.gov.cn/xxgk/fdzdgknr/tjxx/tjgb/art/2026/art_2be9ac8eac814cd784c0ece81a1ee73b.html",
+      "publishedAt": "2026-05-27",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年泰州，全体居民 54386元/人/年；城镇居民 65053元/人/年；农村居民 35703元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "321200-2025-disposable-urban",
+    "region": "321200",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 65053,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "泰州全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年泰州市国民经济和社会发展统计公报",
+      "url": "https://tjj.taizhou.gov.cn/xxgk/fdzdgknr/tjxx/tjgb/art/2026/art_2be9ac8eac814cd784c0ece81a1ee73b.html",
+      "publishedAt": "2026-05-27",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年泰州，全体居民 54386元/人/年；城镇居民 65053元/人/年；农村居民 35703元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "321200-2025-disposable-rural",
+    "region": "321200",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 35703,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "泰州全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年泰州市国民经济和社会发展统计公报",
+      "url": "https://tjj.taizhou.gov.cn/xxgk/fdzdgknr/tjxx/tjgb/art/2026/art_2be9ac8eac814cd784c0ece81a1ee73b.html",
+      "publishedAt": "2026-05-27",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年泰州，全体居民 54386元/人/年；城镇居民 65053元/人/年；农村居民 35703元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "371300-2025-disposable-all",
+    "region": "371300",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 39180,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "临沂全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年临沂市经济社会发展统计公报",
+      "url": "https://tjj.linyi.gov.cn/info/1065/15038.htm",
+      "publishedAt": "2026-03-23",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年临沂，全体居民 39180元/人/年；城镇居民 51513元/人/年；农村居民 23127元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "371300-2025-disposable-urban",
+    "region": "371300",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 51513,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "临沂全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年临沂市经济社会发展统计公报",
+      "url": "https://tjj.linyi.gov.cn/info/1065/15038.htm",
+      "publishedAt": "2026-03-23",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年临沂，全体居民 39180元/人/年；城镇居民 51513元/人/年；农村居民 23127元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "371300-2025-disposable-rural",
+    "region": "371300",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 23127,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "临沂全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年临沂市经济社会发展统计公报",
+      "url": "https://tjj.linyi.gov.cn/info/1065/15038.htm",
+      "publishedAt": "2026-03-23",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年临沂，全体居民 39180元/人/年；城镇居民 51513元/人/年；农村居民 23127元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "420500-2025-disposable-all",
+    "region": "420500",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 42714,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "宜昌全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年宜昌经济运行情况",
+      "url": "https://fgw.yichang.gov.cn/content-39409-984216-1.html",
+      "publishedAt": "2026-02-14",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年宜昌，全体居民 42714元/人/年；城镇居民 50874元/人/年；农村居民 27524元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "420500-2025-disposable-urban",
+    "region": "420500",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 50874,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "宜昌全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年宜昌经济运行情况",
+      "url": "https://fgw.yichang.gov.cn/content-39409-984216-1.html",
+      "publishedAt": "2026-02-14",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年宜昌，全体居民 42714元/人/年；城镇居民 50874元/人/年；农村居民 27524元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "420500-2025-disposable-rural",
+    "region": "420500",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 27524,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "宜昌全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年宜昌经济运行情况",
+      "url": "https://fgw.yichang.gov.cn/content-39409-984216-1.html",
+      "publishedAt": "2026-02-14",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年宜昌，全体居民 42714元/人/年；城镇居民 50874元/人/年；农村居民 27524元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "610800-2025-disposable-urban",
+    "region": "610800",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 47143,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "榆林全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "国家统计局榆林调查队2025年度事业单位年度报告",
+      "url": "https://www.sxbb.gov.cn/site-sxdjgl/yearlyReport_view/315477",
+      "publishedAt": "2026-04-01",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年榆林，城镇居民 47143元/人/年；农村居民 20797元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "610800-2025-disposable-rural",
+    "region": "610800",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 20797,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "榆林全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "国家统计局榆林调查队2025年度事业单位年度报告",
+      "url": "https://www.sxbb.gov.cn/site-sxdjgl/yearlyReport_view/315477",
+      "publishedAt": "2026-04-01",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年榆林，城镇居民 47143元/人/年；农村居民 20797元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "410300-2025-disposable-all",
+    "region": "410300",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 37240,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "洛阳全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年洛阳市国民经济和社会发展统计公报",
+      "url": "https://www.ly.gov.cn/2026/05-11/1060335.html",
+      "publishedAt": "2026-05-11",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年洛阳，全体居民 37240元/人/年；城镇居民 49887元/人/年；农村居民 22340元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "410300-2025-disposable-urban",
+    "region": "410300",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 49887,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "洛阳全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年洛阳市国民经济和社会发展统计公报",
+      "url": "https://www.ly.gov.cn/2026/05-11/1060335.html",
+      "publishedAt": "2026-05-11",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年洛阳，全体居民 37240元/人/年；城镇居民 49887元/人/年；农村居民 22340元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "410300-2025-disposable-rural",
+    "region": "410300",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 22340,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "洛阳全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年洛阳市国民经济和社会发展统计公报",
+      "url": "https://www.ly.gov.cn/2026/05-11/1060335.html",
+      "publishedAt": "2026-05-11",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年洛阳，全体居民 37240元/人/年；城镇居民 49887元/人/年；农村居民 22340元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "150600-2025-disposable-all",
+    "region": "150600",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 55914,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "全市常住居民全年人均可支配收入；农村口径为农村牧区。",
+    "source": {
+      "title": "鄂尔多斯市2025年国民经济和社会发展统计公报",
+      "url": "https://gxj.ordos.gov.cn/xxgk_126422/fdzdgknr/sjzx/202604/t20260422_1467501.html",
+      "publishedAt": "2026-04-22",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年鄂尔多斯，全体居民 55914元/人/年；城镇居民 63946元/人/年；农村居民 30478元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "150600-2025-disposable-urban",
+    "region": "150600",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 63946,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "全市常住居民全年人均可支配收入；农村口径为农村牧区。",
+    "source": {
+      "title": "鄂尔多斯市2025年国民经济和社会发展统计公报",
+      "url": "https://gxj.ordos.gov.cn/xxgk_126422/fdzdgknr/sjzx/202604/t20260422_1467501.html",
+      "publishedAt": "2026-04-22",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年鄂尔多斯，全体居民 55914元/人/年；城镇居民 63946元/人/年；农村居民 30478元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "150600-2025-disposable-rural",
+    "region": "150600",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 30478,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "全市常住居民全年人均可支配收入；农村口径为农村牧区。",
+    "source": {
+      "title": "鄂尔多斯市2025年国民经济和社会发展统计公报",
+      "url": "https://gxj.ordos.gov.cn/xxgk_126422/fdzdgknr/sjzx/202604/t20260422_1467501.html",
+      "publishedAt": "2026-04-22",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年鄂尔多斯，全体居民 55914元/人/年；城镇居民 63946元/人/年；农村居民 30478元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "320800-2025-disposable-all",
+    "region": "320800",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 43553,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "淮安全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年全市经济运行顶压前行稳中有进",
+      "url": "https://www.huaian.gov.cn/col/16657_173466/art/17698752/1770626195794rBZdsfl2.html",
+      "publishedAt": "2026-02-09",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年淮安，全体居民 43553元/人/年；城镇居民 53283元/人/年；农村居民 28643元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "320800-2025-disposable-urban",
+    "region": "320800",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 53283,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "淮安全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年全市经济运行顶压前行稳中有进",
+      "url": "https://www.huaian.gov.cn/col/16657_173466/art/17698752/1770626195794rBZdsfl2.html",
+      "publishedAt": "2026-02-09",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年淮安，全体居民 43553元/人/年；城镇居民 53283元/人/年；农村居民 28643元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "320800-2025-disposable-rural",
+    "region": "320800",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 28643,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "淮安全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年全市经济运行顶压前行稳中有进",
+      "url": "https://www.huaian.gov.cn/col/16657_173466/art/17698752/1770626195794rBZdsfl2.html",
+      "publishedAt": "2026-02-09",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年淮安，全体居民 43553元/人/年；城镇居民 53283元/人/年；农村居民 28643元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "340200-2025-disposable-all",
+    "region": "340200",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 51979,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "芜湖全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年芜湖市国民经济和社会发展统计公报",
+      "url": "https://tjj.wuhu.gov.cn/openness/public/6596741/41229766.html",
+      "publishedAt": "2026-06-15",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年芜湖，全体居民 51979元/人/年；城镇居民 59743元/人/年；农村居民 35815元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "340200-2025-disposable-urban",
+    "region": "340200",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 59743,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "芜湖全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年芜湖市国民经济和社会发展统计公报",
+      "url": "https://tjj.wuhu.gov.cn/openness/public/6596741/41229766.html",
+      "publishedAt": "2026-06-15",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年芜湖，全体居民 51979元/人/年；城镇居民 59743元/人/年；农村居民 35815元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "340200-2025-disposable-rural",
+    "region": "340200",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 35815,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "芜湖全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年芜湖市国民经济和社会发展统计公报",
+      "url": "https://tjj.wuhu.gov.cn/openness/public/6596741/41229766.html",
+      "publishedAt": "2026-06-15",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年芜湖，全体居民 51979元/人/年；城镇居民 59743元/人/年；农村居民 35815元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "360700-2025-disposable-all",
+    "region": "360700",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 33813,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "赣州全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "赣州市2025年国民经济和社会发展统计公报",
+      "url": "https://www.ganzhou.gov.cn/gzszf/c100022/202604/38a12f964da545109b1b16697faee249.shtml",
+      "publishedAt": "2026-04-30",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年赣州，全体居民 33813元/人/年；城镇居民 48188元/人/年；农村居民 19839元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "360700-2025-disposable-urban",
+    "region": "360700",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 48188,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "赣州全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "赣州市2025年国民经济和社会发展统计公报",
+      "url": "https://www.ganzhou.gov.cn/gzszf/c100022/202604/38a12f964da545109b1b16697faee249.shtml",
+      "publishedAt": "2026-04-30",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年赣州，全体居民 33813元/人/年；城镇居民 48188元/人/年；农村居民 19839元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "360700-2025-disposable-rural",
+    "region": "360700",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 19839,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "赣州全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "赣州市2025年国民经济和社会发展统计公报",
+      "url": "https://www.ganzhou.gov.cn/gzszf/c100022/202604/38a12f964da545109b1b16697faee249.shtml",
+      "publishedAt": "2026-04-30",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年赣州，全体居民 33813元/人/年；城镇居民 48188元/人/年；农村居民 19839元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "430600-2025-disposable-all",
+    "region": "430600",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 38534,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "岳阳全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "岳阳市2025年国民经济和社会发展统计公报",
+      "url": "https://www.yueyang.gov.cn/tjgb/content_2380060.html",
+      "publishedAt": "2026-04-30",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年岳阳，全体居民 38534元/人/年；城镇居民 47548元/人/年；农村居民 25895元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "430600-2025-disposable-urban",
+    "region": "430600",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 47548,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "岳阳全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "岳阳市2025年国民经济和社会发展统计公报",
+      "url": "https://www.yueyang.gov.cn/tjgb/content_2380060.html",
+      "publishedAt": "2026-04-30",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年岳阳，全体居民 38534元/人/年；城镇居民 47548元/人/年；农村居民 25895元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "430600-2025-disposable-rural",
+    "region": "430600",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 25895,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "岳阳全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "岳阳市2025年国民经济和社会发展统计公报",
+      "url": "https://www.yueyang.gov.cn/tjgb/content_2380060.html",
+      "publishedAt": "2026-04-30",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年岳阳，全体居民 38534元/人/年；城镇居民 47548元/人/年；农村居民 25895元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "411300-2025-disposable-all",
+    "region": "411300",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 32012,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "南阳全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年南阳市国民经济和社会发展统计公报",
+      "url": "https://tj.nanyang.gov.cn/2026/04-20/1398809.html",
+      "publishedAt": "2026-04-20",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年南阳，全体居民 32012元/人/年；城镇居民 43685元/人/年；农村居民 23177元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "411300-2025-disposable-urban",
+    "region": "411300",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 43685,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "南阳全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年南阳市国民经济和社会发展统计公报",
+      "url": "https://tj.nanyang.gov.cn/2026/04-20/1398809.html",
+      "publishedAt": "2026-04-20",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年南阳，全体居民 32012元/人/年；城镇居民 43685元/人/年；农村居民 23177元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "411300-2025-disposable-rural",
+    "region": "411300",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 23177,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "南阳全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年南阳市国民经济和社会发展统计公报",
+      "url": "https://tj.nanyang.gov.cn/2026/04-20/1398809.html",
+      "publishedAt": "2026-04-20",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年南阳，全体居民 32012元/人/年；城镇居民 43685元/人/年；农村居民 23177元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "130600-2025-disposable-all",
+    "region": "130600",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 35137,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "保定调查队发布的全市常住居民全年收入，按当地调查范围；不将GDP中雄安新区、定州市等管理范围变动自动套入收入。",
+    "source": {
+      "title": "保定市政府新闻办“2025年保定经济运行情况”新闻发布会实录",
+      "url": "https://www.baoding.gov.cn/xwfbhcon-1061-538495.html",
+      "publishedAt": "2026-01-23",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年保定，全体居民 35137元/人/年；城镇居民 44900元/人/年；农村居民 24283元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "130600-2025-disposable-urban",
+    "region": "130600",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 44900,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "保定调查队发布的全市常住居民全年收入，按当地调查范围；不将GDP中雄安新区、定州市等管理范围变动自动套入收入。",
+    "source": {
+      "title": "保定市政府新闻办“2025年保定经济运行情况”新闻发布会实录",
+      "url": "https://www.baoding.gov.cn/xwfbhcon-1061-538495.html",
+      "publishedAt": "2026-01-23",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年保定，全体居民 35137元/人/年；城镇居民 44900元/人/年；农村居民 24283元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "130600-2025-disposable-rural",
+    "region": "130600",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 24283,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "保定调查队发布的全市常住居民全年收入，按当地调查范围；不将GDP中雄安新区、定州市等管理范围变动自动套入收入。",
+    "source": {
+      "title": "保定市政府新闻办“2025年保定经济运行情况”新闻发布会实录",
+      "url": "https://www.baoding.gov.cn/xwfbhcon-1061-538495.html",
+      "publishedAt": "2026-01-23",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年保定，全体居民 35137元/人/年；城镇居民 44900元/人/年；农村居民 24283元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "321100-2025-disposable-all",
+    "region": "321100",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 61387,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "镇江全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年镇江市国民经济和社会发展统计公报",
+      "url": "https://tjj.zhenjiang.gov.cn/tjj/tjgb/202605/08c976733fe441c2b622a0ba227fa2bc.shtml",
+      "publishedAt": "2026-05-27",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年镇江，全体居民 61387元/人/年；城镇居民 70800元/人/年；农村居民 39847元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "321100-2025-disposable-urban",
+    "region": "321100",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 70800,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "镇江全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年镇江市国民经济和社会发展统计公报",
+      "url": "https://tjj.zhenjiang.gov.cn/tjj/tjgb/202605/08c976733fe441c2b622a0ba227fa2bc.shtml",
+      "publishedAt": "2026-05-27",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年镇江，全体居民 61387元/人/年；城镇居民 70800元/人/年；农村居民 39847元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "321100-2025-disposable-rural",
+    "region": "321100",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 39847,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "镇江全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年镇江市国民经济和社会发展统计公报",
+      "url": "https://tjj.zhenjiang.gov.cn/tjj/tjgb/202605/08c976733fe441c2b622a0ba227fa2bc.shtml",
+      "publishedAt": "2026-05-27",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年镇江，全体居民 61387元/人/年；城镇居民 70800元/人/年；农村居民 39847元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "321100-2025-wage-nonPrivate",
+    "region": "321100",
+    "year": 2025,
+    "metric": "wage",
+    "population": "nonPrivate",
+    "value": 118451,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "镇江全行政区域对应城镇单位就业人员全年税前平均工资，区别于在岗职工与规模以上单位口径。",
+    "source": {
+      "title": "2025年镇江市城镇非私营单位年平均工资统计公报",
+      "url": "https://tjj.zhenjiang.gov.cn/tjj/tjgb/202607/5b51af4212074c7d967c4f22c7641c4a.shtml",
+      "publishedAt": "2026-07-09",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年镇江，非私营单位 118451元/人/年。指标为就业人员税前年平均工资，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "441300-2025-wage-private",
+    "region": "441300",
+    "year": 2025,
+    "metric": "wage",
+    "population": "private",
+    "value": 71097,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "惠州全行政区域对应城镇单位就业人员全年税前平均工资，区别于在岗职工与规模以上单位口径。",
+    "source": {
+      "title": "2025年惠州市城镇单位就业人员年平均工资情况",
+      "url": "https://www.huizhou.gov.cn/bmpd/hzstjj/tjsj/content/post_5803251.html",
+      "publishedAt": "2026-07-02",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年惠州，私营单位 71097元/人/年；非私营单位 113649元/人/年。指标为就业人员税前年平均工资，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "441300-2025-wage-nonPrivate",
+    "region": "441300",
+    "year": 2025,
+    "metric": "wage",
+    "population": "nonPrivate",
+    "value": 113649,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "惠州全行政区域对应城镇单位就业人员全年税前平均工资，区别于在岗职工与规模以上单位口径。",
+    "source": {
+      "title": "2025年惠州市城镇单位就业人员年平均工资情况",
+      "url": "https://www.huizhou.gov.cn/bmpd/hzstjj/tjsj/content/post_5803251.html",
+      "publishedAt": "2026-07-02",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年惠州，私营单位 71097元/人/年；非私营单位 113649元/人/年。指标为就业人员税前年平均工资，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "150200-2025-disposable-all",
+    "region": "150200",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 59067,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "全市常住居民全年收入；农村为农村牧区常住居民。",
+    "source": {
+      "title": "包头市2025年国民经济和社会发展统计公报",
+      "url": "https://tjj.baotou.gov.cn/tjyw/tjgb/202604/t20260424_896820.html",
+      "publishedAt": "2026-04-24",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年包头，全体居民 59067元/人/年；城镇居民 63083元/人/年；农村居民 28609元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "150200-2025-disposable-urban",
+    "region": "150200",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 63083,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "全市常住居民全年收入；农村为农村牧区常住居民。",
+    "source": {
+      "title": "包头市2025年国民经济和社会发展统计公报",
+      "url": "https://tjj.baotou.gov.cn/tjyw/tjgb/202604/t20260424_896820.html",
+      "publishedAt": "2026-04-24",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年包头，全体居民 59067元/人/年；城镇居民 63083元/人/年；农村居民 28609元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "150200-2025-disposable-rural",
+    "region": "150200",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 28609,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "全市常住居民全年收入；农村为农村牧区常住居民。",
+    "source": {
+      "title": "包头市2025年国民经济和社会发展统计公报",
+      "url": "https://tjj.baotou.gov.cn/tjyw/tjgb/202604/t20260424_896820.html",
+      "publishedAt": "2026-04-24",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年包头，全体居民 59067元/人/年；城镇居民 63083元/人/年；农村居民 28609元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "650100-2025-disposable-urban",
+    "region": "650100",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 54575,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "乌鲁木齐全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "乌鲁木齐市2025年国民经济和社会发展统计公报",
+      "url": "https://www.wlmq.gov.cn/wlmqs/c119359/202604/6070ed21632343cca95db20395862469.shtml",
+      "publishedAt": "2026-04",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年乌鲁木齐，城镇居民 54575元/人/年；农村居民 33181元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "650100-2025-disposable-rural",
+    "region": "650100",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 33181,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "乌鲁木齐全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "乌鲁木齐市2025年国民经济和社会发展统计公报",
+      "url": "https://www.wlmq.gov.cn/wlmqs/c119359/202604/6070ed21632343cca95db20395862469.shtml",
+      "publishedAt": "2026-04",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年乌鲁木齐，城镇居民 54575元/人/年；农村居民 33181元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "430700-2025-disposable-all",
+    "region": "430700",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 35565,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "全市常住居民全年累计指标，非12月单月收入；采用市统计局全年表农村25495元，市政府转载新闻曾写25496元，来源差异不混用。",
+    "source": {
+      "title": "2025年12月全市主要经济指标",
+      "url": "https://tjj.changde.gov.cn/zwgk/public/6617368/3675036661.html",
+      "publishedAt": "2026-02-02",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年常德，全体居民 35565元/人/年；城镇居民 45683元/人/年；农村居民 25495元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "430700-2025-disposable-urban",
+    "region": "430700",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 45683,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "全市常住居民全年累计指标，非12月单月收入；采用市统计局全年表农村25495元，市政府转载新闻曾写25496元，来源差异不混用。",
+    "source": {
+      "title": "2025年12月全市主要经济指标",
+      "url": "https://tjj.changde.gov.cn/zwgk/public/6617368/3675036661.html",
+      "publishedAt": "2026-02-02",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年常德，全体居民 35565元/人/年；城镇居民 45683元/人/年；农村居民 25495元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "430700-2025-disposable-rural",
+    "region": "430700",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 25495,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "全市常住居民全年累计指标，非12月单月收入；采用市统计局全年表农村25495元，市政府转载新闻曾写25496元，来源差异不混用。",
+    "source": {
+      "title": "2025年12月全市主要经济指标",
+      "url": "https://tjj.changde.gov.cn/zwgk/public/6617368/3675036661.html",
+      "publishedAt": "2026-02-02",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年常德，全体居民 35565元/人/年；城镇居民 45683元/人/年；农村居民 25495元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "440700-2025-disposable-all",
+    "region": "440700",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 44524,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "江门全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年江门市国民经济和社会发展统计公报",
+      "url": "https://www.jiangmen.gov.cn/home/tzgg/content/post_3494860.html",
+      "publishedAt": "2026-05-22",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年江门，全体居民 44524元/人/年；城镇居民 51434元/人/年；农村居民 29101元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "440700-2025-disposable-urban",
+    "region": "440700",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 51434,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "江门全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年江门市国民经济和社会发展统计公报",
+      "url": "https://www.jiangmen.gov.cn/home/tzgg/content/post_3494860.html",
+      "publishedAt": "2026-05-22",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年江门，全体居民 44524元/人/年；城镇居民 51434元/人/年；农村居民 29101元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "440700-2025-disposable-rural",
+    "region": "440700",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 29101,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "江门全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年江门市国民经济和社会发展统计公报",
+      "url": "https://www.jiangmen.gov.cn/home/tzgg/content/post_3494860.html",
+      "publishedAt": "2026-05-22",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年江门，全体居民 44524元/人/年；城镇居民 51434元/人/年；农村居民 29101元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "442000-2025-disposable-all",
+    "region": "442000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 66837,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "中山全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年中山市国民经济和社会发展统计公报",
+      "url": "https://www.zs.gov.cn/zwgk/sjfb/tjgb/content/mpost_2617216.html",
+      "publishedAt": "2026-05-28",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年中山，全体居民 66837元/人/年；城镇居民 69138元/人/年；农村居民 50326元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "442000-2025-disposable-urban",
+    "region": "442000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 69138,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "中山全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年中山市国民经济和社会发展统计公报",
+      "url": "https://www.zs.gov.cn/zwgk/sjfb/tjgb/content/mpost_2617216.html",
+      "publishedAt": "2026-05-28",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年中山，全体居民 66837元/人/年；城镇居民 69138元/人/年；农村居民 50326元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "442000-2025-disposable-rural",
+    "region": "442000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 50326,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "中山全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年中山市国民经济和社会发展统计公报",
+      "url": "https://www.zs.gov.cn/zwgk/sjfb/tjgb/content/mpost_2617216.html",
+      "publishedAt": "2026-05-28",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年中山，全体居民 66837元/人/年；城镇居民 69138元/人/年；农村居民 50326元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "350900-2025-disposable-all",
+    "region": "350900",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 39204,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "宁德全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年宁德GDP超4200亿元 增长7.5%",
+      "url": "https://gxt.fujian.gov.cn/zwgk/xw/hydt/snhydt/202602/t20260202_7088048.htm",
+      "publishedAt": "2026-02-02",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年宁德，全体居民 39204元/人/年；城镇居民 48730元/人/年；农村居民 27934元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "350900-2025-disposable-urban",
+    "region": "350900",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 48730,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "宁德全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年宁德GDP超4200亿元 增长7.5%",
+      "url": "https://gxt.fujian.gov.cn/zwgk/xw/hydt/snhydt/202602/t20260202_7088048.htm",
+      "publishedAt": "2026-02-02",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年宁德，全体居民 39204元/人/年；城镇居民 48730元/人/年；农村居民 27934元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "350900-2025-disposable-rural",
+    "region": "350900",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 27934,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "宁德全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年宁德GDP超4200亿元 增长7.5%",
+      "url": "https://gxt.fujian.gov.cn/zwgk/xw/hydt/snhydt/202602/t20260202_7088048.htm",
+      "publishedAt": "2026-02-02",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年宁德，全体居民 39204元/人/年；城镇居民 48730元/人/年；农村居民 27934元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "440800-2025-disposable-all",
+    "region": "440800",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 32336,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "湛江全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年湛江市国民经济和社会发展统计公报",
+      "url": "https://www.zhanjiang.gov.cn/zwgk/sjfb/tjgb/content/mpost_2172272.html",
+      "publishedAt": "2026-04-23",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年湛江，全体居民 32336元/人/年；城镇居民 39943元/人/年；农村居民 25145元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "440800-2025-disposable-urban",
+    "region": "440800",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 39943,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "湛江全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年湛江市国民经济和社会发展统计公报",
+      "url": "https://www.zhanjiang.gov.cn/zwgk/sjfb/tjgb/content/mpost_2172272.html",
+      "publishedAt": "2026-04-23",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年湛江，全体居民 32336元/人/年；城镇居民 39943元/人/年；农村居民 25145元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "440800-2025-disposable-rural",
+    "region": "440800",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 25145,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "湛江全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年湛江市国民经济和社会发展统计公报",
+      "url": "https://www.zhanjiang.gov.cn/zwgk/sjfb/tjgb/content/mpost_2172272.html",
+      "publishedAt": "2026-04-23",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年湛江，全体居民 32336元/人/年；城镇居民 39943元/人/年；农村居民 25145元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "370900-2025-disposable-all",
+    "region": "370900",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 41652,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "泰安全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年泰安市国民经济和社会发展统计公报",
+      "url": "https://tjj.taian.gov.cn/art/2026/4/28/art_167293_10300912.html?xxgkhide=1",
+      "publishedAt": "2026-04-28",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年泰安，全体居民 41652元/人/年；城镇居民 50467元/人/年；农村居民 27976元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "370900-2025-disposable-urban",
+    "region": "370900",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 50467,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "泰安全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年泰安市国民经济和社会发展统计公报",
+      "url": "https://tjj.taian.gov.cn/art/2026/4/28/art_167293_10300912.html?xxgkhide=1",
+      "publishedAt": "2026-04-28",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年泰安，全体居民 41652元/人/年；城镇居民 50467元/人/年；农村居民 27976元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "370900-2025-disposable-rural",
+    "region": "370900",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 27976,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "泰安全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年泰安市国民经济和社会发展统计公报",
+      "url": "https://tjj.taian.gov.cn/art/2026/4/28/art_167293_10300912.html?xxgkhide=1",
+      "publishedAt": "2026-04-28",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年泰安，全体居民 41652元/人/年；城镇居民 50467元/人/年；农村居民 27976元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "530300-2025-disposable-rural",
+    "region": "530300",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 21281,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "曲靖全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "曲靖市推动高原特色农业高质量发展——沃野多良田 乡村景色新",
+      "url": "https://nync.yn.gov.cn/html/2026/zhoushilianbo-new_0918/1428849.html",
+      "publishedAt": "2026-09-18",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年曲靖，农村居民 21281元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "411600-2025-disposable-rural",
+    "region": "411600",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 18657,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "周口全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "周口农村居民人均可支配收入跃上新台阶",
+      "url": "https://www.zhoukou.gov.cn/page_pc/zwgk/zdlygk/xczx/articlefdf2f578101d4652bdc20cd802395947.html",
+      "publishedAt": "2026-02-03",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年周口，农村居民 18657元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "440400-2024-disposable-all",
+    "region": "440400",
+    "year": 2024,
+    "metric": "disposable",
+    "population": "all",
+    "value": 67315.1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "珠海全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "广东统计年鉴2025：表10-5、10-12、10-19各市居民人均可支配收入",
+      "url": "https://stats.gd.gov.cn/gdtjnj/content/post_4810393.html",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验官方年鉴光盘ZIP内directory/10/html/10-05.htm、10-12.htm、10-19.htm的2024年末列：珠海全体67315.1元，城镇70051.6元，农村40077.2元。年鉴2025为出版年，统计年度为2024。"
+    }
+  },
+  {
+    "id": "440400-2024-disposable-urban",
+    "region": "440400",
+    "year": 2024,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 70051.6,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "珠海全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "广东统计年鉴2025：表10-5、10-12、10-19各市居民人均可支配收入",
+      "url": "https://stats.gd.gov.cn/gdtjnj/content/post_4810393.html",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验官方年鉴光盘ZIP内directory/10/html/10-05.htm、10-12.htm、10-19.htm的2024年末列：珠海全体67315.1元，城镇70051.6元，农村40077.2元。年鉴2025为出版年，统计年度为2024。"
+    }
+  },
+  {
+    "id": "440400-2024-disposable-rural",
+    "region": "440400",
+    "year": 2024,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 40077.2,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "珠海全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "广东统计年鉴2025：表10-5、10-12、10-19各市居民人均可支配收入",
+      "url": "https://stats.gd.gov.cn/gdtjnj/content/post_4810393.html",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验官方年鉴光盘ZIP内directory/10/html/10-05.htm、10-12.htm、10-19.htm的2024年末列：珠海全体67315.1元，城镇70051.6元，农村40077.2元。年鉴2025为出版年，统计年度为2024。"
+    }
+  },
+  {
+    "id": "441300-2024-disposable-all",
+    "region": "441300",
+    "year": 2024,
+    "metric": "disposable",
+    "population": "all",
+    "value": 48579.3,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "惠州全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "广东统计年鉴2025：表10-5、10-12、10-19各市居民人均可支配收入",
+      "url": "https://stats.gd.gov.cn/gdtjnj/content/post_4810393.html",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验官方年鉴光盘ZIP内directory/10/html/10-05.htm、10-12.htm、10-19.htm的2024年末列：惠州全体48579.3元，城镇54572元，农村32126元。年鉴2025为出版年，统计年度为2024。"
+    }
+  },
+  {
+    "id": "441300-2024-disposable-urban",
+    "region": "441300",
+    "year": 2024,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 54572,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "惠州全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "广东统计年鉴2025：表10-5、10-12、10-19各市居民人均可支配收入",
+      "url": "https://stats.gd.gov.cn/gdtjnj/content/post_4810393.html",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验官方年鉴光盘ZIP内directory/10/html/10-05.htm、10-12.htm、10-19.htm的2024年末列：惠州全体48579.3元，城镇54572元，农村32126元。年鉴2025为出版年，统计年度为2024。"
+    }
+  },
+  {
+    "id": "441300-2024-disposable-rural",
+    "region": "441300",
+    "year": 2024,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 32126,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "惠州全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "广东统计年鉴2025：表10-5、10-12、10-19各市居民人均可支配收入",
+      "url": "https://stats.gd.gov.cn/gdtjnj/content/post_4810393.html",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验官方年鉴光盘ZIP内directory/10/html/10-05.htm、10-12.htm、10-19.htm的2024年末列：惠州全体48579.3元，城镇54572元，农村32126元。年鉴2025为出版年，统计年度为2024。"
+    }
+  },
+  {
+    "id": "440900-2024-disposable-all",
+    "region": "440900",
+    "year": 2024,
+    "metric": "disposable",
+    "population": "all",
+    "value": 30519.5,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "茂名全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "广东统计年鉴2025：表10-5、10-12、10-19各市居民人均可支配收入",
+      "url": "https://stats.gd.gov.cn/gdtjnj/content/post_4810393.html",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验官方年鉴光盘ZIP内directory/10/html/10-05.htm、10-12.htm、10-19.htm的2024年末列：茂名全体30519.5元，城镇36624元，农村25036.1元。年鉴2025为出版年，统计年度为2024。"
+    }
+  },
+  {
+    "id": "440900-2024-disposable-urban",
+    "region": "440900",
+    "year": 2024,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 36624,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "茂名全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "广东统计年鉴2025：表10-5、10-12、10-19各市居民人均可支配收入",
+      "url": "https://stats.gd.gov.cn/gdtjnj/content/post_4810393.html",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验官方年鉴光盘ZIP内directory/10/html/10-05.htm、10-12.htm、10-19.htm的2024年末列：茂名全体30519.5元，城镇36624元，农村25036.1元。年鉴2025为出版年，统计年度为2024。"
+    }
+  },
+  {
+    "id": "440900-2024-disposable-rural",
+    "region": "440900",
+    "year": 2024,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 25036.1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "茂名全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "广东统计年鉴2025：表10-5、10-12、10-19各市居民人均可支配收入",
+      "url": "https://stats.gd.gov.cn/gdtjnj/content/post_4810393.html",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验官方年鉴光盘ZIP内directory/10/html/10-05.htm、10-12.htm、10-19.htm的2024年末列：茂名全体30519.5元，城镇36624元，农村25036.1元。年鉴2025为出版年，统计年度为2024。"
+    }
+  },
+  {
+    "id": "420600-2025-disposable-all",
+    "region": "420600",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 41785,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "襄阳全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年襄阳市国民经济和社会发展统计公报",
+      "url": "https://tjj.hubei.gov.cn/tjsj/tjgb/ndtjgb/sztjgb/202606/P020260629418775557072.docx",
+      "publishedAt": "2026-06-29",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年襄阳，全体居民 41785元/人/年；城镇居民 50412元/人/年；农村居民 27078元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "420600-2025-disposable-urban",
+    "region": "420600",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 50412,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "襄阳全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年襄阳市国民经济和社会发展统计公报",
+      "url": "https://tjj.hubei.gov.cn/tjsj/tjgb/ndtjgb/sztjgb/202606/P020260629418775557072.docx",
+      "publishedAt": "2026-06-29",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年襄阳，全体居民 41785元/人/年；城镇居民 50412元/人/年；农村居民 27078元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "420600-2025-disposable-rural",
+    "region": "420600",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 27078,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "襄阳全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年襄阳市国民经济和社会发展统计公报",
+      "url": "https://tjj.hubei.gov.cn/tjsj/tjgb/ndtjgb/sztjgb/202606/P020260629418775557072.docx",
+      "publishedAt": "2026-06-29",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年襄阳，全体居民 41785元/人/年；城镇居民 50412元/人/年；农村居民 27078元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "421000-2025-disposable-all",
+    "region": "421000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 38684,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "荆州全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "荆州市2025年国民经济和社会发展统计公报",
+      "url": "https://tjj.hubei.gov.cn/tjsj/tjgb/ndtjgb/sztjgb/202605/P020260508383487119307.pdf",
+      "publishedAt": "2026-05-08",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年荆州，全体居民 38684元/人/年；城镇居民 46713元/人/年；农村居民 27658元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "421000-2025-disposable-urban",
+    "region": "421000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 46713,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "荆州全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "荆州市2025年国民经济和社会发展统计公报",
+      "url": "https://tjj.hubei.gov.cn/tjsj/tjgb/ndtjgb/sztjgb/202605/P020260508383487119307.pdf",
+      "publishedAt": "2026-05-08",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年荆州，全体居民 38684元/人/年；城镇居民 46713元/人/年；农村居民 27658元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "421000-2025-disposable-rural",
+    "region": "421000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 27658,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "荆州全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "荆州市2025年国民经济和社会发展统计公报",
+      "url": "https://tjj.hubei.gov.cn/tjsj/tjgb/ndtjgb/sztjgb/202605/P020260508383487119307.pdf",
+      "publishedAt": "2026-05-08",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年荆州，全体居民 38684元/人/年；城镇居民 46713元/人/年；农村居民 27658元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "370800-2025-disposable-all",
+    "region": "370800",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 39778,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "济宁全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年济宁市国民经济和社会发展统计公报",
+      "url": "https://www.jining.gov.cn/attach/0/a49b5e618839426e9a91e5779026b236.pdf",
+      "publishedAt": "2026-04-01",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年济宁，全体居民 39778元/人/年；城镇居民 49825元/人/年；农村居民 26765元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "370800-2025-disposable-urban",
+    "region": "370800",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 49825,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "济宁全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年济宁市国民经济和社会发展统计公报",
+      "url": "https://www.jining.gov.cn/attach/0/a49b5e618839426e9a91e5779026b236.pdf",
+      "publishedAt": "2026-04-01",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年济宁，全体居民 39778元/人/年；城镇居民 49825元/人/年；农村居民 26765元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "370800-2025-disposable-rural",
+    "region": "370800",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 26765,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "济宁全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年济宁市国民经济和社会发展统计公报",
+      "url": "https://www.jining.gov.cn/attach/0/a49b5e618839426e9a91e5779026b236.pdf",
+      "publishedAt": "2026-04-01",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年济宁，全体居民 39778元/人/年；城镇居民 49825元/人/年；农村居民 26765元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "370300-2025-disposable-all",
+    "region": "370300",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 52062,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "淄博全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年淄博市国民经济和社会发展统计公报",
+      "url": "https://tj.zibo.gov.cn/gongkai/channel_c_5f9fa491ab327f36e4c13077_n_1605682680.3204/doc_69d4a9fb40b23975bdc7abd6_a638ca10b9c6a0ca4e54246140e73599.pdf",
+      "publishedAt": "2026-04-07",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年淄博，全体居民 52062元/人/年；城镇居民 60143元/人/年；农村居民 29288元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "370300-2025-disposable-urban",
+    "region": "370300",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 60143,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "淄博全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年淄博市国民经济和社会发展统计公报",
+      "url": "https://tj.zibo.gov.cn/gongkai/channel_c_5f9fa491ab327f36e4c13077_n_1605682680.3204/doc_69d4a9fb40b23975bdc7abd6_a638ca10b9c6a0ca4e54246140e73599.pdf",
+      "publishedAt": "2026-04-07",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年淄博，全体居民 52062元/人/年；城镇居民 60143元/人/年；农村居民 29288元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "370300-2025-disposable-rural",
+    "region": "370300",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 29288,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "淄博全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年淄博市国民经济和社会发展统计公报",
+      "url": "https://tj.zibo.gov.cn/gongkai/channel_c_5f9fa491ab327f36e4c13077_n_1605682680.3204/doc_69d4a9fb40b23975bdc7abd6_a638ca10b9c6a0ca4e54246140e73599.pdf",
+      "publishedAt": "2026-04-07",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年淄博，全体居民 52062元/人/年；城镇居民 60143元/人/年；农村居民 29288元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "450100-2025-disposable-all",
+    "region": "450100",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 39659,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "南宁全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年南宁市国民经济和社会发展统计公报",
+      "url": "https://tj.nanning.gov.cn/tjsj/tjgb/t6627301.html",
+      "publishedAt": "2026-05-22",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年南宁，全体居民 39659元/人/年；城镇居民 48375元/人/年；农村居民 23146元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "450100-2025-disposable-urban",
+    "region": "450100",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 48375,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "南宁全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年南宁市国民经济和社会发展统计公报",
+      "url": "https://tj.nanning.gov.cn/tjsj/tjgb/t6627301.html",
+      "publishedAt": "2026-05-22",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年南宁，全体居民 39659元/人/年；城镇居民 48375元/人/年；农村居民 23146元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "450100-2025-disposable-rural",
+    "region": "450100",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 23146,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "南宁全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年南宁市国民经济和社会发展统计公报",
+      "url": "https://tj.nanning.gov.cn/tjsj/tjgb/t6627301.html",
+      "publishedAt": "2026-05-22",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年南宁，全体居民 39659元/人/年；城镇居民 48375元/人/年；农村居民 23146元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "341100-2025-disposable-all",
+    "region": "341100",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 35867,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "滁州全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "滁州市2025年国民经济和社会发展统计公报",
+      "url": "https://tjj.chuzhou.gov.cn/sjfb/tjgb/czs/1104471466.html",
+      "publishedAt": "2026-07-24",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年滁州，全体居民 35867元/人/年；城镇居民 47374元/人/年；农村居民 22734元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "341100-2025-disposable-urban",
+    "region": "341100",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 47374,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "滁州全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "滁州市2025年国民经济和社会发展统计公报",
+      "url": "https://tjj.chuzhou.gov.cn/sjfb/tjgb/czs/1104471466.html",
+      "publishedAt": "2026-07-24",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年滁州，全体居民 35867元/人/年；城镇居民 47374元/人/年；农村居民 22734元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "341100-2025-disposable-rural",
+    "region": "341100",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 22734,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "滁州全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "滁州市2025年国民经济和社会发展统计公报",
+      "url": "https://tjj.chuzhou.gov.cn/sjfb/tjgb/czs/1104471466.html",
+      "publishedAt": "2026-07-24",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年滁州，全体居民 35867元/人/年；城镇居民 47374元/人/年；农村居民 22734元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "341200-2025-disposable-all",
+    "region": "341200",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 30113,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "阜阳全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "阜阳市2025年国民经济和社会发展统计公报",
+      "url": "https://tjj.fy.gov.cn/Content/show/1299748.html",
+      "publishedAt": "2026-06-15",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年阜阳，全体居民 30113元/人/年；城镇居民 44777元/人/年；农村居民 20644元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "341200-2025-disposable-urban",
+    "region": "341200",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 44777,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "阜阳全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "阜阳市2025年国民经济和社会发展统计公报",
+      "url": "https://tjj.fy.gov.cn/Content/show/1299748.html",
+      "publishedAt": "2026-06-15",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年阜阳，全体居民 30113元/人/年；城镇居民 44777元/人/年；农村居民 20644元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "341200-2025-disposable-rural",
+    "region": "341200",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 20644,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "阜阳全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "阜阳市2025年国民经济和社会发展统计公报",
+      "url": "https://tjj.fy.gov.cn/Content/show/1299748.html",
+      "publishedAt": "2026-06-15",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年阜阳，全体居民 30113元/人/年；城镇居民 44777元/人/年；农村居民 20644元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "361100-2025-disposable-all",
+    "region": "361100",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 37143,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "上饶全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年上饶市国民经济和社会发展统计公报",
+      "url": "https://tjj.zgsr.gov.cn/tjj/ndtjgb/202604/26a427c58672438d83de37556a6a6b42.shtml",
+      "publishedAt": "2026-04-28",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年上饶，全体居民 37143元/人/年；城镇居民 51277元/人/年；农村居民 22810元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "361100-2025-disposable-urban",
+    "region": "361100",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 51277,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "上饶全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年上饶市国民经济和社会发展统计公报",
+      "url": "https://tjj.zgsr.gov.cn/tjj/ndtjgb/202604/26a427c58672438d83de37556a6a6b42.shtml",
+      "publishedAt": "2026-04-28",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年上饶，全体居民 37143元/人/年；城镇居民 51277元/人/年；农村居民 22810元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "361100-2025-disposable-rural",
+    "region": "361100",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 22810,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "上饶全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年上饶市国民经济和社会发展统计公报",
+      "url": "https://tjj.zgsr.gov.cn/tjj/ndtjgb/202604/26a427c58672438d83de37556a6a6b42.shtml",
+      "publishedAt": "2026-04-28",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年上饶，全体居民 37143元/人/年；城镇居民 51277元/人/年；农村居民 22810元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "520300-2025-disposable-urban",
+    "region": "520300",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 48227,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "遵义全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年遵义市国民经济和社会发展统计公报",
+      "url": "https://tjj.zunyi.gov.cn/zfxxgk/fdzdgknr/tjxx_5711466/tjgb_5711467/202605/t20260506_90143351.html",
+      "publishedAt": "2026-05-06",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "官方公报图像第20页人工核验：2025年城镇居民人均可支配收入48227元、农村居民21252元，增长3.7%、5.9%。"
+    }
+  },
+  {
+    "id": "520300-2025-disposable-rural",
+    "region": "520300",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 21252,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "遵义全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年遵义市国民经济和社会发展统计公报",
+      "url": "https://tjj.zunyi.gov.cn/zfxxgk/fdzdgknr/tjxx_5711466/tjgb_5711467/202605/t20260506_90143351.html",
+      "publishedAt": "2026-05-06",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "官方公报图像第20页人工核验：2025年城镇居民人均可支配收入48227元、农村居民21252元，增长3.7%、5.9%。"
+    }
+  },
+  {
+    "id": "511500-2025-disposable-all",
+    "region": "511500",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 36690,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "宜宾全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "宜宾市2025年国民经济和社会发展统计公报",
+      "url": "https://tjj.yibin.gov.cn/sjfb/tjgb/202604/P020260416429904378257.pdf",
+      "publishedAt": "2026-04-16",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年宜宾，全体居民 36690元/人/年；城镇居民 50126元/人/年；农村居民 22852元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "511500-2025-disposable-urban",
+    "region": "511500",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 50126,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "宜宾全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "宜宾市2025年国民经济和社会发展统计公报",
+      "url": "https://tjj.yibin.gov.cn/sjfb/tjgb/202604/P020260416429904378257.pdf",
+      "publishedAt": "2026-04-16",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年宜宾，全体居民 36690元/人/年；城镇居民 50126元/人/年；农村居民 22852元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "511500-2025-disposable-rural",
+    "region": "511500",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 22852,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "宜宾全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "宜宾市2025年国民经济和社会发展统计公报",
+      "url": "https://tjj.yibin.gov.cn/sjfb/tjgb/202604/P020260416429904378257.pdf",
+      "publishedAt": "2026-04-16",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年宜宾，全体居民 36690元/人/年；城镇居民 50126元/人/年；农村居民 22852元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "511500-2025-wage-nonPrivate",
+    "region": "511500",
+    "year": 2025,
+    "metric": "wage",
+    "population": "nonPrivate",
+    "value": 108880,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "宜宾全行政区域对应城镇单位就业人员全年税前平均工资，区别于在岗职工与规模以上单位口径。",
+    "source": {
+      "title": "宜宾市统计局关于发布2025年全市城镇单位就业人员平均工资的公告",
+      "url": "https://tjj.yibin.gov.cn/tzgg/202607/t20260706_2240009.html",
+      "publishedAt": "2026-07-06",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年宜宾，非私营单位 108880元/人/年；私营单位 60677元/人/年。指标为就业人员税前年平均工资，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "511500-2025-wage-private",
+    "region": "511500",
+    "year": 2025,
+    "metric": "wage",
+    "population": "private",
+    "value": 60677,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "宜宾全行政区域对应城镇单位就业人员全年税前平均工资，区别于在岗职工与规模以上单位口径。",
+    "source": {
+      "title": "宜宾市统计局关于发布2025年全市城镇单位就业人员平均工资的公告",
+      "url": "https://tjj.yibin.gov.cn/tzgg/202607/t20260706_2240009.html",
+      "publishedAt": "2026-07-06",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年宜宾，非私营单位 108880元/人/年；私营单位 60677元/人/年。指标为就业人员税前年平均工资，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "360400-2025-disposable-urban",
+    "region": "360400",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 51298,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "九江全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "九江市2025年国民经济和社会发展统计公报",
+      "url": "https://tjj.jiujiang.gov.cn/zwgk/tjxx/tjgb/202605/P020260529360111000821.pdf",
+      "publishedAt": "2026-05-29",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年九江，城镇居民 51298元/人/年；农村居民 24171元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "360400-2025-disposable-rural",
+    "region": "360400",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 24171,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "九江全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "九江市2025年国民经济和社会发展统计公报",
+      "url": "https://tjj.jiujiang.gov.cn/zwgk/tjxx/tjgb/202605/P020260529360111000821.pdf",
+      "publishedAt": "2026-05-29",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年九江，城镇居民 51298元/人/年；农村居民 24171元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "370700-2025-disposable-all",
+    "region": "370700",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 45794,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "潍坊全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年潍坊市国民经济和社会发展统计公报",
+      "url": "https://tjj.weifang.gov.cn/55356/1306569853.html",
+      "publishedAt": "2026-03-25",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年潍坊，全体居民 45794元/人/年；城镇居民 55875元/人/年；农村居民 30643元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "370700-2025-disposable-urban",
+    "region": "370700",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 55875,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "潍坊全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年潍坊市国民经济和社会发展统计公报",
+      "url": "https://tjj.weifang.gov.cn/55356/1306569853.html",
+      "publishedAt": "2026-03-25",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年潍坊，全体居民 45794元/人/年；城镇居民 55875元/人/年；农村居民 30643元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "370700-2025-disposable-rural",
+    "region": "370700",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 30643,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "潍坊全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年潍坊市国民经济和社会发展统计公报",
+      "url": "https://tjj.weifang.gov.cn/55356/1306569853.html",
+      "publishedAt": "2026-03-25",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年潍坊，全体居民 45794元/人/年；城镇居民 55875元/人/年；农村居民 30643元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "130900-2025-disposable-all",
+    "region": "130900",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 36214,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "沧州全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "沧州市2025年国民经济和社会发展统计公报（第10页）",
+      "url": "https://tj.cangzhou.gov.cn/tj/c101223/202606/cbc9ef5e312d44e78fd1ca7b1a4de1e4/files/cec1a29213c442489883f629ab0f77e0.pdf",
+      "publishedAt": "2026-06-10",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年沧州，全体居民 36214元/人/年；城镇居民 48490元/人/年；农村居民 22497元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "130900-2025-disposable-urban",
+    "region": "130900",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 48490,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "沧州全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "沧州市2025年国民经济和社会发展统计公报（第10页）",
+      "url": "https://tj.cangzhou.gov.cn/tj/c101223/202606/cbc9ef5e312d44e78fd1ca7b1a4de1e4/files/cec1a29213c442489883f629ab0f77e0.pdf",
+      "publishedAt": "2026-06-10",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年沧州，全体居民 36214元/人/年；城镇居民 48490元/人/年；农村居民 22497元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "130900-2025-disposable-rural",
+    "region": "130900",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 22497,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "沧州全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "沧州市2025年国民经济和社会发展统计公报（第10页）",
+      "url": "https://tj.cangzhou.gov.cn/tj/c101223/202606/cbc9ef5e312d44e78fd1ca7b1a4de1e4/files/cec1a29213c442489883f629ab0f77e0.pdf",
+      "publishedAt": "2026-06-10",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年沧州，全体居民 36214元/人/年；城镇居民 48490元/人/年；农村居民 22497元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "131000-2025-disposable-all",
+    "region": "131000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 46222,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "廊坊全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "廊坊市2025年国民经济和社会发展统计公报（政府门户附件）",
+      "url": "https://www.lf.gov.cn/UploadFiles/jrlf/2026/6/202606041647452973.pdf",
+      "publishedAt": "2026-06-04",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年廊坊，全体居民 46222元/人/年；城镇居民 58552元/人/年；农村居民 27803元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "131000-2025-disposable-urban",
+    "region": "131000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 58552,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "廊坊全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "廊坊市2025年国民经济和社会发展统计公报（政府门户附件）",
+      "url": "https://www.lf.gov.cn/UploadFiles/jrlf/2026/6/202606041647452973.pdf",
+      "publishedAt": "2026-06-04",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年廊坊，全体居民 46222元/人/年；城镇居民 58552元/人/年；农村居民 27803元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "131000-2025-disposable-rural",
+    "region": "131000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 27803,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "廊坊全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "廊坊市2025年国民经济和社会发展统计公报（政府门户附件）",
+      "url": "https://www.lf.gov.cn/UploadFiles/jrlf/2026/6/202606041647452973.pdf",
+      "publishedAt": "2026-06-04",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年廊坊，全体居民 46222元/人/年；城镇居民 58552元/人/年；农村居民 27803元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "520100-2025-disposable-urban",
+    "region": "520100",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 52778,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "贵阳全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年贵阳市国民经济和社会发展统计公报",
+      "url": "https://tjj.guiyang.gov.cn/2020_zwgk/2020_zdlygk/2020_sjfb/tjgb/202605/t20260509_90153688.html",
+      "publishedAt": "2026-05-09",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年贵阳，城镇居民 52778元/人/年；农村居民 26671元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "520100-2025-disposable-rural",
+    "region": "520100",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 26671,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "贵阳全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年贵阳市国民经济和社会发展统计公报",
+      "url": "https://tjj.guiyang.gov.cn/2020_zwgk/2020_zdlygk/2020_sjfb/tjgb/202605/t20260509_90153688.html",
+      "publishedAt": "2026-05-09",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年贵阳，城镇居民 52778元/人/年；农村居民 26671元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "350600-2024-disposable-urban",
+    "region": "350600",
+    "year": 2024,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 51366,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "漳州全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "福建统计年鉴2025：19-5 城乡居民人均可支配收入（2024年），漳州市行",
+      "url": "https://www.shanghang.gov.cn/bm/tjj/zwgk/tjnj/2025/html/1905.htm",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2024年漳州，城镇居民 51366元/人/年；农村居民 29830元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "350600-2024-disposable-rural",
+    "region": "350600",
+    "year": 2024,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 29830,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "漳州全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "福建统计年鉴2025：19-5 城乡居民人均可支配收入（2024年），漳州市行",
+      "url": "https://www.shanghang.gov.cn/bm/tjj/zwgk/tjnj/2025/html/1905.htm",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2024年漳州，城镇居民 51366元/人/年；农村居民 29830元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "130400-2024-disposable-all",
+    "region": "130400",
+    "year": 2024,
+    "metric": "disposable",
+    "population": "all",
+    "value": 34908,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "邯郸全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "河北统计年鉴2025：6-11 分市居民人均可支配收入，2024列邯郸市行",
+      "url": "https://tjj.hebei.gov.cn/hbstjj/tjnj/2025/zk/html/0611.jpg",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2024年邯郸，全体居民 34908元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "130400-2024-disposable-urban",
+    "region": "130400",
+    "year": 2024,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 44465,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "邯郸全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "河北统计年鉴2025：6-13 分市城镇居民人均可支配收入，2024列邯郸市行",
+      "url": "https://tjj.hebei.gov.cn/hbstjj/tjnj/2025/zk/html/0613.jpg",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2024年邯郸，城镇居民 44465元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "130400-2024-disposable-rural",
+    "region": "130400",
+    "year": 2024,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 23048,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "邯郸全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "河北统计年鉴2025：6-15 分市农村居民人均可支配收入，2024列邯郸市行",
+      "url": "https://tjj.hebei.gov.cn/hbstjj/tjnj/2025/zk/html/0615.jpg",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2024年邯郸，农村居民 23048元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "371000-2025-disposable-all",
+    "region": "371000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 54748,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "威海全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年威海市国民经济和社会发展统计公报（第15页）",
+      "url": "https://tjj.weihai.gov.cn/art/2026/4/17/art_13262_6293511.html",
+      "publishedAt": "2026-04-17",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年威海，全体居民 54748元/人/年；城镇居民 64590元/人/年；农村居民 32619元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "371000-2025-disposable-urban",
+    "region": "371000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 64590,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "威海全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年威海市国民经济和社会发展统计公报（第15页）",
+      "url": "https://tjj.weihai.gov.cn/art/2026/4/17/art_13262_6293511.html",
+      "publishedAt": "2026-04-17",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年威海，全体居民 54748元/人/年；城镇居民 64590元/人/年；农村居民 32619元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "371000-2025-disposable-rural",
+    "region": "371000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 32619,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "威海全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年威海市国民经济和社会发展统计公报（第15页）",
+      "url": "https://tjj.weihai.gov.cn/art/2026/4/17/art_13262_6293511.html",
+      "publishedAt": "2026-04-17",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年威海，全体居民 54748元/人/年；城镇居民 64590元/人/年；农村居民 32619元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "230100-2025-disposable-all",
+    "region": "230100",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 39817,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "哈尔滨全市行政区域常住居民全年人均可支配收入。官方注6明确：城镇、农村居民收入及消费支出口径由市本级改为全市；本公报数值均为全市口径，不与旧市本级序列直接计算同比。",
+    "source": {
+      "title": "2025年哈尔滨市国民经济和社会发展统计公报",
+      "url": "https://www.harbin.gov.cn/haerbin/c104569/202606/c01_1129059.shtml",
+      "publishedAt": "2026-06-03",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年哈尔滨，全体居民 39817元/人/年；城镇居民 46915元/人/年；农村居民 25113元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "230100-2025-disposable-urban",
+    "region": "230100",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 46915,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "哈尔滨全市行政区域常住居民全年人均可支配收入。官方注6明确：城镇、农村居民收入及消费支出口径由市本级改为全市；本公报数值均为全市口径，不与旧市本级序列直接计算同比。",
+    "source": {
+      "title": "2025年哈尔滨市国民经济和社会发展统计公报",
+      "url": "https://www.harbin.gov.cn/haerbin/c104569/202606/c01_1129059.shtml",
+      "publishedAt": "2026-06-03",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年哈尔滨，全体居民 39817元/人/年；城镇居民 46915元/人/年；农村居民 25113元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "230100-2025-disposable-rural",
+    "region": "230100",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 25113,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "哈尔滨全市行政区域常住居民全年人均可支配收入。官方注6明确：城镇、农村居民收入及消费支出口径由市本级改为全市；本公报数值均为全市口径，不与旧市本级序列直接计算同比。",
+    "source": {
+      "title": "2025年哈尔滨市国民经济和社会发展统计公报",
+      "url": "https://www.harbin.gov.cn/haerbin/c104569/202606/c01_1129059.shtml",
+      "publishedAt": "2026-06-03",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年哈尔滨，全体居民 39817元/人/年；城镇居民 46915元/人/年；农村居民 25113元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "140100-2025-disposable-all",
+    "region": "140100",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 46446,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "太原全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "太原市2025年国民经济和社会发展统计公报（居民收入消费和社会保障）",
+      "url": "https://stats.taiyuan.gov.cn/tjgb/20260508/30297226.html",
+      "publishedAt": "2026-05-08",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年太原，全体居民 46446元/人/年；城镇居民 49772元/人/年；农村居民 27016元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "140100-2025-disposable-urban",
+    "region": "140100",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 49772,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "太原全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "太原市2025年国民经济和社会发展统计公报（居民收入消费和社会保障）",
+      "url": "https://stats.taiyuan.gov.cn/tjgb/20260508/30297226.html",
+      "publishedAt": "2026-05-08",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年太原，全体居民 46446元/人/年；城镇居民 49772元/人/年；农村居民 27016元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "140100-2025-disposable-rural",
+    "region": "140100",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 27016,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "太原全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "太原市2025年国民经济和社会发展统计公报（居民收入消费和社会保障）",
+      "url": "https://stats.taiyuan.gov.cn/tjgb/20260508/30297226.html",
+      "publishedAt": "2026-05-08",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年太原，全体居民 46446元/人/年；城镇居民 49772元/人/年；农村居民 27016元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "321300-2025-disposable-all",
+    "region": "321300",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 36531,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "宿迁全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年全市经济稳健发展、提质向新",
+      "url": "https://tjj.suqian.gov.cn/stjj/tzgg/202601/08643cf93a4b49539da99d23398c4948.shtml",
+      "publishedAt": "2026-01-30",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年宿迁，全体居民 36531元/人/年；城镇居民 42789元/人/年；农村居民 27922元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "321300-2025-disposable-urban",
+    "region": "321300",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 42789,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "宿迁全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年全市经济稳健发展、提质向新",
+      "url": "https://tjj.suqian.gov.cn/stjj/tzgg/202601/08643cf93a4b49539da99d23398c4948.shtml",
+      "publishedAt": "2026-01-30",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年宿迁，全体居民 36531元/人/年；城镇居民 42789元/人/年；农村居民 27922元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "321300-2025-disposable-rural",
+    "region": "321300",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 27922,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "宿迁全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年全市经济稳健发展、提质向新",
+      "url": "https://tjj.suqian.gov.cn/stjj/tzgg/202601/08643cf93a4b49539da99d23398c4948.shtml",
+      "publishedAt": "2026-01-30",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年宿迁，全体居民 36531元/人/年；城镇居民 42789元/人/年；农村居民 27922元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "321300-2025-wage-private",
+    "region": "321300",
+    "year": 2025,
+    "metric": "wage",
+    "population": "private",
+    "value": 68118,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "宿迁全行政区域对应城镇单位就业人员全年税前平均工资，区别于在岗职工与规模以上单位口径。",
+    "source": {
+      "title": "2025年宿迁市平均工资稳步增长",
+      "url": "https://tjj.suqian.gov.cn/stjj/tzgg/202607/fd696b7c114c4f17a85bddb5d64117be.shtml",
+      "publishedAt": "2026-07-10",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年宿迁，私营单位 68118元/人/年；非私营单位 100248元/人/年。指标为就业人员税前年平均工资，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "321300-2025-wage-nonPrivate",
+    "region": "321300",
+    "year": 2025,
+    "metric": "wage",
+    "population": "nonPrivate",
+    "value": 100248,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "宿迁全行政区域对应城镇单位就业人员全年税前平均工资，区别于在岗职工与规模以上单位口径。",
+    "source": {
+      "title": "2025年宿迁市平均工资稳步增长",
+      "url": "https://tjj.suqian.gov.cn/stjj/tzgg/202607/fd696b7c114c4f17a85bddb5d64117be.shtml",
+      "publishedAt": "2026-07-10",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年宿迁，私营单位 68118元/人/年；非私营单位 100248元/人/年。指标为就业人员税前年平均工资，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "371400-2025-disposable-urban",
+    "region": "371400",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 38237,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "德州市全市城镇、农村常住居民全年人均可支配收入。政府统计数据图表按2010—2025年度列示，取2025年度对应列，不将增速或历史2014年口径混入；全体居民指标待另行核验。",
+    "source": {
+      "title": "德州市政府数据公开：居民收入图表（2025年度）",
+      "url": "https://www.dezhou.gov.cn/n19182539/n19182546/n42832873/index.html",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年德州，城镇居民 38237元/人/年；农村居民 24276元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "371400-2025-disposable-rural",
+    "region": "371400",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 24276,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "德州市全市城镇、农村常住居民全年人均可支配收入。政府统计数据图表按2010—2025年度列示，取2025年度对应列，不将增速或历史2014年口径混入；全体居民指标待另行核验。",
+    "source": {
+      "title": "德州市政府数据公开：居民收入图表（2025年度）",
+      "url": "https://www.dezhou.gov.cn/n19182539/n19182546/n42832873/index.html",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年德州，城镇居民 38237元/人/年；农村居民 24276元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "430200-2025-disposable-all",
+    "region": "430200",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 51343,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "株洲全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "株洲市2025年国民经济和社会发展统计公报",
+      "url": "https://tjj.hunan.gov.cn/hntj/tjfx/tjgb/szgb/zzs_1/202605/t20260512_33975349.html",
+      "publishedAt": "2026-04-29",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年株洲，全体居民 51343元/人/年；城镇居民 61297元/人/年；农村居民 32453元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "430200-2025-disposable-urban",
+    "region": "430200",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 61297,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "株洲全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "株洲市2025年国民经济和社会发展统计公报",
+      "url": "https://tjj.hunan.gov.cn/hntj/tjfx/tjgb/szgb/zzs_1/202605/t20260512_33975349.html",
+      "publishedAt": "2026-04-29",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年株洲，全体居民 51343元/人/年；城镇居民 61297元/人/年；农村居民 32453元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "430200-2025-disposable-rural",
+    "region": "430200",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 32453,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "株洲全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "株洲市2025年国民经济和社会发展统计公报",
+      "url": "https://tjj.hunan.gov.cn/hntj/tjfx/tjgb/szgb/zzs_1/202605/t20260512_33975349.html",
+      "publishedAt": "2026-04-29",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年株洲，全体居民 51343元/人/年；城镇居民 61297元/人/年；农村居民 32453元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "430400-2025-disposable-all",
+    "region": "430400",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 40550,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "衡阳全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "衡阳市2025年国民经济和社会发展统计公报",
+      "url": "https://tjj.hunan.gov.cn/hntj/tjfx/tjgb/szgb/hys_1/202605/t20260512_33975342.html",
+      "publishedAt": "2026-05-12",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年衡阳，全体居民 40550元/人/年；城镇居民 49844元/人/年；农村居民 30171元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "430400-2025-disposable-urban",
+    "region": "430400",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 49844,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "衡阳全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "衡阳市2025年国民经济和社会发展统计公报",
+      "url": "https://tjj.hunan.gov.cn/hntj/tjfx/tjgb/szgb/hys_1/202605/t20260512_33975342.html",
+      "publishedAt": "2026-05-12",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年衡阳，全体居民 40550元/人/年；城镇居民 49844元/人/年；农村居民 30171元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "430400-2025-disposable-rural",
+    "region": "430400",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 30171,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "衡阳全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "衡阳市2025年国民经济和社会发展统计公报",
+      "url": "https://tjj.hunan.gov.cn/hntj/tjfx/tjgb/szgb/hys_1/202605/t20260512_33975342.html",
+      "publishedAt": "2026-05-12",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年衡阳，全体居民 40550元/人/年；城镇居民 49844元/人/年；农村居民 30171元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "360100-2025-disposable-all",
+    "region": "360100",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 51202,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "南昌全市常住居民全年人均可支配收入，南昌发布政务号据国家统计局南昌调查队发布；采用政务机构原稿，不使用澎湃用户自制排名。",
+    "source": {
+      "title": "南昌发布政务号：2025年南昌居民人均可支配收入51202元",
+      "url": "https://www.thepaper.cn/newsDetail_forward_32481648",
+      "publishedAt": "2026-01-28",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年南昌，全体居民 51202元/人/年；城镇居民 59609元/人/年；农村居民 28886元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "360100-2025-disposable-urban",
+    "region": "360100",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 59609,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "南昌全市常住居民全年人均可支配收入，南昌发布政务号据国家统计局南昌调查队发布；采用政务机构原稿，不使用澎湃用户自制排名。",
+    "source": {
+      "title": "南昌发布政务号：2025年南昌居民人均可支配收入51202元",
+      "url": "https://www.thepaper.cn/newsDetail_forward_32481648",
+      "publishedAt": "2026-01-28",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年南昌，全体居民 51202元/人/年；城镇居民 59609元/人/年；农村居民 28886元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "360100-2025-disposable-rural",
+    "region": "360100",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 28886,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "南昌全市常住居民全年人均可支配收入，南昌发布政务号据国家统计局南昌调查队发布；采用政务机构原稿，不使用澎湃用户自制排名。",
+    "source": {
+      "title": "南昌发布政务号：2025年南昌居民人均可支配收入51202元",
+      "url": "https://www.thepaper.cn/newsDetail_forward_32481648",
+      "publishedAt": "2026-01-28",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年南昌，全体居民 51202元/人/年；城镇居民 59609元/人/年；农村居民 28886元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "371700-2024-disposable-all",
+    "region": "371700",
+    "year": 2024,
+    "metric": "disposable",
+    "population": "all",
+    "value": 28712,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "菏泽全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2024年菏泽市国民经济和社会发展统计公报（第7—8页）",
+      "url": "https://www.heze.gov.cn/upload-service/0530/2c908088819842f701819a29fa34002a/WY1924653409240223744.pdf",
+      "publishedAt": "2025-05",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2024年菏泽，全体居民 28712元/人/年；城镇居民 37356元/人/年；农村居民 20844元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "371700-2024-disposable-urban",
+    "region": "371700",
+    "year": 2024,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 37356,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "菏泽全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2024年菏泽市国民经济和社会发展统计公报（第7—8页）",
+      "url": "https://www.heze.gov.cn/upload-service/0530/2c908088819842f701819a29fa34002a/WY1924653409240223744.pdf",
+      "publishedAt": "2025-05",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2024年菏泽，全体居民 28712元/人/年；城镇居民 37356元/人/年；农村居民 20844元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "371700-2024-disposable-rural",
+    "region": "371700",
+    "year": 2024,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 20844,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "菏泽全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2024年菏泽市国民经济和社会发展统计公报（第7—8页）",
+      "url": "https://www.heze.gov.cn/upload-service/0530/2c908088819842f701819a29fa34002a/WY1924653409240223744.pdf",
+      "publishedAt": "2025-05",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2024年菏泽，全体居民 28712元/人/年；城镇居民 37356元/人/年；农村居民 20844元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "320700-2025-disposable-all",
+    "region": "320700",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 39879,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "连云港全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年连云港市国民经济和社会发展统计公报",
+      "url": "https://www.lyg.gov.cn/zglygzfmhwz/tjgb/content/f88b71e0-2ae3-420e-b655-380779e6c3cd.html",
+      "publishedAt": "2026-05-22",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "官方公报PDF（政府刊载页链接的4fcfb3b2-ba61-411a-9de2-59b7746d88e7.pdf）人工核验：2025年全市居民人均可支配收入39879元，城镇47871元，农村27495元。PDF下载服务器目前HTTP可用，HTTPS证书异常；保留政府HTTPS刊载页为来源入口。"
+    }
+  },
+  {
+    "id": "320700-2025-disposable-urban",
+    "region": "320700",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 47871,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "连云港全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年连云港市国民经济和社会发展统计公报",
+      "url": "https://www.lyg.gov.cn/zglygzfmhwz/tjgb/content/f88b71e0-2ae3-420e-b655-380779e6c3cd.html",
+      "publishedAt": "2026-05-22",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "官方公报PDF（政府刊载页链接的4fcfb3b2-ba61-411a-9de2-59b7746d88e7.pdf）人工核验：2025年全市居民人均可支配收入39879元，城镇47871元，农村27495元。PDF下载服务器目前HTTP可用，HTTPS证书异常；保留政府HTTPS刊载页为来源入口。"
+    }
+  },
+  {
+    "id": "320700-2025-disposable-rural",
+    "region": "320700",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 27495,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "连云港全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年连云港市国民经济和社会发展统计公报",
+      "url": "https://www.lyg.gov.cn/zglygzfmhwz/tjgb/content/f88b71e0-2ae3-420e-b655-380779e6c3cd.html",
+      "publishedAt": "2026-05-22",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "官方公报PDF（政府刊载页链接的4fcfb3b2-ba61-411a-9de2-59b7746d88e7.pdf）人工核验：2025年全市居民人均可支配收入39879元，城镇47871元，农村27495元。PDF下载服务器目前HTTP可用，HTTPS证书异常；保留政府HTTPS刊载页为来源入口。"
+    }
+  },
+  {
+    "id": "510700-2024-disposable-urban",
+    "region": "510700",
+    "year": 2024,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 49666,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "绵阳全市城乡常住居民全年人均可支配收入。2025版年鉴载2024年统计数据，9-1表明确2020—2024列；与3-3表、附录县市表绵阳市行交叉核验。2025年公报未见居民收入金额，采用已核验2024年值，不使用县区替代。",
+    "source": {
+      "title": "绵阳统计年鉴2025：9-1人民物质文化生活提高情况（2024列）",
+      "url": "https://tjj.my.gov.cn/mystjj/c101742/202601/a8a394b499a34740a4fe02c1caf540c0/files/2025%E5%B9%B4%E7%BB%9F%E8%AE%A1%E5%B9%B4%E9%89%B4.pdf",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2024年绵阳，城镇居民 49666元/人/年；农村居民 23124元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "510700-2024-disposable-rural",
+    "region": "510700",
+    "year": 2024,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 23124,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "绵阳全市城乡常住居民全年人均可支配收入。2025版年鉴载2024年统计数据，9-1表明确2020—2024列；与3-3表、附录县市表绵阳市行交叉核验。2025年公报未见居民收入金额，采用已核验2024年值，不使用县区替代。",
+    "source": {
+      "title": "绵阳统计年鉴2025：9-1人民物质文化生活提高情况（2024列）",
+      "url": "https://tjj.my.gov.cn/mystjj/c101742/202601/a8a394b499a34740a4fe02c1caf540c0/files/2025%E5%B9%B4%E7%BB%9F%E8%AE%A1%E5%B9%B4%E9%89%B4.pdf",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2024年绵阳，城镇居民 49666元/人/年；农村居民 23124元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "370500-2025-disposable-all",
+    "region": "370500",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 56838,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "东营全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年东营市国民经济和社会发展统计公报",
+      "url": "http://dystjj.dongying.gov.cn/art/2026/3/30/art_36584_10288288.html",
+      "publishedAt": "2026-03-30",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "东营市统计局与国家统计局东营调查队官方公报PDF第10—11页核验：2025年全市居民人均可支配收入56838元，城镇68382元，农村28823元。官网及PDF当前以HTTP提供公开资料，不传输任何个人收入。"
+    }
+  },
+  {
+    "id": "370500-2025-disposable-urban",
+    "region": "370500",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 68382,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "东营全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年东营市国民经济和社会发展统计公报",
+      "url": "http://dystjj.dongying.gov.cn/art/2026/3/30/art_36584_10288288.html",
+      "publishedAt": "2026-03-30",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "东营市统计局与国家统计局东营调查队官方公报PDF第10—11页核验：2025年全市居民人均可支配收入56838元，城镇68382元，农村28823元。官网及PDF当前以HTTP提供公开资料，不传输任何个人收入。"
+    }
+  },
+  {
+    "id": "370500-2025-disposable-rural",
+    "region": "370500",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 28823,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "东营全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "2025年东营市国民经济和社会发展统计公报",
+      "url": "http://dystjj.dongying.gov.cn/art/2026/3/30/art_36584_10288288.html",
+      "publishedAt": "2026-03-30",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "东营市统计局与国家统计局东营调查队官方公报PDF第10—11页核验：2025年全市居民人均可支配收入56838元，城镇68382元，农村28823元。官网及PDF当前以HTTP提供公开资料，不传输任何个人收入。"
+    }
+  },
+  {
+    "id": "150100-2025-disposable-all",
+    "region": "150100",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 51189,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "呼和浩特全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "呼和浩特日报：呼和浩特市2025年国民经济和社会发展统计公报",
+      "url": "https://static.0471tv.org.cn/rb/pc/con/202604/18/content_98603.html",
+      "publishedAt": "2026-04-18",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年呼和浩特，全体居民 51189元/人/年；城镇居民 61624元/人/年；农村居民 28295元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "150100-2025-disposable-urban",
+    "region": "150100",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 61624,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "呼和浩特全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "呼和浩特日报：呼和浩特市2025年国民经济和社会发展统计公报",
+      "url": "https://static.0471tv.org.cn/rb/pc/con/202604/18/content_98603.html",
+      "publishedAt": "2026-04-18",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年呼和浩特，全体居民 51189元/人/年；城镇居民 61624元/人/年；农村居民 28295元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "150100-2025-disposable-rural",
+    "region": "150100",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 28295,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "呼和浩特全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "呼和浩特日报：呼和浩特市2025年国民经济和社会发展统计公报",
+      "url": "https://static.0471tv.org.cn/rb/pc/con/202604/18/content_98603.html",
+      "publishedAt": "2026-04-18",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年呼和浩特，全体居民 51189元/人/年；城镇居民 61624元/人/年；农村居民 28295元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "360900-2025-disposable-urban",
+    "region": "360900",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 47817,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "宜春全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "宜春市2025年国民经济和社会发展统计公报",
+      "url": "https://www.yichun.gov.cn/ycsrmzf/tjgb/pc/content/2049683229581897728/content_2049683229581897728.html",
+      "publishedAt": "2026-04-30",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年宜春，城镇居民 47817元/人/年；农村居民 24360元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "360900-2025-disposable-rural",
+    "region": "360900",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 24360,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "宜春全市行政区域常住居民全年人均可支配收入，按全体、城镇、农村分别统计；不使用市辖区或省级数值替代。",
+    "source": {
+      "title": "宜春市2025年国民经济和社会发展统计公报",
+      "url": "https://www.yichun.gov.cn/ycsrmzf/tjgb/pc/content/2049683229581897728/content_2049683229581897728.html",
+      "publishedAt": "2026-04-30",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2025年宜春，城镇居民 47817元/人/年；农村居民 24360元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "620100-2024-disposable-urban",
+    "region": "620100",
+    "year": 2024,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 50489,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "兰州市全市常住城镇、农村居民全年人均可支配收入。采用甘肃省经济研究院主办的甘肃经济信息网刊载的完整官方统计公报（来源栏：甘肃省统计局、国家统计局甘肃调查总队），数据年度2024，非刊载年度2025。2025年数值尚未从可访问官方资料完成核验。",
+    "source": {
+      "title": "甘肃省经济研究院刊载：2024年兰州市国民经济和社会发展统计公报",
+      "url": "https://www.gsei.com.cn/html/1288/2025-10-13/content-626780.html",
+      "publishedAt": "2025-10-13",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2024年兰州，城镇居民 50489元/人/年；农村居民 20018元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "620100-2024-disposable-rural",
+    "region": "620100",
+    "year": 2024,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 20018,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "兰州市全市常住城镇、农村居民全年人均可支配收入。采用甘肃省经济研究院主办的甘肃经济信息网刊载的完整官方统计公报（来源栏：甘肃省统计局、国家统计局甘肃调查总队），数据年度2024，非刊载年度2025。2025年数值尚未从可访问官方资料完成核验。",
+    "source": {
+      "title": "甘肃省经济研究院刊载：2024年兰州市国民经济和社会发展统计公报",
+      "url": "https://www.gsei.com.cn/html/1288/2025-10-13/content-626780.html",
+      "publishedAt": "2025-10-13",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2024年兰州，城镇居民 50489元/人/年；农村居民 20018元/人/年。指标为居民人均可支配收入，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "130200-2024-wage-nonPrivate",
+    "region": "130200",
+    "year": 2024,
+    "metric": "wage",
+    "population": "nonPrivate",
+    "value": 98443,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "唐山全市城镇非私营单位就业人员2024年税前年平均工资，取“平均工资—合计”列，不取“其中在岗职工”列。",
+    "source": {
+      "title": "河北统计年鉴2025：4-8 分市城镇非私营单位就业人员平均工资和指数（2024年）",
+      "url": "https://tjj.hebei.gov.cn/hbstjj/tjnj/2025/zk/html/0408.jpg",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2024年唐山，城镇非私营单位 98443元/人/年。指标为就业人员税前年平均工资，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "130400-2024-wage-nonPrivate",
+    "region": "130400",
+    "year": 2024,
+    "metric": "wage",
+    "population": "nonPrivate",
+    "value": 91056,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "邯郸全市城镇非私营单位就业人员2024年税前年平均工资，取“平均工资—合计”列，不取“其中在岗职工”列。",
+    "source": {
+      "title": "河北统计年鉴2025：4-8 分市城镇非私营单位就业人员平均工资和指数（2024年）",
+      "url": "https://tjj.hebei.gov.cn/hbstjj/tjnj/2025/zk/html/0408.jpg",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2024年邯郸，城镇非私营单位 91056元/人/年。指标为就业人员税前年平均工资，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "130900-2024-wage-nonPrivate",
+    "region": "130900",
+    "year": 2024,
+    "metric": "wage",
+    "population": "nonPrivate",
+    "value": 97293,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "沧州全市城镇非私营单位就业人员2024年税前年平均工资，取“平均工资—合计”列，不取“其中在岗职工”列。",
+    "source": {
+      "title": "河北统计年鉴2025：4-8 分市城镇非私营单位就业人员平均工资和指数（2024年）",
+      "url": "https://tjj.hebei.gov.cn/hbstjj/tjnj/2025/zk/html/0408.jpg",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2024年沧州，城镇非私营单位 97293元/人/年。指标为就业人员税前年平均工资，具体范围见统计口径。"
+    }
+  },
+  {
+    "id": "131000-2024-wage-nonPrivate",
+    "region": "131000",
+    "year": 2024,
+    "metric": "wage",
+    "population": "nonPrivate",
+    "value": 115870,
+    "unit": "元/人/年",
+    "availability": "available",
+    "version": 1,
+    "scope": "廊坊全市城镇非私营单位就业人员2024年税前年平均工资，取“平均工资—合计”列，不取“其中在岗职工”列。",
+    "source": {
+      "title": "河北统计年鉴2025：4-8 分市城镇非私营单位就业人员平均工资和指数（2024年）",
+      "url": "https://tjj.hebei.gov.cn/hbstjj/tjnj/2025/zk/html/0408.jpg",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "人工核验转录：2024年廊坊，城镇非私营单位 115870元/人/年。指标为就业人员税前年平均工资，具体范围见统计口径。"
+    }
   }
 ]

@@ -36,5 +36,5 @@ export function commonIncomeYear(records:IncomeRecord[],regions:string[],metric:
 export function incomeCoverage(records:IncomeRecord[],regions:IncomeRegion[]){
   const has=(code:string)=>records.some(r=>r.region===code&&r.metric==='disposable'&&r.availability==='available'&&r.value!==null);
   const count=(items:IncomeRegion[])=>({complete:items.filter(r=>has(r.code)).length,total:items.length});
-  return {provinces:count(regions.filter(r=>r.level==='province'||r.level==='municipality')),zhejiang:count(regions.filter(r=>r.groups.includes('zhejiang'))),gdp30:count(regions.filter(r=>r.groups.includes('gdp30'))),cities:count(regions.filter(r=>r.groups.includes('required')))};
+  return {provinces:count(regions.filter(r=>r.level==='province'||r.level==='municipality')),zhejiang:count(regions.filter(r=>r.groups.includes('zhejiang'))),gdp30:count(regions.filter(r=>r.groups.includes('gdp30'))),gdp100:count(regions.filter(r=>r.groups.includes('gdp100'))),cities:count(regions.filter(r=>r.groups.includes('required')))};
 }

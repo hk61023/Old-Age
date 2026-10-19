@@ -10,9 +10,13 @@ const day=()=>new Intl.DateTimeFormat('sv-SE',{timeZone:'Asia/Shanghai'}).format
 const date=z.string().regex(/^\d{4}-\d{2}-\d{2}$/).refine(s=>{const parsed=new Date(s);return !Number.isNaN(parsed.valueOf())&&parsed.toISOString().slice(0,10)===s&&s<=day();},'日期无效或在未来');
 // Government-issued statistical communiques also appear in these official newspaper editions.
 const officialPublicationHosts=new Set(['epaper.scdaily.cn','szb.eyesnews.cn','online-beta.foshanplus.com','epaper.tibet3.com','epaper.huanbohainews.com.cn','www.dl-library.net.cn','www.cdrb.com.cn','www.qhnews.com']);
-// Only this identified, bureau-authored full communique is accepted from its syndicated host.
-const identifiedCommuniques=new Set(['https://finance.sina.com.cn/jjxw/2026-04-15/doc-inhupeis3814625.shtml']);
-export function statisticsUrl(url:string){try{const u=new URL(url);return u.protocol==='https:'&&(u.hostname==='gov.cn'||u.hostname.endsWith('.gov.cn')||officialPublicationHosts.has(u.hostname)||identifiedCommuniques.has(u.href))&&!u.username&&!u.password&&(!u.port||u.port==='443');}catch{return false;}}
+// Exact publications only: bureau-authored communique, municipal government account,
+// official newspaper, and the Gansu Academy's official statistical reprint.
+const identifiedCommuniques=new Set(['https://finance.sina.com.cn/jjxw/2026-04-15/doc-inhupeis3814625.shtml','https://www.thepaper.cn/newsDetail_forward_32481648','https://static.0471tv.org.cn/rb/pc/con/202604/18/content_98603.html','https://www.gsei.com.cn/html/1288/2025-10-13/content-626780.html']);
+// This verified government publication currently serves its public PDF over HTTP.
+// Do not relax protocol validation for other URLs or for personal data requests.
+const legacyGovernmentPublication='http://dystjj.dongying.gov.cn/art/2026/3/30/art_36584_10288288.html';
+export function statisticsUrl(url:string){try{const u=new URL(url);return (u.href===legacyGovernmentPublication||(u.protocol==='https:'&&(u.hostname==='gov.cn'||u.hostname.endsWith('.gov.cn')||officialPublicationHosts.has(u.hostname)||identifiedCommuniques.has(u.href))))&&!u.username&&!u.password&&(!u.port||u.port==='443');}catch{return false;}}
 const official=z.string().url().refine(statisticsUrl,'必须为HTTPS政府网站或已列入清单的官方公报刊载页');
 export const incomeRecordSchema=z.object({id:z.string().regex(/^[a-zA-Z0-9-]+$/).max(100),region:z.string().refine(s=>incomeRegions.some(r=>r.code===s),'地区不在收入目录中'),year:z.number().int().min(2000).refine(y=>y<Number(day().slice(0,4)),'只能录入完整历史年度'),metric:z.enum(['disposable','median','wage']),population:z.enum(['all','urban','rural','private','nonPrivate']),value:z.number().finite().positive().max(100000000).nullable(),unit:z.literal('元/人/年'),availability:z.enum(['available','notPublished']),growth:z.number().finite().optional(),scope:z.string().min(4).max(2000),source:z.object({title:z.string().min(4).max(300),url:official,publishedAt:z.string().max(50),verifiedAt:date,excerpt:z.string().min(10).max(20000)}).strict(),version:z.number().int().positive()}).strict().superRefine((r,c)=>{
   if((r.metric==='wage')!==['private','nonPrivate'].includes(r.population))c.addIssue({code:'custom',message:'工资必须区分私营/非私营；居民收入须区分全体/城镇/农村'});
@@ -61,7 +65,7 @@ export function extractIncomeProposal(content:string,title:string,region:string,
 export function registerIncomeRoutes(app:FastifyInstance,db:Store,runCheck:()=>Promise<void>){
   const log=(action:string,detail:string)=>db.prepare('INSERT INTO audit(action,detail,created) VALUES(?,?,?)').run(action,detail,new Date().toISOString());
   app.get('/api/income-statistics',async req=>{
-    const q=z.object({region:z.string().regex(/^\d{6}$/).optional(),year:z.coerce.number().int().min(2000).max(2100).optional(),group:z.enum(['zhejiang','gdp30','required']).optional()}).strict().parse(req.query);
+    const q=z.object({region:z.string().regex(/^\d{6}$/).optional(),year:z.coerce.number().int().min(2000).max(2100).optional(),group:z.enum(['zhejiang','gdp30','gdp100','required']).optional()}).strict().parse(req.query);
     const all=publishedIncome(db),regions=incomeRegions.filter(r=>!q.group||r.groups.includes(q.group));
     return {records:all.filter(r=>(!q.region||r.region===q.region)&&(!q.year||r.year===q.year)&&(!q.group||regions.some(x=>x.code===r.region))),regions,coverage:incomeCoverage(all,incomeRegions),rankingYear:INCOME_RANKING_YEAR};
   });

@@ -1,0 +1,514 @@
+{
+  "year": 2025,
+  "scope": "大陆地级及以上城市全年全行政区域GDP总量，含直辖市；仅用于收入资料覆盖目标，不参与收入计算。",
+  "source": {
+    "title": "2025年全国GDP百强市榜单（各地统计部门初核数汇编）",
+    "url": "https://www.thepaper.cn/newsDetail_forward_33397268",
+    "imageUrl": "https://imgpai.thepaper.cn/pphimage/20260617/3cf90cdb-89c0-42e4-9976-d8019d356d44.jpg",
+    "publishedAt": "2026-06-17",
+    "verifiedAt": "2026-10-19",
+    "note": "非国家统计局统一发布的城市排行榜；榜单用于覆盖集合，position为顺序，济南与合肥、曲靖与阜阳总量并列。"
+  },
+  "cities": [
+    {
+      "code": "310000",
+      "name": "上海",
+      "position": 1
+    },
+    {
+      "code": "110000",
+      "name": "北京",
+      "position": 2
+    },
+    {
+      "code": "440300",
+      "name": "深圳",
+      "position": 3
+    },
+    {
+      "code": "500000",
+      "name": "重庆",
+      "position": 4
+    },
+    {
+      "code": "440100",
+      "name": "广州",
+      "position": 5
+    },
+    {
+      "code": "320500",
+      "name": "苏州",
+      "position": 6
+    },
+    {
+      "code": "510100",
+      "name": "成都",
+      "position": 7
+    },
+    {
+      "code": "330100",
+      "name": "杭州",
+      "position": 8
+    },
+    {
+      "code": "420100",
+      "name": "武汉",
+      "position": 9
+    },
+    {
+      "code": "320100",
+      "name": "南京",
+      "position": 10
+    },
+    {
+      "code": "330200",
+      "name": "宁波",
+      "position": 11
+    },
+    {
+      "code": "120000",
+      "name": "天津",
+      "position": 12
+    },
+    {
+      "code": "370200",
+      "name": "青岛",
+      "position": 13
+    },
+    {
+      "code": "320200",
+      "name": "无锡",
+      "position": 14
+    },
+    {
+      "code": "430100",
+      "name": "长沙",
+      "position": 15
+    },
+    {
+      "code": "410100",
+      "name": "郑州",
+      "position": 16
+    },
+    {
+      "code": "350100",
+      "name": "福州",
+      "position": 17
+    },
+    {
+      "code": "370100",
+      "name": "济南",
+      "position": 18
+    },
+    {
+      "code": "340100",
+      "name": "合肥",
+      "position": 19
+    },
+    {
+      "code": "610100",
+      "name": "西安",
+      "position": 20
+    },
+    {
+      "code": "350500",
+      "name": "泉州",
+      "position": 21
+    },
+    {
+      "code": "440600",
+      "name": "佛山",
+      "position": 22
+    },
+    {
+      "code": "320600",
+      "name": "南通",
+      "position": 23
+    },
+    {
+      "code": "441900",
+      "name": "东莞",
+      "position": 24
+    },
+    {
+      "code": "370600",
+      "name": "烟台",
+      "position": 25
+    },
+    {
+      "code": "320400",
+      "name": "常州",
+      "position": 26
+    },
+    {
+      "code": "130200",
+      "name": "唐山",
+      "position": 27
+    },
+    {
+      "code": "330300",
+      "name": "温州",
+      "position": 28
+    },
+    {
+      "code": "210200",
+      "name": "大连",
+      "position": 29
+    },
+    {
+      "code": "320300",
+      "name": "徐州",
+      "position": 30
+    },
+    {
+      "code": "210100",
+      "name": "沈阳",
+      "position": 31
+    },
+    {
+      "code": "350200",
+      "name": "厦门",
+      "position": 32
+    },
+    {
+      "code": "330600",
+      "name": "绍兴",
+      "position": 33
+    },
+    {
+      "code": "130100",
+      "name": "石家庄",
+      "position": 34
+    },
+    {
+      "code": "530100",
+      "name": "昆明",
+      "position": 35
+    },
+    {
+      "code": "370700",
+      "name": "潍坊",
+      "position": 36
+    },
+    {
+      "code": "360100",
+      "name": "南昌",
+      "position": 37
+    },
+    {
+      "code": "321000",
+      "name": "扬州",
+      "position": 38
+    },
+    {
+      "code": "320900",
+      "name": "盐城",
+      "position": 39
+    },
+    {
+      "code": "220100",
+      "name": "长春",
+      "position": 40
+    },
+    {
+      "code": "330400",
+      "name": "嘉兴",
+      "position": 41
+    },
+    {
+      "code": "610800",
+      "name": "榆林",
+      "position": 42
+    },
+    {
+      "code": "330700",
+      "name": "金华",
+      "position": 43
+    },
+    {
+      "code": "321200",
+      "name": "泰州",
+      "position": 44
+    },
+    {
+      "code": "331000",
+      "name": "台州",
+      "position": 45
+    },
+    {
+      "code": "371300",
+      "name": "临沂",
+      "position": 46
+    },
+    {
+      "code": "420500",
+      "name": "宜昌",
+      "position": 47
+    },
+    {
+      "code": "441300",
+      "name": "惠州",
+      "position": 48
+    },
+    {
+      "code": "450100",
+      "name": "南宁",
+      "position": 49
+    },
+    {
+      "code": "230100",
+      "name": "哈尔滨",
+      "position": 50
+    },
+    {
+      "code": "410300",
+      "name": "洛阳",
+      "position": 51
+    },
+    {
+      "code": "350600",
+      "name": "漳州",
+      "position": 52
+    },
+    {
+      "code": "370800",
+      "name": "济宁",
+      "position": 53
+    },
+    {
+      "code": "150600",
+      "name": "鄂尔多斯",
+      "position": 54
+    },
+    {
+      "code": "420600",
+      "name": "襄阳",
+      "position": 55
+    },
+    {
+      "code": "520100",
+      "name": "贵阳",
+      "position": 56
+    },
+    {
+      "code": "321100",
+      "name": "镇江",
+      "position": 57
+    },
+    {
+      "code": "320800",
+      "name": "淮安",
+      "position": 58
+    },
+    {
+      "code": "340200",
+      "name": "芜湖",
+      "position": 59
+    },
+    {
+      "code": "430600",
+      "name": "岳阳",
+      "position": 60
+    },
+    {
+      "code": "140100",
+      "name": "太原",
+      "position": 61
+    },
+    {
+      "code": "360700",
+      "name": "赣州",
+      "position": 62
+    },
+    {
+      "code": "520300",
+      "name": "遵义",
+      "position": 63
+    },
+    {
+      "code": "411300",
+      "name": "南阳",
+      "position": 64
+    },
+    {
+      "code": "370300",
+      "name": "淄博",
+      "position": 65
+    },
+    {
+      "code": "321300",
+      "name": "宿迁",
+      "position": 66
+    },
+    {
+      "code": "130600",
+      "name": "保定",
+      "position": 67
+    },
+    {
+      "code": "371700",
+      "name": "菏泽",
+      "position": 68
+    },
+    {
+      "code": "130900",
+      "name": "沧州",
+      "position": 69
+    },
+    {
+      "code": "130400",
+      "name": "邯郸",
+      "position": 70
+    },
+    {
+      "code": "320700",
+      "name": "连云港",
+      "position": 71
+    },
+    {
+      "code": "430700",
+      "name": "常德",
+      "position": 72
+    },
+    {
+      "code": "150200",
+      "name": "包头",
+      "position": 73
+    },
+    {
+      "code": "430400",
+      "name": "衡阳",
+      "position": 74
+    },
+    {
+      "code": "650100",
+      "name": "乌鲁木齐",
+      "position": 75
+    },
+    {
+      "code": "510700",
+      "name": "绵阳",
+      "position": 76
+    },
+    {
+      "code": "440400",
+      "name": "珠海",
+      "position": 77
+    },
+    {
+      "code": "370500",
+      "name": "东营",
+      "position": 78
+    },
+    {
+      "code": "330500",
+      "name": "湖州",
+      "position": 79
+    },
+    {
+      "code": "440700",
+      "name": "江门",
+      "position": 80
+    },
+    {
+      "code": "150100",
+      "name": "呼和浩特",
+      "position": 81
+    },
+    {
+      "code": "442000",
+      "name": "中山",
+      "position": 82
+    },
+    {
+      "code": "350900",
+      "name": "宁德",
+      "position": 83
+    },
+    {
+      "code": "360400",
+      "name": "九江",
+      "position": 84
+    },
+    {
+      "code": "341100",
+      "name": "滁州",
+      "position": 85
+    },
+    {
+      "code": "371400",
+      "name": "德州",
+      "position": 86
+    },
+    {
+      "code": "511500",
+      "name": "宜宾",
+      "position": 87
+    },
+    {
+      "code": "440900",
+      "name": "茂名",
+      "position": 88
+    },
+    {
+      "code": "430200",
+      "name": "株洲",
+      "position": 89
+    },
+    {
+      "code": "131000",
+      "name": "廊坊",
+      "position": 90
+    },
+    {
+      "code": "440800",
+      "name": "湛江",
+      "position": 91
+    },
+    {
+      "code": "361100",
+      "name": "上饶",
+      "position": 92
+    },
+    {
+      "code": "360900",
+      "name": "宜春",
+      "position": 93
+    },
+    {
+      "code": "620100",
+      "name": "兰州",
+      "position": 94
+    },
+    {
+      "code": "371000",
+      "name": "威海",
+      "position": 95
+    },
+    {
+      "code": "411600",
+      "name": "周口",
+      "position": 96
+    },
+    {
+      "code": "370900",
+      "name": "泰安",
+      "position": 97
+    },
+    {
+      "code": "530300",
+      "name": "曲靖",
+      "position": 98
+    },
+    {
+      "code": "341200",
+      "name": "阜阳",
+      "position": 99
+    },
+    {
+      "code": "421000",
+      "name": "荆州",
+      "position": 100
+    }
+  ]
+}

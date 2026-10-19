@@ -21,13 +21,17 @@ test('最新资料允许上一年度数值，但指定年度不跨年且不恢�
   assert.equal(latestIncome(rows,'330100','disposable','all',2025)?.value,null);
   assert.equal(commonIncomeYear(rows,['330100'],'disposable','all'),2024);
 });
-test('31省、浙江11市、GDP30及去重38市均有自己的官方居民收入记录',()=>{
-  const db=openStore(':memory:');try{const records=publishedIncome(db),coverage=incomeCoverage(records,incomeRegions);assert.deepEqual(coverage,{provinces:{complete:31,total:31},zhejiang:{complete:11,total:11},gdp30:{complete:30,total:30},cities:{complete:38,total:38}});
-    assert.equal(incomeRegions.length,66);for(const code of ['110000','310000','420100'])assert.ok(records.some(r=>r.region===code&&r.metric==='disposable'&&r.year===2025));
+test('31省、浙江11市、GDP100及去重103市均有自己的官方居民收入记录',()=>{
+  const db=openStore(':memory:');try{const records=publishedIncome(db),coverage=incomeCoverage(records,incomeRegions);assert.deepEqual(coverage,{provinces:{complete:31,total:31},zhejiang:{complete:11,total:11},gdp30:{complete:30,total:30},gdp100:{complete:100,total:100},cities:{complete:103,total:103}});
+    assert.equal(incomeRegions.length,131);assert.equal(new Set(incomeRegions.map(r=>r.code)).size,131);for(const code of ['110000','310000','420100'])assert.ok(records.some(r=>r.region===code&&r.metric==='disposable'&&r.year===2025));
+    for(const city of incomeRegions.filter(r=>r.groups.includes('gdp100')))assert.ok(records.some(r=>r.region===city.code&&r.metric==='disposable'&&r.availability==='available'&&r.value!==null&&r.year>=2024),city.name+'须有城市自身居民收入，不能仅列入目录');
     for(const r of records){incomeRecordSchema.parse(r);assert.ok(statisticsUrl(r.source.url));assert.ok(r.source.excerpt.length>=10);}
     assert.equal(latestIncome(records,'330100','disposable','all')?.value,80017);assert.equal(latestIncome(records,'420100','disposable','all')?.value,62530);
     assert.equal(normalizeIncomeRegion('310100'),'310000');assert.equal(latestIncome(records,'310101','disposable','all'),undefined);
   }finally{db.close();}
+});
+test('新增城市保留2024回退、2025全市口径和逐项独立年度',()=>{
+  const db=openStore(':memory:');try{const rows=publishedIncome(db);assert.equal(latestIncome(rows,'510700','disposable','urban')?.year,2024);assert.equal(latestIncome(rows,'510700','disposable','urban')?.value,49666);assert.equal(latestIncome(rows,'510700','disposable','urban',2025),undefined);assert.equal(latestIncome(rows,'230100','disposable','all')?.value,39817);assert.match(latestIncome(rows,'230100','disposable','urban')!.scope,/市本级.*全市/);assert.equal(latestIncome(rows,'321300','wage','nonPrivate')?.value,100248);assert.equal(latestIncome(rows,'321300','wage','private')?.value,68118);}finally{db.close();}
 });
 test('年/月、额外奖金、家庭人数、零收入及非法输入',()=>{
   assert.equal(annualIncome(5000,'monthly',12000),72000);assert.equal(annualIncome(180000,'annual',12000,3),60000);assert.equal(annualIncome(0,'annual'),0);
@@ -57,6 +61,8 @@ test('工资口径、空值、年度、地区及来源校验',()=>{
   assert.equal(incomeRecordSchema.safeParse(record({metric:'wage'})).success,false);assert.equal(incomeRecordSchema.safeParse(record({value:null})).success,false);assert.equal(incomeRecordSchema.safeParse(record({year:2026})).success,false);
   assert.equal(incomeRecordSchema.safeParse(record({region:'330101'})).success,false);assert.equal(statisticsUrl('https://www.stats.gov.cn.evil.example/test'),false);assert.equal(statisticsUrl('http://127.0.0.1'),false);assert.equal(statisticsUrl('https://finance.sina.com.cn/random'),false);
   assert.ok(incomeRecordSchema.safeParse(record({availability:'notPublished',value:null})).success);
+  assert.ok(statisticsUrl('https://www.thepaper.cn/newsDetail_forward_32481648'));assert.equal(statisticsUrl('https://www.thepaper.cn/newsDetail_forward_1'),false);
+  assert.ok(statisticsUrl('http://dystjj.dongying.gov.cn/art/2026/3/30/art_36584_10288288.html'));assert.equal(statisticsUrl('http://dystjj.dongying.gov.cn/unreviewed'),false);
 });
 test('自动提取仅预填唯一全年数值；季度、多值歧义不自动决定',()=>{
   const text='2025年全年全体居民人均可支配收入60000元，城镇居民人均可支配收入70000元，农村居民人均可支配收入30000元。';
@@ -76,6 +82,7 @@ test('收入接口只读过滤，审核前不生效；发布、旧版本拒绝�
     const filtered=await app.inject({url:'/api/income-statistics?region=330100&year=2025',headers});assert.equal(filtered.statusCode,200);assert.ok(filtered.json().records.every((r:IncomeRecord)=>r.region==='330100'&&r.year===2025));
     assert.equal((await app.inject({url:'/api/income-statistics?income=123456',headers})).statusCode,400);
     const group=(await app.inject({url:'/api/income-statistics?group=gdp30',headers})).json();assert.equal(group.regions.length,30);assert.ok(!group.regions.some((r:{code:string})=>r.code==='330600'));
+    const hundred=(await app.inject({url:'/api/income-statistics?group=gdp100',headers})).json();assert.equal(hundred.regions.length,100);assert.equal(hundred.coverage.gdp100.complete,100);assert.ok(hundred.records.some((r:IncomeRecord)=>r.region==='510700'&&r.year===2024));assert.ok(!hundred.regions.some((r:{code:string})=>r.code==='330800'));assert.ok(hundred.records.every((r:IncomeRecord)=>hundred.regions.some((x:{code:string})=>x.code===r.region)));
     const authResponse=await app.inject({method:'POST',url:'/api/admin/setup',headers,payload:{password:'income-test-only-password'}}),auth={...headers,cookie:String(authResponse.headers['set-cookie']).split(';')[0],'x-csrf-token':authResponse.json().csrf};
     const existing=publishedIncome(db).find(r=>r.region==='330100'&&r.year===2025&&r.metric==='disposable'&&r.population==='all')!;
     const next={...existing,value:81000,version:2,source:{...existing.source,excerpt:'测试修订2025年杭州市居民人均可支配收入81000元，自动测试并非真实数据。'}};

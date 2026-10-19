@@ -2,7 +2,7 @@ import { useEffect,useState } from 'react';
 import { ArrowRight,RefreshCw,MapPin,Info } from 'lucide-react';
 import { api,Field,money,External } from './shared';
 import { annualIncome,compareIncome,commonIncomeYear,incomeLabels,latestIncome,projectIncome,type IncomePayload,type IncomePopulation,type IncomeRecord } from '../core/income';
-import { normalizeIncomeRegion,rankingSources } from '../data/income-regions';
+import { normalizeIncomeRegion,rankingSources,gdp100Source } from '../data/income-regions';
 import type { Calculation } from '../core/types';
 
 type Mode='personal'|'household'|'salary';
@@ -24,6 +24,7 @@ export default function Income({initialRegion,entry,pension,sample}:{initialRegi
   const yearValue=year?Number(year):undefined;
   const pickedPopulation:IncomePopulation=mode==='salary'?(employer==='private'?'private':'nonPrivate'):population;
   const benchmark=latestIncome(records,region,metric,pickedPopulation,yearValue);
+  const residentAlternatives=(['urban','rural'] as const).filter(p=>latestIncome(records,region,'disposable',p,yearValue)?.value);
   const options=regions.filter(r=>(!group||r.groups.includes(group))&&(!search||r.name.includes(search)));
   const years=[...new Set(records.filter(r=>r.region===region).map(r=>r.year))].sort((a,b)=>b-a);
   let annual:number|null=null,inputError='';
@@ -39,10 +40,10 @@ export default function Income({initialRegion,entry,pension,sample}:{initialRegi
   const comparisons=mode==='salary'&&employer==='unknown'?(['private','nonPrivate'] as const).map(p=>latestIncome(records,region,'wage',p,yearValue)):[benchmark];
   return <div className="income-page">
     <div className="page-title"><span className="eyebrow">LOCAL INCOME REFERENCE</span><h1>在熟悉的城市，找到收入的参照。</h1><p>看当地收入，比较家庭与个人，也为退休后的生活多一个参考。</p></div>
-    <div className="income-coverage">{[['省级地区',coverage.provinces],['浙江地市',coverage.zhejiang],[`${data.rankingYear}年GDP前30`,coverage.gdp30],['必含城市',coverage.cities]].map(([title,c])=>{const count=c as {complete:number;total:number};return <div key={String(title)}><span>{String(title)}</span><strong>{count.complete}<small> / {count.total}</small></strong><small>已有居民收入指标</small></div>;})}</div>
-    <details className="income-scope"><summary>覆盖范围与资料状态</summary><p>覆盖完成表示已有该地区自身的居民收入指标；不表示城乡、工资及中位数全部核验。各分项以卡片状态为准。</p><p>{data.rankingYear}年全年全市行政区域GDP仅用于覆盖名单。规划分组遗漏的唐山也已补入，浙江与GDP前30去重共38市。</p><External url={rankingSources[0]}>人民日报海外版：29座万亿城市</External> · <External url={rankingSources[1]}>年度前30名单与徐州位次</External></details>
+    <div className="income-coverage">{[['省级地区',coverage.provinces],['浙江地市',coverage.zhejiang],[`${data.rankingYear}年GDP前30`,coverage.gdp30],[`${data.rankingYear}年GDP前100`,coverage.gdp100],['全部目标城市',coverage.cities]].map(([title,c])=>{const count=c as {complete:number;total:number};return <div key={String(title)}><span>{String(title)}</span><strong>{count.complete}<small> / {count.total}</small></strong><small>已有居民收入指标</small></div>;})}</div>
+    <details className="income-scope"><summary>覆盖范围与资料状态</summary><p>覆盖完成表示已有该地区自身的居民收入指标；不表示城乡、工资及中位数全部核验。各分项以卡片状态为准。</p><p>{data.rankingYear}年全年全市行政区域GDP仅用于覆盖名单。GDP前100与浙江11市去重共{coverage.cities.total}市；直辖市使用全市记录。榜单是各地统计部门初核数的汇编，非国家统计局统一发布的排名。</p><External url={rankingSources[0]}>人民日报海外版：29座万亿城市</External> · <External url={rankingSources[1]}>年度前30名单</External> · <External url={gdp100Source.url}>GDP前100覆盖依据</External></details>
     <section className="card"><div className="section-heading"><h2><MapPin size={18}/>选择你的生活地区</h2><span className="tag">独立于参保地</span></div>
-      <div className="income-filter" role="group" aria-label="地区快捷筛选">{[['','全部已覆盖地区'],['zhejiang','浙江全部城市'],['gdp30',`${data.rankingYear}年GDP前30城市`]].map(([key,label])=><button className={'secondary small'+(group===key?' selected':'')} key={key} onClick={()=>{setGroup(key);setSearch('');}}>{label}</button>)}</div>
+      <div className="income-filter" role="group" aria-label="地区快捷筛选">{[['','全部地区'],['zhejiang','浙江全部城市'],['gdp30',`${data.rankingYear}年GDP前30城市`],['gdp100',`${data.rankingYear}年GDP前100城市`]].map(([key,label])=><button className={'secondary small'+(group===key?' selected':'')} key={key} onClick={()=>{setGroup(key);setSearch('');}}>{label}</button>)}</div>
       <div className="fields"><Field label="搜索城市或省份"><input value={search} onChange={e=>setSearch(e.target.value)} placeholder="例如：武汉、上海、丽水"/></Field><Field label="生活地区"><select aria-label="生活地区" value={region} onChange={e=>{setRegion(e.target.value);setYear('');setCompareCodes(null);}}>{!options.some(r=>r.code===region)&&<option value={region}>{selected?.name||region}（当前选择）</option>}{options.map(r=><option key={r.code} value={r.code}>{r.name}{r.level==='province'?' · 全省':r.level==='municipality'?' · 全市':''}</option>)}</select></Field><Field label="资料年度"><select aria-label="资料年度" value={year} onChange={e=>setYear(e.target.value)}><option value="">各指标最新已核验完整年度</option>{years.map(y=><option key={y} value={y}>{y}年</option>)}</select></Field></div>
       {!options.length&&<p role="status">没有匹配的地区，请更换关键词。</p>}<p className="muted">GDP仅确定资料覆盖范围；不同指标可能在不同日期公布。缺失分项不估算、不替代为省值。</p>
     </section>
@@ -50,6 +51,7 @@ export default function Income({initialRegion,entry,pension,sample}:{initialRegi
     {!year&&<p className="muted">优先采用最新已核验完整年度；尚未取得2025年资料的分项可采用2024年，实际年度以每项标注为准。“待核验”表示尚未取得可用于比较的官方资料，不等于官方没有公布。</p>}
     <section className="income-overview"><h2>{selected?.name||'未覆盖地区'} · 当地收入概览</h2><div className="income-stat-grid">{(['all','urban','rural'] as const).map(p=><Statistic key={p} title={`${incomeLabels[p]}人均可支配收入`} record={latestIncome(records,region,'disposable',p,yearValue)}/> )}</div><h3>就业人员税前平均工资</h3><div className="income-stat-grid wage-grid">{(['private','nonPrivate'] as const).map(p=><Statistic key={p} title={`${incomeLabels[p]}年平均工资`} record={latestIncome(records,region,'wage',p,yearValue)}/>)}</div><p className="muted">税前工资包含个人缴纳的税、社保、公积金；居民收入包含工资、经营净收入、财产净收入与转移净收入。两者分别比较。</p></section>
     <section className="card"><div className="section-heading"><div><h2>我的收入，在当地是什么水平？</h2><p>收入仅在本浏览器内计算；刷新即清空，不自动保存。</p></div></div>
+      {mode!=='salary'&&population==='all'&&!benchmark?.value&&residentAlternatives.length>0&&<p className="notice">该地已有{residentAlternatives.map(p=>incomeLabels[p]).join('、')}收入资料；全体居民指标仍待核验。可在下方“居民参照人群”中选择适用人群。</p>}
       <div className="scenario-tabs">{([['personal','个人收入参照'],['household','家庭人均对比'],['salary','个人工资对比']] as const).map(([key,label])=><button key={key} className={mode===key?'active':''} onClick={()=>setMode(key)}>{label}</button>)}</div>
       <div className="fields"><Field label="填写方式"><select aria-label="填写方式" value={draft.period} onChange={e=>update({period:e.target.value as Draft['period']})}><option value="annual">直接填写全年金额</option><option value="monthly">通常月收入 × 12 ＋ 额外年度收入</option></select></Field>
         <Field label={mode==='salary'?`税前${draft.period==='annual'?'年':'月'}工资（元）`:mode==='household'?`家庭${draft.period==='annual'?'全年':'通常每月'}可支配收入（元）`:`个人${draft.period==='annual'?'全年':'通常每月'}可支配收入（元）`} hint="可填0；经营收入填扣除经营成本后的净收入，不是营业额。"><input aria-label="收入金额" type="number" min="0" step="0.01" value={draft.amount} aria-invalid={!!inputError} onChange={e=>update({amount:e.target.value})}/>{inputError&&<small role="alert" className="amber">{inputError}</small>}</Field>
