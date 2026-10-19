@@ -7,6 +7,7 @@ import type { RegionalReference,RegionalParameter } from '../src/core/types';
 import { seedRegionalReferences } from '../src/data/regions';
 import { initIncome,incomeSources } from './income';
 import { initMonitorSources } from './monitor-sources';
+import { applyCityCoverageUpdate } from './reference-updates';
 export function openStore(path:string){
   if(path!==':memory:')mkdirSync(dirname(path),{recursive:true});
   const db=new DatabaseSync(path);
@@ -26,6 +27,7 @@ export function openStore(path:string){
       db.prepare('INSERT INTO settings VALUES(?,?)').run('seeded','1');db.exec('COMMIT');
     }catch(e){db.exec('ROLLBACK');throw e;}
   }
+  applyCityCoverageUpdate(db);
   db.prepare("UPDATE jobs SET status='interrupted',finished=? WHERE status='running'").run(new Date().toISOString());
   initIncome(db);
   initMonitorSources(db,sources(db),regionalReferences(db),incomeSources(db));

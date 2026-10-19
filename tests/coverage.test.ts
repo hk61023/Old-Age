@@ -19,7 +19,7 @@ test('测算下拉仅保留有公式或官方计发参数的范围，市级例�
     assert.ok(available.find(p=>p.code==='210000')?.cities.some(c=>c.code==='210100'));
     assert.equal(available.find(p=>p.code==='150000')?.cities.length,12);
     assert.equal(available.find(p=>p.code==='420000')?.cities.length,17);
-    assert.equal(available.find(p=>p.code==='650000')?.cities.length,14);
+    assert.equal(available.find(p=>p.code==='650000')?.cities.length,26);
     for(const p of available)assert.ok(p.cities.length>=Math.min(10,regionList().find(r=>r.code===p.code)!.cities.length),p.name);
     const cq=available.find(p=>p.code==='500000')!;
     assert.ok(cq.cities.some(c=>c.code==='500157'));
@@ -80,7 +80,7 @@ test('七省各四个主要城市可算基础与账户，工资情景不标为�
       }
     }
     const earlier=calculate({...f.input,province:'610000',city:'610100',asOf:'2026-07'},f.scenario,policies,refs);assert.equal(earlier.basic,null);
-    const unselected=calculate({...f.input,province:'650000',city:'659001'},f.scenario,policies,refs);assert.equal(unselected.basic,null);
+    const added=calculate({...f.input,province:'650000',city:'659001'},f.scenario,policies,refs);assert.notEqual(added.basic,null);assert.equal(added.reference?.basis,'wage-scenario');
     const snapshot=structuredClone(refs);const r1=calculate({...f.input,province:'460000',city:'460100'},f.scenario,policies,snapshot);
     refs.find(r=>r.province==='460000')!.cityParameters['460100'][0].value=9999;
     assert.deepEqual(calculate({...f.input,province:'460000',city:'460100'},f.scenario,policies,snapshot),r1);

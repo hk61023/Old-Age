@@ -1,15 +1,18 @@
-import {mkdirSync,writeFileSync} from 'node:fs';
+import {mkdirSync,readFileSync,writeFileSync} from 'node:fs';
+import {join} from 'node:path';
 import {calculate,todayMonth,ENGINE_VERSION} from '../src/core/engine';
 import {calculationRegions,regionalParameters} from '../src/core/regions';
 import type {PersonalInput,Policy,RegionalReference,Scenario} from '../src/core/types';
 import type {Region} from '../src/ui/shared';
 
-const root='http://127.0.0.1:3210';
-async function get<T>(path:string):Promise<T>{const response=await fetch(root+path);if(!response.ok)throw new Error(`${path}: HTTP ${response.status}`);return response.json() as Promise<T>;}
+const root=process.env.AUDIT_BASE_URL||'http://127.0.0.1:3210';
+async function get<T>(path:string):Promise<T>{if(process.env.AUDIT_SNAPSHOT_DIR)return JSON.parse(readFileSync(join(process.env.AUDIT_SNAPSHOT_DIR,path.slice(5)+'.json'),'utf8').replace(/^\uFEFF/,'')) as T;const response=await fetch(root+path);if(!response.ok)throw new Error(`${path}: HTTP ${response.status}`);return response.json() as Promise<T>;}
 const [policyResponse,regions,referenceResponse]=await Promise.all([
   get<{policies:Policy[]}>('/api/policies'),get<Region[]>('/api/regions'),get<{references:RegionalReference[]}>('/api/regional-references')
 ]);
 const policies=policyResponse.policies,references=referenceResponse.references,asOf=todayMonth();
+const selectable=calculationRegions(regions,policies,references,asOf);
+const selectableCodes=new Set(selectable.flatMap(p=>p.cities.map(c=>c.code)));
 const scenario:Scenario={name:'覆盖检查',retirementOffset:0,contributionMultiplier:1,baseGrowth:0,accountInterest:0};
 const base:PersonalInput={birth:'1990-06',category:'male60',identity:'employee',asOf,province:'',city:'',insuredProvince:'',insuredCity:'',paidMonths:120,contributionBase:9000,firstInsured:'2016-01',deemedMonths:0,balanceDate:asOf,records:[],recordChoice:'summary',crossProvince:false,household:'',relationship:'',experiences:[],experiencesComplete:false,locationConfirmed:false,specialCase:false};
 const errors:string[]=[];
@@ -26,6 +29,7 @@ const rows=regions.flatMap(province=>province.cities.map(city=>{
     if(r.total!==null&&(r.missing.length||r.status!=='complete'))errors.push(`${city.name}不完整却输出全额`);
     if(r.partialSubtotal!=null&&(r.total!==null||r.status!=='partial'))errors.push(`${city.name}部分合计状态错误`);
     if(!r.statutoryMonth||!r.retirementMonth)errors.push(`${city.name}有效资料没有退休日期`);
+    if(selectableCodes.has(city.code)&&(r.basic===null||r.account===null||(r.total===null&&r.partialSubtotal==null)))errors.push(`${city.name}/${identity}/${profile}/${offset}可选城市未得到基础与账户合计`);
     if(classify(r)==='其他阻断')errors.push(`${city.name}合成有效资料出现非政策阻断：${r.missing.join('；')}`);
     return {identity,profile,earlyYears:-offset/12,classification:classify(r),policyId:r.policyId,policyVersion:r.policyVersion,retirementMonth:r.retirementMonth,basic:r.basic,account:r.account,transition:r.transition,local:r.local,total:r.total,partialSubtotal:r.partialSubtotal??null,missing:r.missing};
   })));
@@ -34,7 +38,9 @@ const rows=regions.flatMap(province=>province.cities.map(city=>{
 const count=(values:string[])=>Object.fromEntries([...new Set(values)].map(k=>[k,values.filter(v=>v===k).length]));
 const provinceRows=regions.map(region=>{
   const cities=rows.filter(r=>r.provinceCode===region.code);
-  return {province:region.name,cityCount:cities.length,referenceCities:cities.filter(c=>c.referenceParameters.length).length,currentReferenceCities:cities.filter(c=>c.referenceParameters.some(p=>p.current)).length,ordinaryCases:count(cities.map(c=>c.cases[0].classification)),examples:cities.filter(c=>/市$/.test(c.city)).slice(0,3).map(c=>c.city).join('、')};
+  const selectableCities=selectable.find(p=>p.code===region.code)?.cities.length||0,required=Math.min(10,region.cities.length);
+  if(selectableCities<required)errors.push(`${region.name}仅${selectableCities}个可算地区，未达到${required}项目标`);
+  return {province:region.name,cityCount:cities.length,selectableCities,required,meetsMinimum:selectableCities>=required,referenceCities:cities.filter(c=>c.referenceParameters.length).length,currentReferenceCities:cities.filter(c=>c.referenceParameters.some(p=>p.current)).length,ordinaryCases:count(cities.map(c=>c.cases[0].classification)),examples:cities.filter(c=>/市$/.test(c.city)).slice(0,3).map(c=>c.city).join('、')};
 });
 const report={checkedAt:new Date().toISOString(),asOf,engineVersion:ENGINE_VERSION,scope:'运行中公共API实际已发布地方政策及已核验参考参数（参考参数仅用于通用分项）；目录全部城市/区县条目；企业和灵活就业；基础与补全资料；法定退休和提前1.5年。检查程序不上传个人资料，只读取公共API。合成样例不是实际待遇或政策有效性审定。',selectableProvinces:calculationRegions(regions,policies,references,asOf).length,selectableCities:calculationRegions(regions,policies,references,asOf).reduce((n,r)=>n+r.cities.length,0),provinceCount:regions.length,cityCount:rows.length,caseCount:rows.reduce((n,r)=>n+r.cases.length,0),ordinaryCityCounts:count(rows.map(c=>c.cases[0].classification)),caseCounts:count(rows.flatMap(c=>c.cases.map(r=>r.classification))),errors,provinceRows,rows};
 mkdirSync('artifacts',{recursive:true});

@@ -3,7 +3,7 @@ export type Formula = 'beijing' | 'shanghai-old' | 'shanghai' | 'zhejiang' | 'gu
 export interface Source { title: string; url: string; documentNo: string; publishedAt: string; kind: 'rule' | 'parameter' | 'directory'; }
 export type RegionalParameterKind = 'pensionBase' | 'baseScenario' | 'contributionMin' | 'contributionMax' | 'indexBase';
 export interface RegionalParameter { kind:RegionalParameterKind; year:number; value:number; from:string; to?:string; source:Source; excludeCities?:string[]; scenarioNote?:string; }
-export interface RegionalReference { province:string; name:string; portal:Source; parameters:RegionalParameter[]; cityParameters:Record<string,RegionalParameter[]>; notes:string[]; reviewedAt:string; }
+export interface RegionalReference { province:string; name:string; portal:Source; parameters:RegionalParameter[]; cityParameters:Record<string,RegionalParameter[]>; isolatedCities?:string[]; notes:string[]; reviewedAt:string; }
 export interface Policy {
   id: string; version: number; region: string; name: string; formula: Formula;
   effectiveFrom: string; effectiveTo?: string; parameterYear: number; base: number;

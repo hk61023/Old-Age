@@ -1,6 +1,6 @@
 import type { Category, PersonalInput, Policy, Scenario, Calculation, Experience, RegionalReference } from './types';
 import {referenceBase,regionalParameters} from './regions';
-export const ENGINE_VERSION = '1.2.0';
+export const ENGINE_VERSION = '1.3.0';
 export const monthNumber = (s: string) => /^\d{4}-(0[1-9]|1[0-2])$/.test(s) ? Number(s.slice(0,4))*12 + Number(s.slice(5))-1 : NaN;
 export const monthText = (n: number) => `${Math.floor(n/12)}-${String(n%12+1).padStart(2,'0')}`;
 export const todayMonth = () => new Intl.DateTimeFormat('sv-SE',{timeZone:'Asia/Shanghai',year:'numeric',month:'2-digit'}).format(new Date());

@@ -145,3 +145,11 @@ expandScenarios('650000',['650100','650200','650400','650500','652300','652700',
 expandScenarios('370000',['371700'],7506,2025,sd,'菏泽正式计发基数未核验；沿用官方2025年度缴费基准7506元作情景，不套用其他山东城市的7831元计发基数。');
 const sdRef=seedRegionalReferences.find(r=>r.province==='370000')!;
 sdRef.notes=sdRef.notes.map(n=>n.replace('菏泽计发参数未核验，测算选项暂隐藏','菏泽计发参数未核验，仅提供独立工资基数情景'));
+
+// Bingtuan cities have their own pension administration. A regional wage scenario
+// is useful for comparison, but must not inherit the autonomous region's pay limits.
+export const bingtuanCities=['659001','659002','659003','659004','659005','659006','659007','659008','659009','659010','659011','659012'];
+expandScenarios('650000',bingtuanCities,8744,2026,xj2026,'兵团城市的区域工资参考情景：借用已公布的新疆区域全口径工资8744元作为可比较的假设输入，不认定为兵团正式计发基数、兵团平均工资或缴费指数；兵团缴费上下限、地方待遇及取整未核验。仅适用于普通企业职工及灵活就业情景，不适用于连队职工、特殊退休或机关事业单位。');
+xjRef.isolatedCities=bingtuanCities;
+xjRef.reviewedAt='2026-10-19';
+xjRef.notes.push('新增石河子等12个兵团城市；独立隔离自治区缴费参数，采用明示区域工资情景。兵团统筹及特殊人员口径须由经办确认，不能将情景结果当作已核定待遇。兵团官方依据：https://www.xjbt.gov.cn/c/2018-07-16/8041214.shtml 。');

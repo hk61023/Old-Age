@@ -2,7 +2,7 @@ import type { RegionalReference,RegionalParameter,RegionalParameterKind,Policy }
 export const parameterLabels:Record<RegionalParameterKind,string>={pensionBase:'养老金计发基数',baseScenario:'工资基数情景（非正式计发标准）',contributionMin:'职工养老缴费下限',contributionMax:'职工养老缴费上限',indexBase:'缴费指数参考工资（分母）'};
 export function regionalParameters(ref:RegionalReference,city:string):RegionalParameter[]{
   const overrides=ref.cityParameters[city]||[];
-  return [...ref.parameters.filter(p=>!p.excludeCities?.includes(city)&&!overrides.some(o=>o.kind===p.kind&&o.year===p.year)),...overrides].sort((a,b)=>b.year-a.year||a.kind.localeCompare(b.kind));
+  return [...(ref.isolatedCities?.includes(city)?[]:ref.parameters.filter(p=>!p.excludeCities?.includes(city)&&!overrides.some(o=>o.kind===p.kind&&o.year===p.year))),...overrides].sort((a,b)=>b.year-a.year||a.kind.localeCompare(b.kind));
 }
 export function referenceBase(ref:RegionalReference|undefined,city:string,asOf:string){
   const applicable=ref?regionalParameters(ref,city).filter(p=>p.from.slice(0,7)<=asOf&&Number.isFinite(p.value)&&p.value>0):[];
