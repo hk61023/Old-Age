@@ -1,0 +1,13 @@
+import { writeFileSync,mkdirSync } from 'node:fs';
+import { incomeRegions,rankingSources,INCOME_RANKING_YEAR } from '../src/data/income-regions';
+import { incomeCoverage,latestIncome,incomeLabels,type IncomeRecord } from '../src/core/income';
+import seed from '../src/data/income-seed.json';
+import { incomeRecordSchema } from '../server/income';
+const records=seed.map(r=>incomeRecordSchema.parse(r)) as IncomeRecord[];
+const coverage=incomeCoverage(records,incomeRegions);
+mkdirSync('artifacts',{recursive:true});
+const rows=incomeRegions.map(region=>({region,...Object.fromEntries((['all','urban','rural','private','nonPrivate'] as const).map(p=>[p,latestIncome(records,region.code,['private','nonPrivate'].includes(p)?'wage':'disposable',p)||null]))}));
+writeFileSync('artifacts/income-coverage.json',JSON.stringify({verifiedAt:'2026-10-19',rankingYear:INCOME_RANKING_YEAR,rankingSources,coverage,records:records.length,regions:rows},null,2));
+const text=['# 收入资料逐项覆盖表','',`核验日期：2026-10-19；GDP名单年度：${INCOME_RANKING_YEAR}。金额单位：元/人/年。覆盖完成数仅表示已有地区自身居民收入指标，不表示所有分项全部核验。`,'','| 地区 | 全体 | 城镇 | 农村 | 私营工资 | 非私营工资 |','|---|---|---|---|---|---|',...incomeRegions.map(region=>`| ${region.name} | ${(['all','urban','rural','private','nonPrivate'] as const).map(p=>{const r=latestIncome(records,region.code,['private','nonPrivate'].includes(p)?'wage':'disposable',p);return r?`${r.year} · ${r.value??'未单独公布'}`:'待核验';}).join(' | ')} |`),'','## 每条记录的来源','',...records.map(r=>`- ${incomeRegions.find(x=>x.code===r.region)?.name} · ${r.year} · ${r.metric==='median'?'中位数 · ':''}${incomeLabels[r.population]}：${r.value??'未单独公布'}；[${r.source.title}](${r.source.url})；发布 ${r.source.publishedAt||'原文未标注'}；核验 ${r.source.verifiedAt}；v${r.version}。`)];
+writeFileSync('docs/收入资料覆盖表.md',text.join('\n')+'\n');
+console.log(JSON.stringify({coverage,records:records.length,wageRecords:records.filter(r=>r.metric==='wage').length},null,2));

@@ -1,0 +1,65 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import { calculate,retirement,minimumMonths,monthNumber,recordIssues,resolveLocation,selectPolicy } from '../src/core/engine';
+import { seedPolicies } from '../src/data/policies';
+import { fixtureFor,runFixtures } from '../server/validation';
+import { parseRecords,CSV_TEMPLATE } from '../src/core/csv';
+const bj=seedPolicies[0],sh=seedPolicies[1],zj=seedPolicies.find(p=>p.formula==='zhejiang')!;
+const run=(patch:Record<string,unknown>={},scenario:Record<string,unknown>={})=>{const f=fixtureFor(bj);return calculate({...f.input,...patch},{...f.scenario,...scenario},seedPolicies);};
+test('官方延迟退休出生月边界及上限',()=>{
+  assert.equal(retirement('1964-12','male60')?.ageMonths,720);
+  assert.equal(retirement('1965-01','male60')?.ageMonths,721);
+  assert.equal(retirement('1965-04','male60')?.ageMonths,721);
+  assert.equal(retirement('1965-05','male60')?.ageMonths,722);
+  assert.equal(retirement('1970-01','female55')?.ageMonths,661);
+  assert.equal(retirement('1975-01','female50')?.ageMonths,601);
+  assert.equal(retirement('1975-03','female50')?.ageMonths,602);
+  assert.equal(retirement('1990-01','male60')?.ageMonths,756);
+  assert.equal(retirement('1990-01','female50')?.ageMonths,660);
+  assert.equal(retirement('1990-01','unknown'),null);
+});
+test('最低缴费年限2029、2030及2039边界',()=>{assert.equal(minimumMonths(2029),180);assert.equal(minimumMonths(2030),186);assert.equal(minimumMonths(2031),192);assert.equal(minimumMonths(2039),240);assert.equal(minimumMonths(2045),240);});
+for(const p of seedPolicies)test(`${p.name}：独立手算20年、指数1、139000元账户`,()=>{const f=fixtureFor(p);const r=calculate(f.input,f.scenario,seedPolicies);assert.equal(r.basic,f.expectedBasic);assert.equal(r.account,1000);if(p.formula==='shenzhen')assert.equal(r.total,null);else assert.equal(r.total,Number((f.expectedBasic+1000).toFixed(2)));});
+test('上海新办法按4位小数折年并见分进角',()=>{const f=fixtureFor(sh);const r=calculate({...f.input,paidMonths:241},f.scenario,seedPolicies);assert.equal(r.basic,2525.9);});
+test('退休类别不确定、未来出生、负数、超长年限不出金额',()=>{for(const patch of [{category:'unknown'},{birth:'2030-01'},{paidMonths:-1},{paidMonths:721},{averageIndex:-1},{transitionMonths:-1},{bjPre98Months:70}]){const r=run(patch);assert.equal(r.total,null);assert.equal(r.basic,null);}});
+test('缴费年限不足不产生可领总额',()=>{const r=run({paidMonths:100});assert.equal(r.eligible,false);assert.equal(r.total,null);assert.match(r.missing.join(''),/不足/);});
+test('提前退休不能低于原法定年龄',()=>{const r=run({}, {retirementOffset:-6});assert.equal(r.status,'blocked');assert.equal(r.total,null);});
+test('弹性延迟按法定年限而非延迟年份；法定时须已满足',()=>{
+  const r=run({birth:'1970-01',asOf:'2026-10',firstInsured:'2010-01',paidMonths:160,accountBalance:139000,balanceDate:'2026-10'},{retirementOffset:36});
+  assert.equal(r.minMonths,minimumMonths(Number(r.statutoryMonth.slice(0,4))));assert.notEqual(r.minMonths,minimumMonths(Number(r.retirementMonth.slice(0,4))));
+  const missing=run({paidMonths:160},{retirementOffset:36});assert.equal(missing.eligible,false);assert.equal(missing.total,null);
+});
+test('账户余额只计截止月之后新增缴费，不重复加历史记录',()=>{
+  const records=[{start:'2025-01',end:'2025-12',province:'110000',city:'110101',base:10000}];
+  const a=run();const b=run({records,recordChoice:'summary'});assert.equal(a.account,b.account);assert.equal(b.projectedBalance,139000);
+});
+test('旧余额后缺记录保留缺口，不假设已缴',()=>{const r=run({balanceDate:'2026-08'});assert.equal(r.account,null);assert.equal(r.total,null);assert.match(r.missing.join(''),/余额日期早于/);});
+test('旧余额衔接只加之后两个月本金',()=>{const r=run({balanceDate:'2026-08',records:[{start:'2026-09',end:'2026-10',province:'110000',city:'110101',base:10000}],recordChoice:'summary'});assert.equal(r.projectedBalance,140600);assert.equal(r.account,1011.51);});
+test('完整缴费记录替换粗略历史本金，不伪造历史利息',()=>{const r=run({firstInsured:'2025-01',paidMonths:12,accountBalance:undefined,records:[{start:'2025-01',end:'2025-12',province:'110000',city:'110101',base:8000}],recordChoice:'records'});assert.equal(r.projectedBalance,7680);assert.match(r.assumptions.join(''),/未计未核验历史利息/);});
+test('汇总与记录冲突需选择后才继续',()=>{const r=run({records:[{start:'2025-01',end:'2025-12',province:'110000',city:'110101',base:8000}],recordChoice:'unconfirmed'});assert.equal(r.total,null);assert.match(r.missing.join(''),/不一致/);});
+test('北京过渡性视同和实际两段独立核算',()=>{const r=run({firstInsured:'1990-01',paidMonths:300,deemedMonths:24,bjPre98Months:60,averageIndex:1.2});assert.equal(r.transition,963.92);});
+test('上海过渡性1.2%与虚账实记120分母',()=>{const f=fixtureFor(sh);const r=calculate({...f.input,firstInsured:'1990-01',deemedMonths:24,shVirtualBalance:12000},f.scenario,seedPolicies);assert.equal(r.transition,401.9);});
+test('浙江过渡性单独指数，不误用全历史平均指数',()=>{const f=fixtureFor(zj);const r=calculate({...f.input,firstInsured:'1990-01',transitionMonths:60,transitionIndex:1.2},f.scenario,seedPolicies);assert.equal(r.transition,717.11);});
+test('缺少过渡性资料时不把未知金额当零',()=>{const r=run({firstInsured:'1990-01'});assert.equal(r.transition,null);assert.equal(r.total,null);});
+test('灵活就业未来自付20%，个人账户8%与企业职工相同',()=>{const a=run({}, {retirementOffset:12});const b=run({identity:'flexible'}, {retirementOffset:12});assert.equal(a.projectedBalance,b.projectedBalance);assert.equal(a.futurePersonalCost,9600);assert.equal(b.futurePersonalCost,24000);});
+test('未核验地区不套用其他省份',()=>{const r=run({province:'320000',city:'320100'});assert.equal(r.policyId,null);assert.equal(r.total,null);});
+test('深圳独立基数与地方补充缺口',()=>{const r=run({province:'440000',city:'440300'});assert.equal(r.projectedBase,11293);assert.equal(r.total,null);});
+test('广东2026年7月起全省统一缴费下限',()=>{const gz=run({province:'440000',city:'440100',insuredProvince:'440000',insuredCity:'440100',contributionBase:4000},{retirementOffset:12});const dg=run({province:'440000',city:'441900',insuredProvince:'440000',insuredCity:'441900',contributionBase:4000},{retirementOffset:12});assert.equal(gz.futurePersonalCost,5300.16);assert.equal(dg.futurePersonalCost,5300.16);});
+test('上海2026年8月按日切换需人工确认',()=>{const f=fixtureFor(sh);const r=calculate({...f.input,birth:'1966-04',asOf:'2026-08',balanceDate:'2026-08'},f.scenario,seedPolicies);assert.equal(r.retirementMonth,'2026-08');assert.equal(r.total,null);assert.match(r.missing.join(''),/按日生效/);});
+test('生效时间选版，不使用未来版本；过期未来投影有假设',()=>{assert.equal(selectPolicy(seedPolicies,'310000','310101','2026-03','2026-03')?.formula,'shanghai-old');assert.equal(selectPolicy(seedPolicies,'310000','310101','2026-10','2026-10')?.formula,'shanghai');assert.equal(selectPolicy(seedPolicies,'310000','310101','2040-01','2026-10')?.formula,'shanghai');});
+test('跨省领取地按户籍、当前10年、回溯10年、临时账户分别处理',()=>{
+  assert.equal(resolveLocation('110000','110000',[],true).region,'110000');
+  assert.equal(resolveLocation('110000','330000',[{province:'330000',months:120,temporary:false}],true).region,'330000');
+  assert.equal(resolveLocation('110000','330000',[{province:'310000',months:130,temporary:false},{province:'330000',months:60,temporary:false}],true).region,'310000');
+  assert.equal(resolveLocation('110000','330000',[{province:'330000',months:150,temporary:true}],true).region,'110000');
+  assert.equal(resolveLocation('110000','330000',[],false).region,null);
+});
+test('CSV模板可读，重复、非法金额、代码、未来日期拒绝',()=>{
+  const cities=new Map([['330100','330000']]);assert.equal(parseRecords(CSV_TEMPLATE,'2026-10',cities).errors.length,0);
+  const duplicate=CSV_TEMPLATE+'2025-12,2026-01,330000,330100,8000\n';assert.match(parseRecords(duplicate,'2026-10',cities).errors.join(''),/重复/);
+  assert.ok(parseRecords(CSV_TEMPLATE.replace('8000','=1+1'),'2026-10',cities).errors.length);
+  assert.ok(parseRecords(CSV_TEMPLATE.replace('330100','110101'),'2026-10',cities).errors.length);
+  assert.ok(parseRecords(CSV_TEMPLATE.replace('2025-12','2027-12'),'2026-10',cities).errors.length);
+  assert.ok(recordIssues([{start:'2026-10',end:'2025-01',province:'330000',city:'330100',base:5}],'2026-10').length);
+});
+test('规则回归样例与保存快照不会随已发布参数变化而改变',()=>{const f=fixtureFor(bj);const snapshot=structuredClone(bj);const edited={...bj,base:13000};assert.equal(calculate(f.input,f.scenario,[snapshot]).basic,2409.8);assert.equal(calculate(f.input,f.scenario,[edited]).basic,2600);assert.equal(runFixtures(edited,[f])[0].pass,false);});

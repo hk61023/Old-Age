@@ -1,0 +1,26 @@
+[Unit]
+Description=Yanglao pension policy service
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=yanglao
+Group=yanglao
+WorkingDirectory=/opt/yanglao/current
+Environment=NODE_ENV=production
+Environment=PORT=3210
+Environment=PATH=/opt/yanglao/node/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+ExecStart=/opt/yanglao/node/bin/node --import tsx server/index.ts
+Restart=on-failure
+RestartSec=5
+TimeoutStopSec=30
+UMask=0077
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ProtectHome=true
+ReadWritePaths=/var/lib/yanglao
+
+[Install]
+WantedBy=multi-user.target

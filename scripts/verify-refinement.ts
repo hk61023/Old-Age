@@ -1,0 +1,13 @@
+import { DatabaseSync } from 'node:sqlite';
+import { readFileSync,writeFileSync,copyFileSync,readdirSync } from 'node:fs';
+import { regionalReferences } from '../server/store';
+const db=new DatabaseSync('data/policies.sqlite',{readOnly:true});
+const refs=regionalReferences(db);
+const requests=readFileSync('artifacts/browser-requests.jsonl','utf8').trim().split('\n').filter(Boolean).map(x=>JSON.parse(x));
+copyFileSync('artifacts/browser-requests.jsonl','artifacts/refinement-browser-requests.jsonl');
+const backupName=readdirSync('data/backups').filter(s=>s.endsWith('.sqlite')).sort().at(-1)!;
+const backup=new DatabaseSync(`data/backups/${backupName}`,{readOnly:true});
+const report={version:'1.1.0',references:refs.length,numericProvinces:refs.filter(r=>r.parameters.length).length,policies:db.prepare('SELECT id,version FROM policies WHERE active=1').all(),integrity:db.prepare('PRAGMA integrity_check').all(),requests:{total:requests.length,methods:[...new Set(requests.map(r=>r.method))],writes:requests.filter(r=>r.method!=='GET'),apiPaths:[...new Set(requests.filter(r=>r.path.startsWith('/api/')).map(r=>r.path))],scope:'本轮累计月数、余额与参保地区修改、全国省市筛选及页面刷新；未记录请求正文'},backup:{file:backupName,integrity:backup.prepare('PRAGMA integrity_check').all(),referenceRows:backup.prepare('SELECT COUNT(*) AS n FROM regional_references').get()}};
+db.close();backup.close();
+if(refs.length!==31||report.requests.writes.length)throw new Error('本轮数据或隐私验证异常');
+writeFileSync('artifacts/refinement-verification.json',JSON.stringify(report,null,2));console.log(JSON.stringify(report,null,2));

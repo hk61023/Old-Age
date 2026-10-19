@@ -1,0 +1,4145 @@
+[
+  {
+    "region": "310000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 91987,
+    "growth": 4.1,
+    "source": {
+      "title": "2025年1—12月长三角41城市民生调查指标（国家统计局嘉兴调查队）",
+      "url": "https://zjzd.stats.gov.cn/gjtjjjxdcd/dcsj/zsjsj/art/2026/art_4b54645c01144942897f69b753260626.html",
+      "publishedAt": "2026-08-10",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年1—12月，单位：元。全体、城镇、农村居民人均可支配收入及同比名义增幅：上海市  | 91987   | 4.1   | 96842   | 4.0   | 48122   | 5.4   | 100.1"
+    },
+    "id": "310000-2025-disposable-all",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "310000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 96842,
+    "growth": 4,
+    "source": {
+      "title": "2025年1—12月长三角41城市民生调查指标（国家统计局嘉兴调查队）",
+      "url": "https://zjzd.stats.gov.cn/gjtjjjxdcd/dcsj/zsjsj/art/2026/art_4b54645c01144942897f69b753260626.html",
+      "publishedAt": "2026-08-10",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年1—12月，单位：元。全体、城镇、农村居民人均可支配收入及同比名义增幅：上海市  | 91987   | 4.1   | 96842   | 4.0   | 48122   | 5.4   | 100.1"
+    },
+    "id": "310000-2025-disposable-urban",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "310000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 48122,
+    "growth": 5.4,
+    "source": {
+      "title": "2025年1—12月长三角41城市民生调查指标（国家统计局嘉兴调查队）",
+      "url": "https://zjzd.stats.gov.cn/gjtjjjxdcd/dcsj/zsjsj/art/2026/art_4b54645c01144942897f69b753260626.html",
+      "publishedAt": "2026-08-10",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年1—12月，单位：元。全体、城镇、农村居民人均可支配收入及同比名义增幅：上海市  | 91987   | 4.1   | 96842   | 4.0   | 48122   | 5.4   | 100.1"
+    },
+    "id": "310000-2025-disposable-rural",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "330000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 70240,
+    "growth": 4.8,
+    "source": {
+      "title": "2025年1—12月长三角41城市民生调查指标（国家统计局嘉兴调查队）",
+      "url": "https://zjzd.stats.gov.cn/gjtjjjxdcd/dcsj/zsjsj/art/2026/art_4b54645c01144942897f69b753260626.html",
+      "publishedAt": "2026-08-10",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年1—12月，单位：元。全体、城镇、农村居民人均可支配收入及同比名义增幅：浙江省  | 70240   | 4.8   | 81649   | 4.3   | 45154   | 5.5   | 100.0"
+    },
+    "id": "330000-2025-disposable-all",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "330000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 81649,
+    "growth": 4.3,
+    "source": {
+      "title": "2025年1—12月长三角41城市民生调查指标（国家统计局嘉兴调查队）",
+      "url": "https://zjzd.stats.gov.cn/gjtjjjxdcd/dcsj/zsjsj/art/2026/art_4b54645c01144942897f69b753260626.html",
+      "publishedAt": "2026-08-10",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年1—12月，单位：元。全体、城镇、农村居民人均可支配收入及同比名义增幅：浙江省  | 70240   | 4.8   | 81649   | 4.3   | 45154   | 5.5   | 100.0"
+    },
+    "id": "330000-2025-disposable-urban",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "330000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 45154,
+    "growth": 5.5,
+    "source": {
+      "title": "2025年1—12月长三角41城市民生调查指标（国家统计局嘉兴调查队）",
+      "url": "https://zjzd.stats.gov.cn/gjtjjjxdcd/dcsj/zsjsj/art/2026/art_4b54645c01144942897f69b753260626.html",
+      "publishedAt": "2026-08-10",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年1—12月，单位：元。全体、城镇、农村居民人均可支配收入及同比名义增幅：浙江省  | 70240   | 4.8   | 81649   | 4.3   | 45154   | 5.5   | 100.0"
+    },
+    "id": "330000-2025-disposable-rural",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "330100",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 80017,
+    "growth": 4.2,
+    "source": {
+      "title": "2025年1—12月长三角41城市民生调查指标（国家统计局嘉兴调查队）",
+      "url": "https://zjzd.stats.gov.cn/gjtjjjxdcd/dcsj/zsjsj/art/2026/art_4b54645c01144942897f69b753260626.html",
+      "publishedAt": "2026-08-10",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年1—12月，单位：元。全体、城镇、农村居民人均可支配收入及同比名义增幅：杭    州  | 80017   | 4.2   | 86640   | 3.9   | 53565   | 5.4   | 100.0"
+    },
+    "id": "330100-2025-disposable-all",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "330100",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 86640,
+    "growth": 3.9,
+    "source": {
+      "title": "2025年1—12月长三角41城市民生调查指标（国家统计局嘉兴调查队）",
+      "url": "https://zjzd.stats.gov.cn/gjtjjjxdcd/dcsj/zsjsj/art/2026/art_4b54645c01144942897f69b753260626.html",
+      "publishedAt": "2026-08-10",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年1—12月，单位：元。全体、城镇、农村居民人均可支配收入及同比名义增幅：杭    州  | 80017   | 4.2   | 86640   | 3.9   | 53565   | 5.4   | 100.0"
+    },
+    "id": "330100-2025-disposable-urban",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "330100",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 53565,
+    "growth": 5.4,
+    "source": {
+      "title": "2025年1—12月长三角41城市民生调查指标（国家统计局嘉兴调查队）",
+      "url": "https://zjzd.stats.gov.cn/gjtjjjxdcd/dcsj/zsjsj/art/2026/art_4b54645c01144942897f69b753260626.html",
+      "publishedAt": "2026-08-10",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年1—12月，单位：元。全体、城镇、农村居民人均可支配收入及同比名义增幅：杭    州  | 80017   | 4.2   | 86640   | 3.9   | 53565   | 5.4   | 100.0"
+    },
+    "id": "330100-2025-disposable-rural",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "330200",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 77779,
+    "growth": 4,
+    "source": {
+      "title": "2025年1—12月长三角41城市民生调查指标（国家统计局嘉兴调查队）",
+      "url": "https://zjzd.stats.gov.cn/gjtjjjxdcd/dcsj/zsjsj/art/2026/art_4b54645c01144942897f69b753260626.html",
+      "publishedAt": "2026-08-10",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年1—12月，单位：元。全体、城镇、农村居民人均可支配收入及同比名义增幅：宁    波  | 77779   | 4.0   | 86088   | 3.6   | 53683   | 4.8   | 100.4"
+    },
+    "id": "330200-2025-disposable-all",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "330200",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 86088,
+    "growth": 3.6,
+    "source": {
+      "title": "2025年1—12月长三角41城市民生调查指标（国家统计局嘉兴调查队）",
+      "url": "https://zjzd.stats.gov.cn/gjtjjjxdcd/dcsj/zsjsj/art/2026/art_4b54645c01144942897f69b753260626.html",
+      "publishedAt": "2026-08-10",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年1—12月，单位：元。全体、城镇、农村居民人均可支配收入及同比名义增幅：宁    波  | 77779   | 4.0   | 86088   | 3.6   | 53683   | 4.8   | 100.4"
+    },
+    "id": "330200-2025-disposable-urban",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "330200",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 53683,
+    "growth": 4.8,
+    "source": {
+      "title": "2025年1—12月长三角41城市民生调查指标（国家统计局嘉兴调查队）",
+      "url": "https://zjzd.stats.gov.cn/gjtjjjxdcd/dcsj/zsjsj/art/2026/art_4b54645c01144942897f69b753260626.html",
+      "publishedAt": "2026-08-10",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年1—12月，单位：元。全体、城镇、农村居民人均可支配收入及同比名义增幅：宁    波  | 77779   | 4.0   | 86088   | 3.6   | 53683   | 4.8   | 100.4"
+    },
+    "id": "330200-2025-disposable-rural",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "330300",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 73660,
+    "growth": 4,
+    "source": {
+      "title": "2025年1—12月长三角41城市民生调查指标（国家统计局嘉兴调查队）",
+      "url": "https://zjzd.stats.gov.cn/gjtjjjxdcd/dcsj/zsjsj/art/2026/art_4b54645c01144942897f69b753260626.html",
+      "publishedAt": "2026-08-10",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年1—12月，单位：元。全体、城镇、农村居民人均可支配收入及同比名义增幅：温    州  | 73660   | 4.0   | 84347   | 3.5   | 46446   | 4.9   | 99.7"
+    },
+    "id": "330300-2025-disposable-all",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "330300",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 84347,
+    "growth": 3.5,
+    "source": {
+      "title": "2025年1—12月长三角41城市民生调查指标（国家统计局嘉兴调查队）",
+      "url": "https://zjzd.stats.gov.cn/gjtjjjxdcd/dcsj/zsjsj/art/2026/art_4b54645c01144942897f69b753260626.html",
+      "publishedAt": "2026-08-10",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年1—12月，单位：元。全体、城镇、农村居民人均可支配收入及同比名义增幅：温    州  | 73660   | 4.0   | 84347   | 3.5   | 46446   | 4.9   | 99.7"
+    },
+    "id": "330300-2025-disposable-urban",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "330300",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 46446,
+    "growth": 4.9,
+    "source": {
+      "title": "2025年1—12月长三角41城市民生调查指标（国家统计局嘉兴调查队）",
+      "url": "https://zjzd.stats.gov.cn/gjtjjjxdcd/dcsj/zsjsj/art/2026/art_4b54645c01144942897f69b753260626.html",
+      "publishedAt": "2026-08-10",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年1—12月，单位：元。全体、城镇、农村居民人均可支配收入及同比名义增幅：温    州  | 73660   | 4.0   | 84347   | 3.5   | 46446   | 4.9   | 99.7"
+    },
+    "id": "330300-2025-disposable-rural",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "330400",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 72086,
+    "growth": 4.1,
+    "source": {
+      "title": "2025年1—12月长三角41城市民生调查指标（国家统计局嘉兴调查队）",
+      "url": "https://zjzd.stats.gov.cn/gjtjjjxdcd/dcsj/zsjsj/art/2026/art_4b54645c01144942897f69b753260626.html",
+      "publishedAt": "2026-08-10",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年1—12月，单位：元。全体、城镇、农村居民人均可支配收入及同比名义增幅：嘉    兴  | 72086   | 4.1   | 81547   | 3.7   | 54939   | 5.1   | 100.1"
+    },
+    "id": "330400-2025-disposable-all",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "330400",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 81547,
+    "growth": 3.7,
+    "source": {
+      "title": "2025年1—12月长三角41城市民生调查指标（国家统计局嘉兴调查队）",
+      "url": "https://zjzd.stats.gov.cn/gjtjjjxdcd/dcsj/zsjsj/art/2026/art_4b54645c01144942897f69b753260626.html",
+      "publishedAt": "2026-08-10",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年1—12月，单位：元。全体、城镇、农村居民人均可支配收入及同比名义增幅：嘉    兴  | 72086   | 4.1   | 81547   | 3.7   | 54939   | 5.1   | 100.1"
+    },
+    "id": "330400-2025-disposable-urban",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "330400",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 54939,
+    "growth": 5.1,
+    "source": {
+      "title": "2025年1—12月长三角41城市民生调查指标（国家统计局嘉兴调查队）",
+      "url": "https://zjzd.stats.gov.cn/gjtjjjxdcd/dcsj/zsjsj/art/2026/art_4b54645c01144942897f69b753260626.html",
+      "publishedAt": "2026-08-10",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年1—12月，单位：元。全体、城镇、农村居民人均可支配收入及同比名义增幅：嘉    兴  | 72086   | 4.1   | 81547   | 3.7   | 54939   | 5.1   | 100.1"
+    },
+    "id": "330400-2025-disposable-rural",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "330500",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 70521,
+    "growth": 4.8,
+    "source": {
+      "title": "2025年1—12月长三角41城市民生调查指标（国家统计局嘉兴调查队）",
+      "url": "https://zjzd.stats.gov.cn/gjtjjjxdcd/dcsj/zsjsj/art/2026/art_4b54645c01144942897f69b753260626.html",
+      "publishedAt": "2026-08-10",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年1—12月，单位：元。全体、城镇、农村居民人均可支配收入及同比名义增幅：湖    州  | 70521   | 4.8   | 80838   | 4.2   | 53636   | 5.6   | 100.1"
+    },
+    "id": "330500-2025-disposable-all",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "330500",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 80838,
+    "growth": 4.2,
+    "source": {
+      "title": "2025年1—12月长三角41城市民生调查指标（国家统计局嘉兴调查队）",
+      "url": "https://zjzd.stats.gov.cn/gjtjjjxdcd/dcsj/zsjsj/art/2026/art_4b54645c01144942897f69b753260626.html",
+      "publishedAt": "2026-08-10",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年1—12月，单位：元。全体、城镇、农村居民人均可支配收入及同比名义增幅：湖    州  | 70521   | 4.8   | 80838   | 4.2   | 53636   | 5.6   | 100.1"
+    },
+    "id": "330500-2025-disposable-urban",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "330500",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 53636,
+    "growth": 5.6,
+    "source": {
+      "title": "2025年1—12月长三角41城市民生调查指标（国家统计局嘉兴调查队）",
+      "url": "https://zjzd.stats.gov.cn/gjtjjjxdcd/dcsj/zsjsj/art/2026/art_4b54645c01144942897f69b753260626.html",
+      "publishedAt": "2026-08-10",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年1—12月，单位：元。全体、城镇、农村居民人均可支配收入及同比名义增幅：湖    州  | 70521   | 4.8   | 80838   | 4.2   | 53636   | 5.6   | 100.1"
+    },
+    "id": "330500-2025-disposable-rural",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "330600",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 76732,
+    "growth": 5.3,
+    "source": {
+      "title": "2025年1—12月长三角41城市民生调查指标（国家统计局嘉兴调查队）",
+      "url": "https://zjzd.stats.gov.cn/gjtjjjxdcd/dcsj/zsjsj/art/2026/art_4b54645c01144942897f69b753260626.html",
+      "publishedAt": "2026-08-10",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年1—12月，单位：元。全体、城镇、农村居民人均可支配收入及同比名义增幅：绍    兴  | 76732   | 5.3   | 87605   | 4.8   | 54535   | 5.8   | 100.1"
+    },
+    "id": "330600-2025-disposable-all",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "330600",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 87605,
+    "growth": 4.8,
+    "source": {
+      "title": "2025年1—12月长三角41城市民生调查指标（国家统计局嘉兴调查队）",
+      "url": "https://zjzd.stats.gov.cn/gjtjjjxdcd/dcsj/zsjsj/art/2026/art_4b54645c01144942897f69b753260626.html",
+      "publishedAt": "2026-08-10",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年1—12月，单位：元。全体、城镇、农村居民人均可支配收入及同比名义增幅：绍    兴  | 76732   | 5.3   | 87605   | 4.8   | 54535   | 5.8   | 100.1"
+    },
+    "id": "330600-2025-disposable-urban",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "330600",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 54535,
+    "growth": 5.8,
+    "source": {
+      "title": "2025年1—12月长三角41城市民生调查指标（国家统计局嘉兴调查队）",
+      "url": "https://zjzd.stats.gov.cn/gjtjjjxdcd/dcsj/zsjsj/art/2026/art_4b54645c01144942897f69b753260626.html",
+      "publishedAt": "2026-08-10",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年1—12月，单位：元。全体、城镇、农村居民人均可支配收入及同比名义增幅：绍    兴  | 76732   | 5.3   | 87605   | 4.8   | 54535   | 5.8   | 100.1"
+    },
+    "id": "330600-2025-disposable-rural",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "330700",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 67877,
+    "growth": 4.7,
+    "source": {
+      "title": "2025年1—12月长三角41城市民生调查指标（国家统计局嘉兴调查队）",
+      "url": "https://zjzd.stats.gov.cn/gjtjjjxdcd/dcsj/zsjsj/art/2026/art_4b54645c01144942897f69b753260626.html",
+      "publishedAt": "2026-08-10",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年1—12月，单位：元。全体、城镇、农村居民人均可支配收入及同比名义增幅：金    华  | 67877   | 4.7   | 80052   | 4.1   | 42957   | 5.5   | 100.0"
+    },
+    "id": "330700-2025-disposable-all",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "330700",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 80052,
+    "growth": 4.1,
+    "source": {
+      "title": "2025年1—12月长三角41城市民生调查指标（国家统计局嘉兴调查队）",
+      "url": "https://zjzd.stats.gov.cn/gjtjjjxdcd/dcsj/zsjsj/art/2026/art_4b54645c01144942897f69b753260626.html",
+      "publishedAt": "2026-08-10",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年1—12月，单位：元。全体、城镇、农村居民人均可支配收入及同比名义增幅：金    华  | 67877   | 4.7   | 80052   | 4.1   | 42957   | 5.5   | 100.0"
+    },
+    "id": "330700-2025-disposable-urban",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "330700",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 42957,
+    "growth": 5.5,
+    "source": {
+      "title": "2025年1—12月长三角41城市民生调查指标（国家统计局嘉兴调查队）",
+      "url": "https://zjzd.stats.gov.cn/gjtjjjxdcd/dcsj/zsjsj/art/2026/art_4b54645c01144942897f69b753260626.html",
+      "publishedAt": "2026-08-10",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年1—12月，单位：元。全体、城镇、农村居民人均可支配收入及同比名义增幅：金    华  | 67877   | 4.7   | 80052   | 4.1   | 42957   | 5.5   | 100.0"
+    },
+    "id": "330700-2025-disposable-rural",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "330800",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 53555,
+    "growth": 5,
+    "source": {
+      "title": "2025年1—12月长三角41城市民生调查指标（国家统计局嘉兴调查队）",
+      "url": "https://zjzd.stats.gov.cn/gjtjjjxdcd/dcsj/zsjsj/art/2026/art_4b54645c01144942897f69b753260626.html",
+      "publishedAt": "2026-08-10",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年1—12月，单位：元。全体、城镇、农村居民人均可支配收入及同比名义增幅：衢    州  | 53555   | 5.0   | 66658   | 4.9   | 38009   | 5.0   | 99.8"
+    },
+    "id": "330800-2025-disposable-all",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "330800",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 66658,
+    "growth": 4.9,
+    "source": {
+      "title": "2025年1—12月长三角41城市民生调查指标（国家统计局嘉兴调查队）",
+      "url": "https://zjzd.stats.gov.cn/gjtjjjxdcd/dcsj/zsjsj/art/2026/art_4b54645c01144942897f69b753260626.html",
+      "publishedAt": "2026-08-10",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年1—12月，单位：元。全体、城镇、农村居民人均可支配收入及同比名义增幅：衢    州  | 53555   | 5.0   | 66658   | 4.9   | 38009   | 5.0   | 99.8"
+    },
+    "id": "330800-2025-disposable-urban",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "330800",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 38009,
+    "growth": 5,
+    "source": {
+      "title": "2025年1—12月长三角41城市民生调查指标（国家统计局嘉兴调查队）",
+      "url": "https://zjzd.stats.gov.cn/gjtjjjxdcd/dcsj/zsjsj/art/2026/art_4b54645c01144942897f69b753260626.html",
+      "publishedAt": "2026-08-10",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年1—12月，单位：元。全体、城镇、农村居民人均可支配收入及同比名义增幅：衢    州  | 53555   | 5.0   | 66658   | 4.9   | 38009   | 5.0   | 99.8"
+    },
+    "id": "330800-2025-disposable-rural",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "330900",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 74528,
+    "growth": 4.7,
+    "source": {
+      "title": "2025年1—12月长三角41城市民生调查指标（国家统计局嘉兴调查队）",
+      "url": "https://zjzd.stats.gov.cn/gjtjjjxdcd/dcsj/zsjsj/art/2026/art_4b54645c01144942897f69b753260626.html",
+      "publishedAt": "2026-08-10",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年1—12月，单位：元。全体、城镇、农村居民人均可支配收入及同比名义增幅：舟    山  | 74528   | 4.7   | 82911   | 4.4   | 54902   | 5.2   | 99.6"
+    },
+    "id": "330900-2025-disposable-all",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "330900",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 82911,
+    "growth": 4.4,
+    "source": {
+      "title": "2025年1—12月长三角41城市民生调查指标（国家统计局嘉兴调查队）",
+      "url": "https://zjzd.stats.gov.cn/gjtjjjxdcd/dcsj/zsjsj/art/2026/art_4b54645c01144942897f69b753260626.html",
+      "publishedAt": "2026-08-10",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年1—12月，单位：元。全体、城镇、农村居民人均可支配收入及同比名义增幅：舟    山  | 74528   | 4.7   | 82911   | 4.4   | 54902   | 5.2   | 99.6"
+    },
+    "id": "330900-2025-disposable-urban",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "330900",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 54902,
+    "growth": 5.2,
+    "source": {
+      "title": "2025年1—12月长三角41城市民生调查指标（国家统计局嘉兴调查队）",
+      "url": "https://zjzd.stats.gov.cn/gjtjjjxdcd/dcsj/zsjsj/art/2026/art_4b54645c01144942897f69b753260626.html",
+      "publishedAt": "2026-08-10",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年1—12月，单位：元。全体、城镇、农村居民人均可支配收入及同比名义增幅：舟    山  | 74528   | 4.7   | 82911   | 4.4   | 54902   | 5.2   | 99.6"
+    },
+    "id": "330900-2025-disposable-rural",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "331000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 67795,
+    "growth": 5.2,
+    "source": {
+      "title": "2025年1—12月长三角41城市民生调查指标（国家统计局嘉兴调查队）",
+      "url": "https://zjzd.stats.gov.cn/gjtjjjxdcd/dcsj/zsjsj/art/2026/art_4b54645c01144942897f69b753260626.html",
+      "publishedAt": "2026-08-10",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年1—12月，单位：元。全体、城镇、农村居民人均可支配收入及同比名义增幅：台    州  | 67795   | 5.2   | 81064   | 4.5   | 45191   | 6.1   | 99.9"
+    },
+    "id": "331000-2025-disposable-all",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "331000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 81064,
+    "growth": 4.5,
+    "source": {
+      "title": "2025年1—12月长三角41城市民生调查指标（国家统计局嘉兴调查队）",
+      "url": "https://zjzd.stats.gov.cn/gjtjjjxdcd/dcsj/zsjsj/art/2026/art_4b54645c01144942897f69b753260626.html",
+      "publishedAt": "2026-08-10",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年1—12月，单位：元。全体、城镇、农村居民人均可支配收入及同比名义增幅：台    州  | 67795   | 5.2   | 81064   | 4.5   | 45191   | 6.1   | 99.9"
+    },
+    "id": "331000-2025-disposable-urban",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "331000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 45191,
+    "growth": 6.1,
+    "source": {
+      "title": "2025年1—12月长三角41城市民生调查指标（国家统计局嘉兴调查队）",
+      "url": "https://zjzd.stats.gov.cn/gjtjjjxdcd/dcsj/zsjsj/art/2026/art_4b54645c01144942897f69b753260626.html",
+      "publishedAt": "2026-08-10",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年1—12月，单位：元。全体、城镇、农村居民人均可支配收入及同比名义增幅：台    州  | 67795   | 5.2   | 81064   | 4.5   | 45191   | 6.1   | 99.9"
+    },
+    "id": "331000-2025-disposable-rural",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "331100",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 52979,
+    "growth": 5.9,
+    "source": {
+      "title": "2025年1—12月长三角41城市民生调查指标（国家统计局嘉兴调查队）",
+      "url": "https://zjzd.stats.gov.cn/gjtjjjxdcd/dcsj/zsjsj/art/2026/art_4b54645c01144942897f69b753260626.html",
+      "publishedAt": "2026-08-10",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年1—12月，单位：元。全体、城镇、农村居民人均可支配收入及同比名义增幅：丽    水  | 52979   | 5.9   | 64895   | 5.3   | 35119   | 6.4   | 99.9"
+    },
+    "id": "331100-2025-disposable-all",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "331100",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 64895,
+    "growth": 5.3,
+    "source": {
+      "title": "2025年1—12月长三角41城市民生调查指标（国家统计局嘉兴调查队）",
+      "url": "https://zjzd.stats.gov.cn/gjtjjjxdcd/dcsj/zsjsj/art/2026/art_4b54645c01144942897f69b753260626.html",
+      "publishedAt": "2026-08-10",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年1—12月，单位：元。全体、城镇、农村居民人均可支配收入及同比名义增幅：丽    水  | 52979   | 5.9   | 64895   | 5.3   | 35119   | 6.4   | 99.9"
+    },
+    "id": "331100-2025-disposable-urban",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "331100",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 35119,
+    "growth": 6.4,
+    "source": {
+      "title": "2025年1—12月长三角41城市民生调查指标（国家统计局嘉兴调查队）",
+      "url": "https://zjzd.stats.gov.cn/gjtjjjxdcd/dcsj/zsjsj/art/2026/art_4b54645c01144942897f69b753260626.html",
+      "publishedAt": "2026-08-10",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年1—12月，单位：元。全体、城镇、农村居民人均可支配收入及同比名义增幅：丽    水  | 52979   | 5.9   | 64895   | 5.3   | 35119   | 6.4   | 99.9"
+    },
+    "id": "331100-2025-disposable-rural",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "320000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 57971,
+    "growth": 4.6,
+    "source": {
+      "title": "2025年1—12月长三角41城市民生调查指标（国家统计局嘉兴调查队）",
+      "url": "https://zjzd.stats.gov.cn/gjtjjjxdcd/dcsj/zsjsj/art/2026/art_4b54645c01144942897f69b753260626.html",
+      "publishedAt": "2026-08-10",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年1—12月，单位：元。全体、城镇、农村居民人均可支配收入及同比名义增幅：江苏省  | 57971   | 4.6   | 68956   | 4.2   | 34147   | 5.3   | 99.8"
+    },
+    "id": "320000-2025-disposable-all",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "320000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 68956,
+    "growth": 4.2,
+    "source": {
+      "title": "2025年1—12月长三角41城市民生调查指标（国家统计局嘉兴调查队）",
+      "url": "https://zjzd.stats.gov.cn/gjtjjjxdcd/dcsj/zsjsj/art/2026/art_4b54645c01144942897f69b753260626.html",
+      "publishedAt": "2026-08-10",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年1—12月，单位：元。全体、城镇、农村居民人均可支配收入及同比名义增幅：江苏省  | 57971   | 4.6   | 68956   | 4.2   | 34147   | 5.3   | 99.8"
+    },
+    "id": "320000-2025-disposable-urban",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "320000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 34147,
+    "growth": 5.3,
+    "source": {
+      "title": "2025年1—12月长三角41城市民生调查指标（国家统计局嘉兴调查队）",
+      "url": "https://zjzd.stats.gov.cn/gjtjjjxdcd/dcsj/zsjsj/art/2026/art_4b54645c01144942897f69b753260626.html",
+      "publishedAt": "2026-08-10",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年1—12月，单位：元。全体、城镇、农村居民人均可支配收入及同比名义增幅：江苏省  | 57971   | 4.6   | 68956   | 4.2   | 34147   | 5.3   | 99.8"
+    },
+    "id": "320000-2025-disposable-rural",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "320100",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 78243,
+    "growth": 4.1,
+    "source": {
+      "title": "2025年1—12月长三角41城市民生调查指标（国家统计局嘉兴调查队）",
+      "url": "https://zjzd.stats.gov.cn/gjtjjjxdcd/dcsj/zsjsj/art/2026/art_4b54645c01144942897f69b753260626.html",
+      "publishedAt": "2026-08-10",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年1—12月，单位：元。全体、城镇、农村居民人均可支配收入及同比名义增幅：南    京  | 78243   | 4.1   | 86320   | 3.9   | 40471   | 4.6   | 99.8"
+    },
+    "id": "320100-2025-disposable-all",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "320100",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 86320,
+    "growth": 3.9,
+    "source": {
+      "title": "2025年1—12月长三角41城市民生调查指标（国家统计局嘉兴调查队）",
+      "url": "https://zjzd.stats.gov.cn/gjtjjjxdcd/dcsj/zsjsj/art/2026/art_4b54645c01144942897f69b753260626.html",
+      "publishedAt": "2026-08-10",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年1—12月，单位：元。全体、城镇、农村居民人均可支配收入及同比名义增幅：南    京  | 78243   | 4.1   | 86320   | 3.9   | 40471   | 4.6   | 99.8"
+    },
+    "id": "320100-2025-disposable-urban",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "320100",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 40471,
+    "growth": 4.6,
+    "source": {
+      "title": "2025年1—12月长三角41城市民生调查指标（国家统计局嘉兴调查队）",
+      "url": "https://zjzd.stats.gov.cn/gjtjjjxdcd/dcsj/zsjsj/art/2026/art_4b54645c01144942897f69b753260626.html",
+      "publishedAt": "2026-08-10",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年1—12月，单位：元。全体、城镇、农村居民人均可支配收入及同比名义增幅：南    京  | 78243   | 4.1   | 86320   | 3.9   | 40471   | 4.6   | 99.8"
+    },
+    "id": "320100-2025-disposable-rural",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "320200",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 75200,
+    "growth": 4.1,
+    "source": {
+      "title": "2025年1—12月长三角41城市民生调查指标（国家统计局嘉兴调查队）",
+      "url": "https://zjzd.stats.gov.cn/gjtjjjxdcd/dcsj/zsjsj/art/2026/art_4b54645c01144942897f69b753260626.html",
+      "publishedAt": "2026-08-10",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年1—12月，单位：元。全体、城镇、农村居民人均可支配收入及同比名义增幅：无    锡  | 75200   | 4.1   | 83158   | 3.9   | 49181   | 4.5   | 100.0"
+    },
+    "id": "320200-2025-disposable-all",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "320200",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 83158,
+    "growth": 3.9,
+    "source": {
+      "title": "2025年1—12月长三角41城市民生调查指标（国家统计局嘉兴调查队）",
+      "url": "https://zjzd.stats.gov.cn/gjtjjjxdcd/dcsj/zsjsj/art/2026/art_4b54645c01144942897f69b753260626.html",
+      "publishedAt": "2026-08-10",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年1—12月，单位：元。全体、城镇、农村居民人均可支配收入及同比名义增幅：无    锡  | 75200   | 4.1   | 83158   | 3.9   | 49181   | 4.5   | 100.0"
+    },
+    "id": "320200-2025-disposable-urban",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "320200",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 49181,
+    "growth": 4.5,
+    "source": {
+      "title": "2025年1—12月长三角41城市民生调查指标（国家统计局嘉兴调查队）",
+      "url": "https://zjzd.stats.gov.cn/gjtjjjxdcd/dcsj/zsjsj/art/2026/art_4b54645c01144942897f69b753260626.html",
+      "publishedAt": "2026-08-10",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年1—12月，单位：元。全体、城镇、农村居民人均可支配收入及同比名义增幅：无    锡  | 75200   | 4.1   | 83158   | 3.9   | 49181   | 4.5   | 100.0"
+    },
+    "id": "320200-2025-disposable-rural",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "320300",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 42230,
+    "growth": 4.9,
+    "source": {
+      "title": "2025年1—12月长三角41城市民生调查指标（国家统计局嘉兴调查队）",
+      "url": "https://zjzd.stats.gov.cn/gjtjjjxdcd/dcsj/zsjsj/art/2026/art_4b54645c01144942897f69b753260626.html",
+      "publishedAt": "2026-08-10",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年1—12月，单位：元。全体、城镇、农村居民人均可支配收入及同比名义增幅：徐    州  | 42230   | 4.9   | 48978   | 4.3   | 30639   | 5.6   | 100.1"
+    },
+    "id": "320300-2025-disposable-all",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "320300",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 48978,
+    "growth": 4.3,
+    "source": {
+      "title": "2025年1—12月长三角41城市民生调查指标（国家统计局嘉兴调查队）",
+      "url": "https://zjzd.stats.gov.cn/gjtjjjxdcd/dcsj/zsjsj/art/2026/art_4b54645c01144942897f69b753260626.html",
+      "publishedAt": "2026-08-10",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年1—12月，单位：元。全体、城镇、农村居民人均可支配收入及同比名义增幅：徐    州  | 42230   | 4.9   | 48978   | 4.3   | 30639   | 5.6   | 100.1"
+    },
+    "id": "320300-2025-disposable-urban",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "320300",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 30639,
+    "growth": 5.6,
+    "source": {
+      "title": "2025年1—12月长三角41城市民生调查指标（国家统计局嘉兴调查队）",
+      "url": "https://zjzd.stats.gov.cn/gjtjjjxdcd/dcsj/zsjsj/art/2026/art_4b54645c01144942897f69b753260626.html",
+      "publishedAt": "2026-08-10",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年1—12月，单位：元。全体、城镇、农村居民人均可支配收入及同比名义增幅：徐    州  | 42230   | 4.9   | 48978   | 4.3   | 30639   | 5.6   | 100.1"
+    },
+    "id": "320300-2025-disposable-rural",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "320400",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 68295,
+    "growth": 4,
+    "source": {
+      "title": "2025年1—12月长三角41城市民生调查指标（国家统计局嘉兴调查队）",
+      "url": "https://zjzd.stats.gov.cn/gjtjjjxdcd/dcsj/zsjsj/art/2026/art_4b54645c01144942897f69b753260626.html",
+      "publishedAt": "2026-08-10",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年1—12月，单位：元。全体、城镇、农村居民人均可支配收入及同比名义增幅：常    州  | 68295   | 4.0   | 77763   | 3.7   | 44647   | 4.6   | 99.8"
+    },
+    "id": "320400-2025-disposable-all",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "320400",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 77763,
+    "growth": 3.7,
+    "source": {
+      "title": "2025年1—12月长三角41城市民生调查指标（国家统计局嘉兴调查队）",
+      "url": "https://zjzd.stats.gov.cn/gjtjjjxdcd/dcsj/zsjsj/art/2026/art_4b54645c01144942897f69b753260626.html",
+      "publishedAt": "2026-08-10",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年1—12月，单位：元。全体、城镇、农村居民人均可支配收入及同比名义增幅：常    州  | 68295   | 4.0   | 77763   | 3.7   | 44647   | 4.6   | 99.8"
+    },
+    "id": "320400-2025-disposable-urban",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "320400",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 44647,
+    "growth": 4.6,
+    "source": {
+      "title": "2025年1—12月长三角41城市民生调查指标（国家统计局嘉兴调查队）",
+      "url": "https://zjzd.stats.gov.cn/gjtjjjxdcd/dcsj/zsjsj/art/2026/art_4b54645c01144942897f69b753260626.html",
+      "publishedAt": "2026-08-10",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年1—12月，单位：元。全体、城镇、农村居民人均可支配收入及同比名义增幅：常    州  | 68295   | 4.0   | 77763   | 3.7   | 44647   | 4.6   | 99.8"
+    },
+    "id": "320400-2025-disposable-rural",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "320500",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 80796,
+    "growth": 4.2,
+    "source": {
+      "title": "2025年1—12月长三角41城市民生调查指标（国家统计局嘉兴调查队）",
+      "url": "https://zjzd.stats.gov.cn/gjtjjjxdcd/dcsj/zsjsj/art/2026/art_4b54645c01144942897f69b753260626.html",
+      "publishedAt": "2026-08-10",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年1—12月，单位：元。全体、城镇、农村居民人均可支配收入及同比名义增幅：苏    州  | 80796   | 4.2   | 90125   | 4.0   | 51303   | 4.8   | 99.7"
+    },
+    "id": "320500-2025-disposable-all",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "320500",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 90125,
+    "growth": 4,
+    "source": {
+      "title": "2025年1—12月长三角41城市民生调查指标（国家统计局嘉兴调查队）",
+      "url": "https://zjzd.stats.gov.cn/gjtjjjxdcd/dcsj/zsjsj/art/2026/art_4b54645c01144942897f69b753260626.html",
+      "publishedAt": "2026-08-10",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年1—12月，单位：元。全体、城镇、农村居民人均可支配收入及同比名义增幅：苏    州  | 80796   | 4.2   | 90125   | 4.0   | 51303   | 4.8   | 99.7"
+    },
+    "id": "320500-2025-disposable-urban",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "320500",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 51303,
+    "growth": 4.8,
+    "source": {
+      "title": "2025年1—12月长三角41城市民生调查指标（国家统计局嘉兴调查队）",
+      "url": "https://zjzd.stats.gov.cn/gjtjjjxdcd/dcsj/zsjsj/art/2026/art_4b54645c01144942897f69b753260626.html",
+      "publishedAt": "2026-08-10",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年1—12月，单位：元。全体、城镇、农村居民人均可支配收入及同比名义增幅：苏    州  | 80796   | 4.2   | 90125   | 4.0   | 51303   | 4.8   | 99.7"
+    },
+    "id": "320500-2025-disposable-rural",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "320600",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 57242,
+    "growth": 4.8,
+    "source": {
+      "title": "2025年1—12月长三角41城市民生调查指标（国家统计局嘉兴调查队）",
+      "url": "https://zjzd.stats.gov.cn/gjtjjjxdcd/dcsj/zsjsj/art/2026/art_4b54645c01144942897f69b753260626.html",
+      "publishedAt": "2026-08-10",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年1—12月，单位：元。全体、城镇、农村居民人均可支配收入及同比名义增幅：南    通  | 57242   | 4.8   | 68293   | 4.3   | 36972   | 5.2   | 99.7"
+    },
+    "id": "320600-2025-disposable-all",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "320600",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 68293,
+    "growth": 4.3,
+    "source": {
+      "title": "2025年1—12月长三角41城市民生调查指标（国家统计局嘉兴调查队）",
+      "url": "https://zjzd.stats.gov.cn/gjtjjjxdcd/dcsj/zsjsj/art/2026/art_4b54645c01144942897f69b753260626.html",
+      "publishedAt": "2026-08-10",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年1—12月，单位：元。全体、城镇、农村居民人均可支配收入及同比名义增幅：南    通  | 57242   | 4.8   | 68293   | 4.3   | 36972   | 5.2   | 99.7"
+    },
+    "id": "320600-2025-disposable-urban",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "320600",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 36972,
+    "growth": 5.2,
+    "source": {
+      "title": "2025年1—12月长三角41城市民生调查指标（国家统计局嘉兴调查队）",
+      "url": "https://zjzd.stats.gov.cn/gjtjjjxdcd/dcsj/zsjsj/art/2026/art_4b54645c01144942897f69b753260626.html",
+      "publishedAt": "2026-08-10",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年1—12月，单位：元。全体、城镇、农村居民人均可支配收入及同比名义增幅：南    通  | 57242   | 4.8   | 68293   | 4.3   | 36972   | 5.2   | 99.7"
+    },
+    "id": "320600-2025-disposable-rural",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "340000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 38755,
+    "growth": 5.4,
+    "source": {
+      "title": "2025年1—12月长三角41城市民生调查指标（国家统计局嘉兴调查队）",
+      "url": "https://zjzd.stats.gov.cn/gjtjjjxdcd/dcsj/zsjsj/art/2026/art_4b54645c01144942897f69b753260626.html",
+      "publishedAt": "2026-08-10",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年1—12月，单位：元。全体、城镇、农村居民人均可支配收入及同比名义增幅：安徽省  | 38755   | 5.4   | 51737   | 4.4   | 23828   | 5.9   | 100.5"
+    },
+    "id": "340000-2025-disposable-all",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "340000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 51737,
+    "growth": 4.4,
+    "source": {
+      "title": "2025年1—12月长三角41城市民生调查指标（国家统计局嘉兴调查队）",
+      "url": "https://zjzd.stats.gov.cn/gjtjjjxdcd/dcsj/zsjsj/art/2026/art_4b54645c01144942897f69b753260626.html",
+      "publishedAt": "2026-08-10",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年1—12月，单位：元。全体、城镇、农村居民人均可支配收入及同比名义增幅：安徽省  | 38755   | 5.4   | 51737   | 4.4   | 23828   | 5.9   | 100.5"
+    },
+    "id": "340000-2025-disposable-urban",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "340000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 23828,
+    "growth": 5.9,
+    "source": {
+      "title": "2025年1—12月长三角41城市民生调查指标（国家统计局嘉兴调查队）",
+      "url": "https://zjzd.stats.gov.cn/gjtjjjxdcd/dcsj/zsjsj/art/2026/art_4b54645c01144942897f69b753260626.html",
+      "publishedAt": "2026-08-10",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年1—12月，单位：元。全体、城镇、农村居民人均可支配收入及同比名义增幅：安徽省  | 38755   | 5.4   | 51737   | 4.4   | 23828   | 5.9   | 100.5"
+    },
+    "id": "340000-2025-disposable-rural",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "340100",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 58930,
+    "growth": 5.5,
+    "source": {
+      "title": "2025年1—12月长三角41城市民生调查指标（国家统计局嘉兴调查队）",
+      "url": "https://zjzd.stats.gov.cn/gjtjjjxdcd/dcsj/zsjsj/art/2026/art_4b54645c01144942897f69b753260626.html",
+      "publishedAt": "2026-08-10",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年1—12月，单位：元。全体、城镇、农村居民人均可支配收入及同比名义增幅：合    肥  | 58930   | 5.5   | 65568   | 4.6   | 35253   | 5.9   | 100.6"
+    },
+    "id": "340100-2025-disposable-all",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "340100",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 65568,
+    "growth": 4.6,
+    "source": {
+      "title": "2025年1—12月长三角41城市民生调查指标（国家统计局嘉兴调查队）",
+      "url": "https://zjzd.stats.gov.cn/gjtjjjxdcd/dcsj/zsjsj/art/2026/art_4b54645c01144942897f69b753260626.html",
+      "publishedAt": "2026-08-10",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年1—12月，单位：元。全体、城镇、农村居民人均可支配收入及同比名义增幅：合    肥  | 58930   | 5.5   | 65568   | 4.6   | 35253   | 5.9   | 100.6"
+    },
+    "id": "340100-2025-disposable-urban",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "340100",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 35253,
+    "growth": 5.9,
+    "source": {
+      "title": "2025年1—12月长三角41城市民生调查指标（国家统计局嘉兴调查队）",
+      "url": "https://zjzd.stats.gov.cn/gjtjjjxdcd/dcsj/zsjsj/art/2026/art_4b54645c01144942897f69b753260626.html",
+      "publishedAt": "2026-08-10",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年1—12月，单位：元。全体、城镇、农村居民人均可支配收入及同比名义增幅：合    肥  | 58930   | 5.5   | 65568   | 4.6   | 35253   | 5.9   | 100.6"
+    },
+    "id": "340100-2025-disposable-rural",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "440100",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 80591,
+    "source": {
+      "title": "2025年广州经济运行情况  广州市统计局网站",
+      "url": "https://tjj.gz.gov.cn/stats_newtjyw/sjjd/content/mpost_10669102.html",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "... 　　2025年，广州居民人均可支配收入80591元，同比增长3.6%。 分城乡看，城镇居民人均可支配收入86069元，增长3.2%；农村居民人均可支配收入43145元，增长5.5%，城乡居民人均收入比值缩小至2以下。 　　2025年，广州居民人均可支配收入80591元，同比增长3.6%。 分城乡看，城镇居民人均可支配收入86069元，增长3.2%；农村居民人均可支配收入43145元，增长5.5%，城乡居民人均收入比值缩小至2以下。"
+    },
+    "id": "440100-2025-disposable-all",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "440100",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 86069,
+    "source": {
+      "title": "2025年广州经济运行情况  广州市统计局网站",
+      "url": "https://tjj.gz.gov.cn/stats_newtjyw/sjjd/content/mpost_10669102.html",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "... 　　2025年，广州居民人均可支配收入80591元，同比增长3.6%。 分城乡看，城镇居民人均可支配收入86069元，增长3.2%；农村居民人均可支配收入43145元，增长5.5%，城乡居民人均收入比值缩小至2以下。 　　2025年，广州居民人均可支配收入80591元，同比增长3.6%。 分城乡看，城镇居民人均可支配收入86069元，增长3.2%；农村居民人均可支配收入43145元，增长5.5%，城乡居民人均收入比值缩小至2以下。"
+    },
+    "id": "440100-2025-disposable-urban",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "440100",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 43145,
+    "source": {
+      "title": "2025年广州经济运行情况  广州市统计局网站",
+      "url": "https://tjj.gz.gov.cn/stats_newtjyw/sjjd/content/mpost_10669102.html",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "... 　　2025年，广州居民人均可支配收入80591元，同比增长3.6%。 分城乡看，城镇居民人均可支配收入86069元，增长3.2%；农村居民人均可支配收入43145元，增长5.5%，城乡居民人均收入比值缩小至2以下。 　　2025年，广州居民人均可支配收入80591元，同比增长3.6%。 分城乡看，城镇居民人均可支配收入86069元，增长3.2%；农村居民人均可支配收入43145元，增长5.5%，城乡居民人均收入比值缩小至2以下。"
+    },
+    "id": "440100-2025-disposable-rural",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "440300",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 84945,
+    "source": {
+      "title": "深圳市2025年国民经济和社会发展统计公报--2026年第17期（总第1416期）",
+      "url": "https://www.sz.gov.cn/zfgb/2026/gb1416/content/post_12848555.html",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "... 　　全年全市居民人均可支配收入84945元，比上年增长4.7%。 　　全年全市居民人均可支配收入84945元，比上年增长4.7%。"
+    },
+    "id": "440300-2025-disposable-all",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "441900",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 70803,
+    "source": {
+      "title": "2025年东莞市国民经济和社会发展统计公报_统计公报",
+      "url": "https://tjj.dg.gov.cn/tjzl/tjgb/content/post_4537415.html",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "... 　　全年全市居民人均可支配收入70803元，比上年增长3.7%。 分城乡看，城镇居民人均可支配收入72137元，增长3.4%；农村居民人均可支配收入52133元，增长5.5%，城乡收入差距进一步缩小。 　　全年全市居民人均可支配收入70803元，比上年增长3.7%。 分城乡看，城镇居民人均可支配收入72137元，增长3.4%；农村居民人均可支配收入52133元，增长5.5%，城乡收入差距进一步缩小。"
+    },
+    "id": "441900-2025-disposable-all",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "441900",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 72137,
+    "source": {
+      "title": "2025年东莞市国民经济和社会发展统计公报_统计公报",
+      "url": "https://tjj.dg.gov.cn/tjzl/tjgb/content/post_4537415.html",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "... 　　全年全市居民人均可支配收入70803元，比上年增长3.7%。 分城乡看，城镇居民人均可支配收入72137元，增长3.4%；农村居民人均可支配收入52133元，增长5.5%，城乡收入差距进一步缩小。 　　全年全市居民人均可支配收入70803元，比上年增长3.7%。 分城乡看，城镇居民人均可支配收入72137元，增长3.4%；农村居民人均可支配收入52133元，增长5.5%，城乡收入差距进一步缩小。"
+    },
+    "id": "441900-2025-disposable-urban",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "441900",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 52133,
+    "source": {
+      "title": "2025年东莞市国民经济和社会发展统计公报_统计公报",
+      "url": "https://tjj.dg.gov.cn/tjzl/tjgb/content/post_4537415.html",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "... 　　全年全市居民人均可支配收入70803元，比上年增长3.7%。 分城乡看，城镇居民人均可支配收入72137元，增长3.4%；农村居民人均可支配收入52133元，增长5.5%，城乡收入差距进一步缩小。 　　全年全市居民人均可支配收入70803元，比上年增长3.7%。 分城乡看，城镇居民人均可支配收入72137元，增长3.4%；农村居民人均可支配收入52133元，增长5.5%，城乡收入差距进一步缩小。"
+    },
+    "id": "441900-2025-disposable-rural",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "370200",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 62738,
+    "source": {
+      "title": "2025年青岛市经济运行情况_青岛政务网",
+      "url": "https://www.qingdao.gov.cn/zwgk/xxgk/fgw/ywfl/jjfz/202602/t20260202_10498241.shtml",
+      "publishedAt": "2026-02-02",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "... 分城乡看，城镇居民人均可支配收入71703元，增长4.2%；农村居民人均可支配收入33296元，增长5.5%。 2025年，居民人均可支配收入62738元，比上年增长4.7%。 分城乡看，城镇居民人均可支配收入71703元，增长4.2%；农村居民人均可支配收入33296元，增长5.5%。"
+    },
+    "id": "370200-2025-disposable-all",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "370200",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 71703,
+    "source": {
+      "title": "2025年青岛市经济运行情况_青岛政务网",
+      "url": "https://www.qingdao.gov.cn/zwgk/xxgk/fgw/ywfl/jjfz/202602/t20260202_10498241.shtml",
+      "publishedAt": "2026-02-02",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "... 分城乡看，城镇居民人均可支配收入71703元，增长4.2%；农村居民人均可支配收入33296元，增长5.5%。 2025年，居民人均可支配收入62738元，比上年增长4.7%。 分城乡看，城镇居民人均可支配收入71703元，增长4.2%；农村居民人均可支配收入33296元，增长5.5%。"
+    },
+    "id": "370200-2025-disposable-urban",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "370200",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 33296,
+    "source": {
+      "title": "2025年青岛市经济运行情况_青岛政务网",
+      "url": "https://www.qingdao.gov.cn/zwgk/xxgk/fgw/ywfl/jjfz/202602/t20260202_10498241.shtml",
+      "publishedAt": "2026-02-02",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "... 分城乡看，城镇居民人均可支配收入71703元，增长4.2%；农村居民人均可支配收入33296元，增长5.5%。 2025年，居民人均可支配收入62738元，比上年增长4.7%。 分城乡看，城镇居民人均可支配收入71703元，增长4.2%；农村居民人均可支配收入33296元，增长5.5%。"
+    },
+    "id": "370200-2025-disposable-rural",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "370100",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 56961,
+    "source": {
+      "title": "2025年济南市国民经济和社会发展统计公报",
+      "url": "https://jntj.jinan.gov.cn/col/col18254/art/2026/art_7dc3135bb2209f961b3c65baa8ab3d2d.html",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "... 分城乡看，城镇居民人均可支配收入68128元，增长4.2%；农村居民人均可支配收入28653元，增长5.4%。 全市居民人均可支配收入56961元，比上年增长4.7%。 分城乡看，城镇居民人均可支配收入68128元，增长4.2%；农村居民人均可支配收入28653元，增长5.4%。 可支配收入 56961 4.7 68128 4.2 28653 5.4"
+    },
+    "id": "370100-2025-disposable-all",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "370100",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 68128,
+    "source": {
+      "title": "2025年济南市国民经济和社会发展统计公报",
+      "url": "https://jntj.jinan.gov.cn/col/col18254/art/2026/art_7dc3135bb2209f961b3c65baa8ab3d2d.html",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "... 分城乡看，城镇居民人均可支配收入68128元，增长4.2%；农村居民人均可支配收入28653元，增长5.4%。 全市居民人均可支配收入56961元，比上年增长4.7%。 分城乡看，城镇居民人均可支配收入68128元，增长4.2%；农村居民人均可支配收入28653元，增长5.4%。 可支配收入 56961 4.7 68128 4.2 28653 5.4"
+    },
+    "id": "370100-2025-disposable-urban",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "370100",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 28653,
+    "source": {
+      "title": "2025年济南市国民经济和社会发展统计公报",
+      "url": "https://jntj.jinan.gov.cn/col/col18254/art/2026/art_7dc3135bb2209f961b3c65baa8ab3d2d.html",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "... 分城乡看，城镇居民人均可支配收入68128元，增长4.2%；农村居民人均可支配收入28653元，增长5.4%。 全市居民人均可支配收入56961元，比上年增长4.7%。 分城乡看，城镇居民人均可支配收入68128元，增长4.2%；农村居民人均可支配收入28653元，增长5.4%。 可支配收入 56961 4.7 68128 4.2 28653 5.4"
+    },
+    "id": "370100-2025-disposable-rural",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "370600",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 53562,
+    "source": {
+      "title": "烟台市2025年年度简要资料----主要经济指标",
+      "url": "https://www.yantai.gov.cn/col/col43177/art/2026/art_445fbdceb954404da4e4eeb6029f1e31.html",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "# 烟台市2025年年度简要资料----主要经济指标 ...  城镇居民人均可支配收入  | 元  | 65009   | 4.8 ...  农村居民人均可支配收入  | 元  | 31965   | 5.7 ... 带“*”的“同比增长（%）”栏为比上年同期增减百分点；  居民人均可支配收入  | 元  | 53562   | 5.3   城镇居民人均可支配收入  | 元  | 65009   | 4.8   农村居民人均可支配收入  | 元  | 31965   | 5.7"
+    },
+    "id": "370600-2025-disposable-all",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "370600",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 65009,
+    "source": {
+      "title": "烟台市2025年年度简要资料----主要经济指标",
+      "url": "https://www.yantai.gov.cn/col/col43177/art/2026/art_445fbdceb954404da4e4eeb6029f1e31.html",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "# 烟台市2025年年度简要资料----主要经济指标 ...  城镇居民人均可支配收入  | 元  | 65009   | 4.8 ...  农村居民人均可支配收入  | 元  | 31965   | 5.7 ... 带“*”的“同比增长（%）”栏为比上年同期增减百分点；  居民人均可支配收入  | 元  | 53562   | 5.3   城镇居民人均可支配收入  | 元  | 65009   | 4.8   农村居民人均可支配收入  | 元  | 31965   | 5.7"
+    },
+    "id": "370600-2025-disposable-urban",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "370600",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 31965,
+    "source": {
+      "title": "烟台市2025年年度简要资料----主要经济指标",
+      "url": "https://www.yantai.gov.cn/col/col43177/art/2026/art_445fbdceb954404da4e4eeb6029f1e31.html",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "# 烟台市2025年年度简要资料----主要经济指标 ...  城镇居民人均可支配收入  | 元  | 65009   | 4.8 ...  农村居民人均可支配收入  | 元  | 31965   | 5.7 ... 带“*”的“同比增长（%）”栏为比上年同期增减百分点；  居民人均可支配收入  | 元  | 53562   | 5.3   城镇居民人均可支配收入  | 元  | 65009   | 4.8   农村居民人均可支配收入  | 元  | 31965   | 5.7"
+    },
+    "id": "370600-2025-disposable-rural",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "350100",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 54007,
+    "source": {
+      "title": "2025年福州市国民经济和社会发展统计公报 _ 年度报告 _ 福州市人民政府门户网站",
+      "url": "https://www.fuzhou.gov.cn/zwgk/tjxx/ndbg/202604/t20260414_5308173.htm",
+      "publishedAt": "2026-04-14",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "## 2025年福州市国民经济和社会发展统计公报 ... 全年居民人均可支配收入54007元，比上年增长4.9%。 按常住地分，农村居民人均可支配收入32327元，增长5.8%；城镇居民人均可支配收入63435元，增长4.4%。 全年居民人均可支配收入54007元，比上年增长4.9%。 按常住地分，农村居民人均可支配收入32327元，增长5.8%；城镇居民人均可支配收入63435元，增长4.4%。"
+    },
+    "id": "350100-2025-disposable-all",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "350100",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 63435,
+    "source": {
+      "title": "2025年福州市国民经济和社会发展统计公报 _ 年度报告 _ 福州市人民政府门户网站",
+      "url": "https://www.fuzhou.gov.cn/zwgk/tjxx/ndbg/202604/t20260414_5308173.htm",
+      "publishedAt": "2026-04-14",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "## 2025年福州市国民经济和社会发展统计公报 ... 全年居民人均可支配收入54007元，比上年增长4.9%。 按常住地分，农村居民人均可支配收入32327元，增长5.8%；城镇居民人均可支配收入63435元，增长4.4%。 全年居民人均可支配收入54007元，比上年增长4.9%。 按常住地分，农村居民人均可支配收入32327元，增长5.8%；城镇居民人均可支配收入63435元，增长4.4%。"
+    },
+    "id": "350100-2025-disposable-urban",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "350100",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 32327,
+    "source": {
+      "title": "2025年福州市国民经济和社会发展统计公报 _ 年度报告 _ 福州市人民政府门户网站",
+      "url": "https://www.fuzhou.gov.cn/zwgk/tjxx/ndbg/202604/t20260414_5308173.htm",
+      "publishedAt": "2026-04-14",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "## 2025年福州市国民经济和社会发展统计公报 ... 全年居民人均可支配收入54007元，比上年增长4.9%。 按常住地分，农村居民人均可支配收入32327元，增长5.8%；城镇居民人均可支配收入63435元，增长4.4%。 全年居民人均可支配收入54007元，比上年增长4.9%。 按常住地分，农村居民人均可支配收入32327元，增长5.8%；城镇居民人均可支配收入63435元，增长4.4%。"
+    },
+    "id": "350100-2025-disposable-rural",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "350500",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 54858,
+    "source": {
+      "title": "2025年泉州市国民经济和社会发展统计公报[1]_统计公报_统计资料_泉州市统计局",
+      "url": "https://tjj.quanzhou.gov.cn/tjzl/tjgb/202603/t20260331_3279584.htm",
+      "publishedAt": "2026-03-31",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年泉州市国民经济和社会发展统计公报[1] ... 中国台湾  | 44.44  | -13.8  | 18.27  | -32.3 ...         全年居民人均可支配收入54858元，比上年增长5.1%；人均消费支出35548元，增长5.4%。 按常住地分，城镇居民人均可支配收入66511元，增长4.6%，人均消费支出41366元，增长5.0%；农村居民人均可支配收入33321元，增长5.7%，人均消费支出24796元，增长6.1%。         全年居民人均可支配收入54858元，比上年增长5.1%；人均消费支出35548元，增长5.4%。 按常住地分，城镇居民人均可支配收入66511元，增长4.6%，人均消费支出41366元，增长5.0%；农村居民人均可支配收入33321元，增长5.7%，人均消费支出24796元，增长6.1%。"
+    },
+    "id": "350500-2025-disposable-all",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "350500",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 66511,
+    "source": {
+      "title": "2025年泉州市国民经济和社会发展统计公报[1]_统计公报_统计资料_泉州市统计局",
+      "url": "https://tjj.quanzhou.gov.cn/tjzl/tjgb/202603/t20260331_3279584.htm",
+      "publishedAt": "2026-03-31",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年泉州市国民经济和社会发展统计公报[1] ... 中国台湾  | 44.44  | -13.8  | 18.27  | -32.3 ...         全年居民人均可支配收入54858元，比上年增长5.1%；人均消费支出35548元，增长5.4%。 按常住地分，城镇居民人均可支配收入66511元，增长4.6%，人均消费支出41366元，增长5.0%；农村居民人均可支配收入33321元，增长5.7%，人均消费支出24796元，增长6.1%。         全年居民人均可支配收入54858元，比上年增长5.1%；人均消费支出35548元，增长5.4%。 按常住地分，城镇居民人均可支配收入66511元，增长4.6%，人均消费支出41366元，增长5.0%；农村居民人均可支配收入33321元，增长5.7%，人均消费支出24796元，增长6.1%。"
+    },
+    "id": "350500-2025-disposable-urban",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "350500",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 33321,
+    "source": {
+      "title": "2025年泉州市国民经济和社会发展统计公报[1]_统计公报_统计资料_泉州市统计局",
+      "url": "https://tjj.quanzhou.gov.cn/tjzl/tjgb/202603/t20260331_3279584.htm",
+      "publishedAt": "2026-03-31",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年泉州市国民经济和社会发展统计公报[1] ... 中国台湾  | 44.44  | -13.8  | 18.27  | -32.3 ...         全年居民人均可支配收入54858元，比上年增长5.1%；人均消费支出35548元，增长5.4%。 按常住地分，城镇居民人均可支配收入66511元，增长4.6%，人均消费支出41366元，增长5.0%；农村居民人均可支配收入33321元，增长5.7%，人均消费支出24796元，增长6.1%。         全年居民人均可支配收入54858元，比上年增长5.1%；人均消费支出35548元，增长5.4%。 按常住地分，城镇居民人均可支配收入66511元，增长4.6%，人均消费支出41366元，增长5.0%；农村居民人均可支配收入33321元，增长5.7%，人均消费支出24796元，增长6.1%。"
+    },
+    "id": "350500-2025-disposable-rural",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "420100",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 62530,
+    "source": {
+      "title": "2025年武汉市经济运行情况",
+      "url": "https://sw.wuhan.gov.cn/xwdt/mtbd/202601/t20260129_2720633.shtml",
+      "publishedAt": "2026-01-29",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "... 2025年，全市民生福祉持续增进，居民收入稳定增长，全年居民人均可支配收入62530元，同比增长4.7%。 按常住地分，城镇居民人均可支配收入67248元，增长4.5%；农村居民人均可支配收入35575元，增长6.1%。 2025年，全市民生福祉持续增进，居民收入稳定增长，全年居民人均可支配收入62530元，同比增长4.7%。 按常住地分，城镇居民人均可支配收入67248元，增长4.5%；农村居民人均可支配收入35575元，增长6.1%。"
+    },
+    "id": "420100-2025-disposable-all",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "420100",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 67248,
+    "source": {
+      "title": "2025年武汉市经济运行情况",
+      "url": "https://sw.wuhan.gov.cn/xwdt/mtbd/202601/t20260129_2720633.shtml",
+      "publishedAt": "2026-01-29",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "... 2025年，全市民生福祉持续增进，居民收入稳定增长，全年居民人均可支配收入62530元，同比增长4.7%。 按常住地分，城镇居民人均可支配收入67248元，增长4.5%；农村居民人均可支配收入35575元，增长6.1%。 2025年，全市民生福祉持续增进，居民收入稳定增长，全年居民人均可支配收入62530元，同比增长4.7%。 按常住地分，城镇居民人均可支配收入67248元，增长4.5%；农村居民人均可支配收入35575元，增长6.1%。"
+    },
+    "id": "420100-2025-disposable-urban",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "420100",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 35575,
+    "source": {
+      "title": "2025年武汉市经济运行情况",
+      "url": "https://sw.wuhan.gov.cn/xwdt/mtbd/202601/t20260129_2720633.shtml",
+      "publishedAt": "2026-01-29",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "... 2025年，全市民生福祉持续增进，居民收入稳定增长，全年居民人均可支配收入62530元，同比增长4.7%。 按常住地分，城镇居民人均可支配收入67248元，增长4.5%；农村居民人均可支配收入35575元，增长6.1%。 2025年，全市民生福祉持续增进，居民收入稳定增长，全年居民人均可支配收入62530元，同比增长4.7%。 按常住地分，城镇居民人均可支配收入67248元，增长4.5%；农村居民人均可支配收入35575元，增长6.1%。"
+    },
+    "id": "420100-2025-disposable-rural",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "610100",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 47496,
+    "source": {
+      "title": "市情简介--西安市人民政府",
+      "url": "https://www.xa.gov.cn/sq/csgk/sqjj/1.html",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "... 全年全市居民人均可支配收入47496元，比上年增长5.4%，按常住地分，城镇居民人均可支配收入56324元，增长4.9%，农村居民人均可支配收入22425元，增长5.9%。 全年全市居民人均可支配收入47496元，比上年增长5.4%，按常住地分，城镇居民人均可支配收入56324元，增长4.9%，农村居民人均可支配收入22425元，增长5.9%。"
+    },
+    "id": "610100-2025-disposable-all",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "610100",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 56324,
+    "source": {
+      "title": "市情简介--西安市人民政府",
+      "url": "https://www.xa.gov.cn/sq/csgk/sqjj/1.html",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "... 全年全市居民人均可支配收入47496元，比上年增长5.4%，按常住地分，城镇居民人均可支配收入56324元，增长4.9%，农村居民人均可支配收入22425元，增长5.9%。 全年全市居民人均可支配收入47496元，比上年增长5.4%，按常住地分，城镇居民人均可支配收入56324元，增长4.9%，农村居民人均可支配收入22425元，增长5.9%。"
+    },
+    "id": "610100-2025-disposable-urban",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "610100",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 22425,
+    "source": {
+      "title": "市情简介--西安市人民政府",
+      "url": "https://www.xa.gov.cn/sq/csgk/sqjj/1.html",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "... 全年全市居民人均可支配收入47496元，比上年增长5.4%，按常住地分，城镇居民人均可支配收入56324元，增长4.9%，农村居民人均可支配收入22425元，增长5.9%。 全年全市居民人均可支配收入47496元，比上年增长5.4%，按常住地分，城镇居民人均可支配收入56324元，增长4.9%，农村居民人均可支配收入22425元，增长5.9%。"
+    },
+    "id": "610100-2025-disposable-rural",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "130000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 36439,
+    "source": {
+      "title": "河北省2025年国民经济和社会发展统计公报_中共河北省委社会工作部",
+      "url": "https://www.hbshgzb.gov.cn/2026-04/13/content_9499919.htm",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "... 全年居民人均可支配收入36439元，比上年增长5.1%，增速居全国第10位。 全年居民人均可支配收入36439元，比上年增长5.1%，增速居全国第10位。 按常住地分，城镇居民人均可支配收入47544元，增长4.2%；农村居民人均可支配收入23319元，增长5.9%。"
+    },
+    "id": "130000-2025-disposable-all",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "130000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 47544,
+    "source": {
+      "title": "河北省2025年国民经济和社会发展统计公报_中共河北省委社会工作部",
+      "url": "https://www.hbshgzb.gov.cn/2026-04/13/content_9499919.htm",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "... 全年居民人均可支配收入36439元，比上年增长5.1%，增速居全国第10位。 全年居民人均可支配收入36439元，比上年增长5.1%，增速居全国第10位。 按常住地分，城镇居民人均可支配收入47544元，增长4.2%；农村居民人均可支配收入23319元，增长5.9%。"
+    },
+    "id": "130000-2025-disposable-urban",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "130000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 23319,
+    "source": {
+      "title": "河北省2025年国民经济和社会发展统计公报_中共河北省委社会工作部",
+      "url": "https://www.hbshgzb.gov.cn/2026-04/13/content_9499919.htm",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "... 全年居民人均可支配收入36439元，比上年增长5.1%，增速居全国第10位。 全年居民人均可支配收入36439元，比上年增长5.1%，增速居全国第10位。 按常住地分，城镇居民人均可支配收入47544元，增长4.2%；农村居民人均可支配收入23319元，增长5.9%。"
+    },
+    "id": "130000-2025-disposable-rural",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "210000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 41703,
+    "source": {
+      "title": "人民生活",
+      "url": "https://www.ln.gov.cn/web/sqgk/rmsh/2026040910105851179/index.shtml",
+      "publishedAt": "2026-04-09",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年全体居民人均可支配收入41703元，比上年增长4.7%。 按常住地分，城镇居民人均可支配收入50057元，增长4.3%；农村居民人均可支配收入23942元，增长5.3%。   2025年全体居民人均可支配收入41703元，比上年增长4.7%。 按常住地分，城镇居民人均可支配收入50057元，增长4.3%；农村居民人均可支配收入23942元，增长5.3%。"
+    },
+    "id": "210000-2025-disposable-all",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "210000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 50057,
+    "source": {
+      "title": "人民生活",
+      "url": "https://www.ln.gov.cn/web/sqgk/rmsh/2026040910105851179/index.shtml",
+      "publishedAt": "2026-04-09",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年全体居民人均可支配收入41703元，比上年增长4.7%。 按常住地分，城镇居民人均可支配收入50057元，增长4.3%；农村居民人均可支配收入23942元，增长5.3%。   2025年全体居民人均可支配收入41703元，比上年增长4.7%。 按常住地分，城镇居民人均可支配收入50057元，增长4.3%；农村居民人均可支配收入23942元，增长5.3%。"
+    },
+    "id": "210000-2025-disposable-urban",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "210000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 23942,
+    "source": {
+      "title": "人民生活",
+      "url": "https://www.ln.gov.cn/web/sqgk/rmsh/2026040910105851179/index.shtml",
+      "publishedAt": "2026-04-09",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年全体居民人均可支配收入41703元，比上年增长4.7%。 按常住地分，城镇居民人均可支配收入50057元，增长4.3%；农村居民人均可支配收入23942元，增长5.3%。   2025年全体居民人均可支配收入41703元，比上年增长4.7%。 按常住地分，城镇居民人均可支配收入50057元，增长4.3%；农村居民人均可支配收入23942元，增长5.3%。"
+    },
+    "id": "210000-2025-disposable-rural",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "230000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 32851,
+    "source": {
+      "title": "2025年黑龙江省国民经济和社会发展统计公报_统计公报_黑龙江省人民政府",
+      "url": "https://www.hlj.gov.cn/hlj/c108419/202603/c00_31954601.shtml",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "... 按常住地分，城镇常住居民人均可支配收入39901元，增长4.4%；农村常住居民人均可支配收入22188元，增长5.8%。 全省常住居民人均可支配收入32851元，比上年增长5.1%。 按常住地分，城镇常住居民人均可支配收入39901元，增长4.4%；农村常住居民人均可支配收入22188元，增长5.8%。"
+    },
+    "id": "230000-2025-disposable-all",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "230000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 39901,
+    "source": {
+      "title": "2025年黑龙江省国民经济和社会发展统计公报_统计公报_黑龙江省人民政府",
+      "url": "https://www.hlj.gov.cn/hlj/c108419/202603/c00_31954601.shtml",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "... 按常住地分，城镇常住居民人均可支配收入39901元，增长4.4%；农村常住居民人均可支配收入22188元，增长5.8%。 全省常住居民人均可支配收入32851元，比上年增长5.1%。 按常住地分，城镇常住居民人均可支配收入39901元，增长4.4%；农村常住居民人均可支配收入22188元，增长5.8%。"
+    },
+    "id": "230000-2025-disposable-urban",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "230000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 22188,
+    "source": {
+      "title": "2025年黑龙江省国民经济和社会发展统计公报_统计公报_黑龙江省人民政府",
+      "url": "https://www.hlj.gov.cn/hlj/c108419/202603/c00_31954601.shtml",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "... 按常住地分，城镇常住居民人均可支配收入39901元，增长4.4%；农村常住居民人均可支配收入22188元，增长5.8%。 全省常住居民人均可支配收入32851元，比上年增长5.1%。 按常住地分，城镇常住居民人均可支配收入39901元，增长4.4%；农村常住居民人均可支配收入22188元，增长5.8%。"
+    },
+    "id": "230000-2025-disposable-rural",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "350000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 50302,
+    "source": {
+      "title": "2025年福建省国民经济和社会发展统计公报_ 统计公报_福建省人民政府门户网站",
+      "url": "https://fj.gov.cn/zwgk/sjfb/tjgb/202603/t20260313_7109476.htm",
+      "publishedAt": "2026-03-13",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "全年居民人均可支配收入50302元，比上年增长5.1%，扣除价格因素，实际增长5.1%。 按常住地分，农村居民人均可支配收入30162元，增长5.7%，扣除价格因素，实际增长6.0%；城镇居民人均可支配收入61437元，增长4.5%，扣除价格因素，实际增长4.4%。 　　全年居民人均可支配收入50302元，比上年增长5.1%，扣除价格因素，实际增长5.1%。 按常住地分，农村居民人均可支配收入30162元，增长5.7%，扣除价格因素，实际增长6.0%；城镇居民人均可支配收入61437元，增长4.5%，扣除价格因素，实际增长4.4%。"
+    },
+    "id": "350000-2025-disposable-all",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "350000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 61437,
+    "source": {
+      "title": "2025年福建省国民经济和社会发展统计公报_ 统计公报_福建省人民政府门户网站",
+      "url": "https://fj.gov.cn/zwgk/sjfb/tjgb/202603/t20260313_7109476.htm",
+      "publishedAt": "2026-03-13",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "全年居民人均可支配收入50302元，比上年增长5.1%，扣除价格因素，实际增长5.1%。 按常住地分，农村居民人均可支配收入30162元，增长5.7%，扣除价格因素，实际增长6.0%；城镇居民人均可支配收入61437元，增长4.5%，扣除价格因素，实际增长4.4%。 　　全年居民人均可支配收入50302元，比上年增长5.1%，扣除价格因素，实际增长5.1%。 按常住地分，农村居民人均可支配收入30162元，增长5.7%，扣除价格因素，实际增长6.0%；城镇居民人均可支配收入61437元，增长4.5%，扣除价格因素，实际增长4.4%。"
+    },
+    "id": "350000-2025-disposable-urban",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "350000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 30162,
+    "source": {
+      "title": "2025年福建省国民经济和社会发展统计公报_ 统计公报_福建省人民政府门户网站",
+      "url": "https://fj.gov.cn/zwgk/sjfb/tjgb/202603/t20260313_7109476.htm",
+      "publishedAt": "2026-03-13",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "全年居民人均可支配收入50302元，比上年增长5.1%，扣除价格因素，实际增长5.1%。 按常住地分，农村居民人均可支配收入30162元，增长5.7%，扣除价格因素，实际增长6.0%；城镇居民人均可支配收入61437元，增长4.5%，扣除价格因素，实际增长4.4%。 　　全年居民人均可支配收入50302元，比上年增长5.1%，扣除价格因素，实际增长5.1%。 按常住地分，农村居民人均可支配收入30162元，增长5.7%，扣除价格因素，实际增长6.0%；城镇居民人均可支配收入61437元，增长4.5%，扣除价格因素，实际增长4.4%。"
+    },
+    "id": "350000-2025-disposable-rural",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "370000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 56444,
+    "source": {
+      "title": "山东省统计局 最新发布与解读 ​解读：2025年全省居民人均可支配收入增长5.0%",
+      "url": "https://tjj.shandong.gov.cn/art/2026/2/5/art_6109_10322270.html",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年全省经济运行情况解读山东省统计局  国家统计局山东调查总队2026年2月5日 ... 其中，城镇居民人均可支配收入56444元，增长4.4%，扣除价格因素，实际增长4.5%；农村居民人均可支配收入26613元，增长5.4%，扣除价格因素，实际增长5.6%。 其中，城镇居民人均可支配收入56444元，增长4.4%，扣除价格因素，实际增长4.5%；农村居民人均可支配收入26613元，增长5.4%，扣除价格因素，实际增长5.6%。"
+    },
+    "id": "370000-2025-disposable-urban",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "370000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 26613,
+    "source": {
+      "title": "山东省统计局 最新发布与解读 ​解读：2025年全省居民人均可支配收入增长5.0%",
+      "url": "https://tjj.shandong.gov.cn/art/2026/2/5/art_6109_10322270.html",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年全省经济运行情况解读山东省统计局  国家统计局山东调查总队2026年2月5日 ... 其中，城镇居民人均可支配收入56444元，增长4.4%，扣除价格因素，实际增长4.5%；农村居民人均可支配收入26613元，增长5.4%，扣除价格因素，实际增长5.6%。 其中，城镇居民人均可支配收入56444元，增长4.4%，扣除价格因素，实际增长4.5%；农村居民人均可支配收入26613元，增长5.4%，扣除价格因素，实际增长5.6%。"
+    },
+    "id": "370000-2025-disposable-rural",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "410000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 33215,
+    "source": {
+      "title": "河南网信网",
+      "url": "https://www.hnwx.gov.cn/2026/04-17/75329.html",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "... 　　图5 2021-2025年河南省可再生能源装机容量占发电装机容量（不含储能）比重 ... 按常住地分，城镇居民人均可支配收入43926元，增长4.5%；农村居民人均可支配收入22550元，增长5.7%。 　　全年全省居民人均可支配收入33215元，比上年增长5.3%。 按常住地分，城镇居民人均可支配收入43926元，增长4.5%；农村居民人均可支配收入22550元，增长5.7%。"
+    },
+    "id": "410000-2025-disposable-all",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "410000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 43926,
+    "source": {
+      "title": "河南网信网",
+      "url": "https://www.hnwx.gov.cn/2026/04-17/75329.html",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "... 　　图5 2021-2025年河南省可再生能源装机容量占发电装机容量（不含储能）比重 ... 按常住地分，城镇居民人均可支配收入43926元，增长4.5%；农村居民人均可支配收入22550元，增长5.7%。 　　全年全省居民人均可支配收入33215元，比上年增长5.3%。 按常住地分，城镇居民人均可支配收入43926元，增长4.5%；农村居民人均可支配收入22550元，增长5.7%。"
+    },
+    "id": "410000-2025-disposable-urban",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "410000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 22550,
+    "source": {
+      "title": "河南网信网",
+      "url": "https://www.hnwx.gov.cn/2026/04-17/75329.html",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "... 　　图5 2021-2025年河南省可再生能源装机容量占发电装机容量（不含储能）比重 ... 按常住地分，城镇居民人均可支配收入43926元，增长4.5%；农村居民人均可支配收入22550元，增长5.7%。 　　全年全省居民人均可支配收入33215元，比上年增长5.3%。 按常住地分，城镇居民人均可支配收入43926元，增长4.5%；农村居民人均可支配收入22550元，增长5.7%。"
+    },
+    "id": "410000-2025-disposable-rural",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "420000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 38881,
+    "source": {
+      "title": "湖北省2025年国民经济和社会发展统计公报--湖北省统计局",
+      "url": "https://tjj.hubei.gov.cn/tjsj/tjgb/ndtjgb/qstjgb/202603/t20260318_5894639.shtml",
+      "publishedAt": "2026-03-18",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "... 　　全年全省居民人均可支配收入38881元，比上年增长5.2%。 　　全年全省居民人均可支配收入38881元，比上年增长5.2%。 按常住地分，城镇居民人均可支配收入49164元，增长4.6%；农村居民人均可支配收入23921元，增长5.9%。"
+    },
+    "id": "420000-2025-disposable-all",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "420000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 49164,
+    "source": {
+      "title": "湖北省2025年国民经济和社会发展统计公报--湖北省统计局",
+      "url": "https://tjj.hubei.gov.cn/tjsj/tjgb/ndtjgb/qstjgb/202603/t20260318_5894639.shtml",
+      "publishedAt": "2026-03-18",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "... 　　全年全省居民人均可支配收入38881元，比上年增长5.2%。 　　全年全省居民人均可支配收入38881元，比上年增长5.2%。 按常住地分，城镇居民人均可支配收入49164元，增长4.6%；农村居民人均可支配收入23921元，增长5.9%。"
+    },
+    "id": "420000-2025-disposable-urban",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "420000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 23921,
+    "source": {
+      "title": "湖北省2025年国民经济和社会发展统计公报--湖北省统计局",
+      "url": "https://tjj.hubei.gov.cn/tjsj/tjgb/ndtjgb/qstjgb/202603/t20260318_5894639.shtml",
+      "publishedAt": "2026-03-18",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "... 　　全年全省居民人均可支配收入38881元，比上年增长5.2%。 　　全年全省居民人均可支配收入38881元，比上年增长5.2%。 按常住地分，城镇居民人均可支配收入49164元，增长4.6%；农村居民人均可支配收入23921元，增长5.9%。"
+    },
+    "id": "420000-2025-disposable-rural",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "430000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 39545,
+    "source": {
+      "title": "湖南省统计局 - 湖南省2025年国民经济和社会发展统计公报",
+      "url": "https://tjj.hunan.gov.cn/hntj/tpxw/202603/t20260325_33940711.html",
+      "publishedAt": "2026-03-25",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "全年全省居民人均可支配收入39545元，比上年增长5.0%；按常住地分，城镇居民人均可支配收入53369元，增长4.1%；农村居民人均可支配收入23501元，增长5.8%；城乡居民收入比由上年的2.31缩小为2.27。 全年全省居民人均可支配收入39545元，比上年增长5.0%；按常住地分，城镇居民人均可支配收入53369元，增长4.1%；农村居民人均可支配收入23501元，增长5.8%；城乡居民收入比由上年的2.31缩小为2.27。"
+    },
+    "id": "430000-2025-disposable-all",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "430000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 53369,
+    "source": {
+      "title": "湖南省统计局 - 湖南省2025年国民经济和社会发展统计公报",
+      "url": "https://tjj.hunan.gov.cn/hntj/tpxw/202603/t20260325_33940711.html",
+      "publishedAt": "2026-03-25",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "全年全省居民人均可支配收入39545元，比上年增长5.0%；按常住地分，城镇居民人均可支配收入53369元，增长4.1%；农村居民人均可支配收入23501元，增长5.8%；城乡居民收入比由上年的2.31缩小为2.27。 全年全省居民人均可支配收入39545元，比上年增长5.0%；按常住地分，城镇居民人均可支配收入53369元，增长4.1%；农村居民人均可支配收入23501元，增长5.8%；城乡居民收入比由上年的2.31缩小为2.27。"
+    },
+    "id": "430000-2025-disposable-urban",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "430000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 23501,
+    "source": {
+      "title": "湖南省统计局 - 湖南省2025年国民经济和社会发展统计公报",
+      "url": "https://tjj.hunan.gov.cn/hntj/tpxw/202603/t20260325_33940711.html",
+      "publishedAt": "2026-03-25",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "全年全省居民人均可支配收入39545元，比上年增长5.0%；按常住地分，城镇居民人均可支配收入53369元，增长4.1%；农村居民人均可支配收入23501元，增长5.8%；城乡居民收入比由上年的2.31缩小为2.27。 全年全省居民人均可支配收入39545元，比上年增长5.0%；按常住地分，城镇居民人均可支配收入53369元，增长4.1%；农村居民人均可支配收入23501元，增长5.8%；城乡居民收入比由上年的2.31缩小为2.27。"
+    },
+    "id": "430000-2025-disposable-rural",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "440000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 53669,
+    "source": {
+      "title": "2025年广东居民人均可支配收入53669元",
+      "url": "https://gdzd.stats.gov.cn/sjfb/sjjd/202601/t20260120_182629.html",
+      "publishedAt": "2026-01-20",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年广东居民人均可支配收入53669元 (https://gdzd.stats.gov.cn/sjfb/sjjd/202601/t20260120_182629.html)    　　 2025年，广东居民人均可支配收入53669元，同比增长4.3%，扣除价格因素，实际增长4.5%（以下如无特别说明，以下均为同比名义增速）。 分城乡看，城镇居民人均可支配收入63974元，同比增长3.8%；农村居民人均可支配收入28170元，同比增长5.4%。 ## 2025年广东居民人均可支配收入53669元 　　 2025年，广东居民人均可支配收入53669元，同比增长4.3%，扣除价格因素，实际增长4.5%（以下如无特别说明，以下均为同比名义增速）。 分城乡看，城镇居民人均可支配收入63974元，同比增长3.8%；农村居民人均可支配收入28170元，同比增长5.4%。"
+    },
+    "id": "440000-2025-disposable-all",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "440000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 63974,
+    "source": {
+      "title": "2025年广东居民人均可支配收入53669元",
+      "url": "https://gdzd.stats.gov.cn/sjfb/sjjd/202601/t20260120_182629.html",
+      "publishedAt": "2026-01-20",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年广东居民人均可支配收入53669元 (https://gdzd.stats.gov.cn/sjfb/sjjd/202601/t20260120_182629.html)    　　 2025年，广东居民人均可支配收入53669元，同比增长4.3%，扣除价格因素，实际增长4.5%（以下如无特别说明，以下均为同比名义增速）。 分城乡看，城镇居民人均可支配收入63974元，同比增长3.8%；农村居民人均可支配收入28170元，同比增长5.4%。 ## 2025年广东居民人均可支配收入53669元 　　 2025年，广东居民人均可支配收入53669元，同比增长4.3%，扣除价格因素，实际增长4.5%（以下如无特别说明，以下均为同比名义增速）。 分城乡看，城镇居民人均可支配收入63974元，同比增长3.8%；农村居民人均可支配收入28170元，同比增长5.4%。"
+    },
+    "id": "440000-2025-disposable-urban",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "440000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 28170,
+    "source": {
+      "title": "2025年广东居民人均可支配收入53669元",
+      "url": "https://gdzd.stats.gov.cn/sjfb/sjjd/202601/t20260120_182629.html",
+      "publishedAt": "2026-01-20",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年广东居民人均可支配收入53669元 (https://gdzd.stats.gov.cn/sjfb/sjjd/202601/t20260120_182629.html)    　　 2025年，广东居民人均可支配收入53669元，同比增长4.3%，扣除价格因素，实际增长4.5%（以下如无特别说明，以下均为同比名义增速）。 分城乡看，城镇居民人均可支配收入63974元，同比增长3.8%；农村居民人均可支配收入28170元，同比增长5.4%。 ## 2025年广东居民人均可支配收入53669元 　　 2025年，广东居民人均可支配收入53669元，同比增长4.3%，扣除价格因素，实际增长4.5%（以下如无特别说明，以下均为同比名义增速）。 分城乡看，城镇居民人均可支配收入63974元，同比增长3.8%；农村居民人均可支配收入28170元，同比增长5.4%。"
+    },
+    "id": "440000-2025-disposable-rural",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "460000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 36306,
+    "source": {
+      "title": "2025年海南省经济运行情况 -- 数据发布与解读 -- 海南省统计局",
+      "url": "https://stats.hainan.gov.cn/tjj/ywdt/xwfb/202601/t20260123_4015998.html",
+      "publishedAt": "2026-01-23",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "... 其中，城镇居民人均可支配收入45829元，同比名义增长3.4%；农村居民人均可支配收入23307元，名义增长5.2%，增速比城镇居民快1.8个百分点，城乡居民收入比由上年的2.00降至1.9 7。 2025年，全省居民人均可支配收入36306元，比上年名义增长4.2%，扣除价格因素实际增长4.3%。 其中，城镇居民人均可支配收入45829元，同比名义增长3.4%；农村居民人均可支配收入23307元，名义增长5.2%，增速比城镇居民快1.8个百分点，城乡居民收入比由上年的2.00降至1.9 7。"
+    },
+    "id": "460000-2025-disposable-all",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "460000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 45829,
+    "source": {
+      "title": "2025年海南省经济运行情况 -- 数据发布与解读 -- 海南省统计局",
+      "url": "https://stats.hainan.gov.cn/tjj/ywdt/xwfb/202601/t20260123_4015998.html",
+      "publishedAt": "2026-01-23",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "... 其中，城镇居民人均可支配收入45829元，同比名义增长3.4%；农村居民人均可支配收入23307元，名义增长5.2%，增速比城镇居民快1.8个百分点，城乡居民收入比由上年的2.00降至1.9 7。 2025年，全省居民人均可支配收入36306元，比上年名义增长4.2%，扣除价格因素实际增长4.3%。 其中，城镇居民人均可支配收入45829元，同比名义增长3.4%；农村居民人均可支配收入23307元，名义增长5.2%，增速比城镇居民快1.8个百分点，城乡居民收入比由上年的2.00降至1.9 7。"
+    },
+    "id": "460000-2025-disposable-urban",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "460000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 23307,
+    "source": {
+      "title": "2025年海南省经济运行情况 -- 数据发布与解读 -- 海南省统计局",
+      "url": "https://stats.hainan.gov.cn/tjj/ywdt/xwfb/202601/t20260123_4015998.html",
+      "publishedAt": "2026-01-23",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "... 其中，城镇居民人均可支配收入45829元，同比名义增长3.4%；农村居民人均可支配收入23307元，名义增长5.2%，增速比城镇居民快1.8个百分点，城乡居民收入比由上年的2.00降至1.9 7。 2025年，全省居民人均可支配收入36306元，比上年名义增长4.2%，扣除价格因素实际增长4.3%。 其中，城镇居民人均可支配收入45829元，同比名义增长3.4%；农村居民人均可支配收入23307元，名义增长5.2%，增速比城镇居民快1.8个百分点，城乡居民收入比由上年的2.00降至1.9 7。"
+    },
+    "id": "460000-2025-disposable-rural",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "530000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 31311,
+    "source": {
+      "title": "云南省2025年国民经济和社会发展统计公报_云南人大网",
+      "url": "https://www.ynrd.gov.cn/html/2026/szyw2025_0401/4045337.html",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "全年居民人均可支配收入^{[18]}31311元，比上年增长4.6%，扣除价格因素，实际增长4.6%。"
+    },
+    "id": "530000-2025-disposable-all",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "540000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 33600,
+    "source": {
+      "title": "2025年西藏自治区国民经济和社会发展 统计公报_西藏自治区人民政府",
+      "url": "https://www.xizang.gov.cn/zwgk/zfsj/ndtjgb/202603/t20260331_532204.html",
+      "publishedAt": "2026-03-31",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "... 其中，城镇居民人均可支配收入58794元，增长6.0%；农村居民人均可支配收入23184元，增长7.4%。 全体居民人均可支配收入33600元，比上年增长7.2%。 其中，城镇居民人均可支配收入58794元，增长6.0%；农村居民人均可支配收入23184元，增长7.4%。"
+    },
+    "id": "540000-2025-disposable-all",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "540000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 58794,
+    "source": {
+      "title": "2025年西藏自治区国民经济和社会发展 统计公报_西藏自治区人民政府",
+      "url": "https://www.xizang.gov.cn/zwgk/zfsj/ndtjgb/202603/t20260331_532204.html",
+      "publishedAt": "2026-03-31",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "... 其中，城镇居民人均可支配收入58794元，增长6.0%；农村居民人均可支配收入23184元，增长7.4%。 全体居民人均可支配收入33600元，比上年增长7.2%。 其中，城镇居民人均可支配收入58794元，增长6.0%；农村居民人均可支配收入23184元，增长7.4%。"
+    },
+    "id": "540000-2025-disposable-urban",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "540000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 23184,
+    "source": {
+      "title": "2025年西藏自治区国民经济和社会发展 统计公报_西藏自治区人民政府",
+      "url": "https://www.xizang.gov.cn/zwgk/zfsj/ndtjgb/202603/t20260331_532204.html",
+      "publishedAt": "2026-03-31",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "... 其中，城镇居民人均可支配收入58794元，增长6.0%；农村居民人均可支配收入23184元，增长7.4%。 全体居民人均可支配收入33600元，比上年增长7.2%。 其中，城镇居民人均可支配收入58794元，增长6.0%；农村居民人均可支配收入23184元，增长7.4%。"
+    },
+    "id": "540000-2025-disposable-rural",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "620000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 28224,
+    "source": {
+      "title": "2025年甘肃省经济运行情况",
+      "url": "https://fgw.pingliang.gov.cn/gsyw/art/2026/art_622541bfa5c14968812de16371a964dc.html",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "... 全年全省全体居民人均可支配收入28224元，比上年增长6.1%。 按常住地分，城镇居民人均可支配收入43910元，增长4.9%；农村居民人均可支配收入15001元，增长6.3%。 全年全省全体居民人均可支配收入28224元，比上年增长6.1%。 按常住地分，城镇居民人均可支配收入43910元，增长4.9%；农村居民人均可支配收入15001元，增长6.3%。"
+    },
+    "id": "620000-2025-disposable-all",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "620000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 43910,
+    "source": {
+      "title": "2025年甘肃省经济运行情况",
+      "url": "https://fgw.pingliang.gov.cn/gsyw/art/2026/art_622541bfa5c14968812de16371a964dc.html",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "... 全年全省全体居民人均可支配收入28224元，比上年增长6.1%。 按常住地分，城镇居民人均可支配收入43910元，增长4.9%；农村居民人均可支配收入15001元，增长6.3%。 全年全省全体居民人均可支配收入28224元，比上年增长6.1%。 按常住地分，城镇居民人均可支配收入43910元，增长4.9%；农村居民人均可支配收入15001元，增长6.3%。"
+    },
+    "id": "620000-2025-disposable-urban",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "620000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 15001,
+    "source": {
+      "title": "2025年甘肃省经济运行情况",
+      "url": "https://fgw.pingliang.gov.cn/gsyw/art/2026/art_622541bfa5c14968812de16371a964dc.html",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "... 全年全省全体居民人均可支配收入28224元，比上年增长6.1%。 按常住地分，城镇居民人均可支配收入43910元，增长4.9%；农村居民人均可支配收入15001元，增长6.3%。 全年全省全体居民人均可支配收入28224元，比上年增长6.1%。 按常住地分，城镇居民人均可支配收入43910元，增长4.9%；农村居民人均可支配收入15001元，增长6.3%。"
+    },
+    "id": "620000-2025-disposable-rural",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "640000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 35184,
+    "source": {
+      "title": "长者版-宁夏统计局",
+      "url": "https://tj.nx.gov.cn/zzb/tjxx_72438/202601/t20260123_5148302.html",
+      "publishedAt": "2026-01-23",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "... 其中，城镇居民人均可支配收入46593元，增长4.8%；农村居民人均可支配收入20142元，增长5.9%。 全年全区全体居民人均可支配收入35184元，比上年增长5.5%。 其中，城镇居民人均可支配收入46593元，增长4.8%；农村居民人均可支配收入20142元，增长5.9%。"
+    },
+    "id": "640000-2025-disposable-all",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "640000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 46593,
+    "source": {
+      "title": "长者版-宁夏统计局",
+      "url": "https://tj.nx.gov.cn/zzb/tjxx_72438/202601/t20260123_5148302.html",
+      "publishedAt": "2026-01-23",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "... 其中，城镇居民人均可支配收入46593元，增长4.8%；农村居民人均可支配收入20142元，增长5.9%。 全年全区全体居民人均可支配收入35184元，比上年增长5.5%。 其中，城镇居民人均可支配收入46593元，增长4.8%；农村居民人均可支配收入20142元，增长5.9%。"
+    },
+    "id": "640000-2025-disposable-urban",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "640000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 20142,
+    "source": {
+      "title": "长者版-宁夏统计局",
+      "url": "https://tj.nx.gov.cn/zzb/tjxx_72438/202601/t20260123_5148302.html",
+      "publishedAt": "2026-01-23",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "... 其中，城镇居民人均可支配收入46593元，增长4.8%；农村居民人均可支配收入20142元，增长5.9%。 全年全区全体居民人均可支配收入35184元，比上年增长5.5%。 其中，城镇居民人均可支配收入46593元，增长4.8%；农村居民人均可支配收入20142元，增长5.9%。"
+    },
+    "id": "640000-2025-disposable-rural",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "650000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 32881,
+    "source": {
+      "title": "新疆维吾尔自治区2025年国民经济和社会发展统计公报_统计公报_新疆维吾尔自治区人民政府网",
+      "url": "https://www.xinjiang.gov.cn/xinjiang/tjgb/202607/2bb53ad182344d03a31714993ecd71af.shtml",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "全年全区居民人均可支配收入32881元，比上年增长6.4%，扣除价格因素，实际增长6.4%。 按常住地分，城镇居民人均可支配收入45106元，比上年增长5.3%，扣除价格因素，实际增长5.3%。 农村居民人均可支配收入20793元，比上年增长7.0%，扣除价格因素，实际增长7.1%。"
+    },
+    "id": "650000-2025-disposable-all",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "650000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 45106,
+    "source": {
+      "title": "新疆维吾尔自治区2025年国民经济和社会发展统计公报_统计公报_新疆维吾尔自治区人民政府网",
+      "url": "https://www.xinjiang.gov.cn/xinjiang/tjgb/202607/2bb53ad182344d03a31714993ecd71af.shtml",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "全年全区居民人均可支配收入32881元，比上年增长6.4%，扣除价格因素，实际增长6.4%。 按常住地分，城镇居民人均可支配收入45106元，比上年增长5.3%，扣除价格因素，实际增长5.3%。 农村居民人均可支配收入20793元，比上年增长7.0%，扣除价格因素，实际增长7.1%。"
+    },
+    "id": "650000-2025-disposable-urban",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "650000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 20793,
+    "source": {
+      "title": "新疆维吾尔自治区2025年国民经济和社会发展统计公报_统计公报_新疆维吾尔自治区人民政府网",
+      "url": "https://www.xinjiang.gov.cn/xinjiang/tjgb/202607/2bb53ad182344d03a31714993ecd71af.shtml",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "全年全区居民人均可支配收入32881元，比上年增长6.4%，扣除价格因素，实际增长6.4%。 按常住地分，城镇居民人均可支配收入45106元，比上年增长5.3%，扣除价格因素，实际增长5.3%。 农村居民人均可支配收入20793元，比上年增长7.0%，扣除价格因素，实际增长7.1%。"
+    },
+    "id": "650000-2025-disposable-rural",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "220000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 40817,
+    "source": {
+      "title": "吉林省2025年国民经济和社会发展统计公报",
+      "url": "https://tjj.jl.gov.cn/tjsj/tjgb/ndgb/202604/t20260427_3627028.html",
+      "publishedAt": "2026-04-27",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "全年全省城镇常住居民人均可支配收入为40817元，比上年增长4.2％；城镇常住居民人均消费支出为29745元，增长3.4％。 农村常住居民人均可支配收入为21911元，增长5.8％；农村常住居民人均消费支出为16236元，增长5.0％。"
+    },
+    "id": "220000-2025-disposable-urban",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "220000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 21911,
+    "source": {
+      "title": "吉林省2025年国民经济和社会发展统计公报",
+      "url": "https://tjj.jl.gov.cn/tjsj/tjgb/ndgb/202604/t20260427_3627028.html",
+      "publishedAt": "2026-04-27",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "全年全省城镇常住居民人均可支配收入为40817元，比上年增长4.2％；城镇常住居民人均消费支出为29745元，增长3.4％。 农村常住居民人均可支配收入为21911元，增长5.8％；农村常住居民人均消费支出为16236元，增长5.0％。"
+    },
+    "id": "220000-2025-disposable-rural",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "110000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 89090,
+    "source": {
+      "title": "居民收入_居民收入_首都之窗_北京市人民政府门户网站",
+      "url": "https://www.beijing.gov.cn/renwen/bjgk/rmsh/jmsr/202603/t20260327_4567455.html",
+      "publishedAt": "2026-03-27",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "日期：2026-03-27 11:00    来源：北京市统计局　国家统计局北京调查总队 ...   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   * 　　2025年全年全市居民人均可支配收入89090元，比上年增长4.3%，扣除价格因素实际增长4.4%。  ... 按常住地分，城镇居民人均可支配收入96292元，增长4.1%；农村居民人均可支配收入42012元，增长5.4%。   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   * 　　2025年全年全市居民人均可支配收入89090元，比上年增长4.3%，扣除价格因素实际增长4.4%。 按常住地分，城镇居民人均可支配收入96292元，增长4.1%；农村居民人均可支配收入42012元，增长5.4%。"
+    },
+    "id": "110000-2025-disposable-all",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "110000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 96292,
+    "source": {
+      "title": "居民收入_居民收入_首都之窗_北京市人民政府门户网站",
+      "url": "https://www.beijing.gov.cn/renwen/bjgk/rmsh/jmsr/202603/t20260327_4567455.html",
+      "publishedAt": "2026-03-27",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "日期：2026-03-27 11:00    来源：北京市统计局　国家统计局北京调查总队 ...   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   * 　　2025年全年全市居民人均可支配收入89090元，比上年增长4.3%，扣除价格因素实际增长4.4%。  ... 按常住地分，城镇居民人均可支配收入96292元，增长4.1%；农村居民人均可支配收入42012元，增长5.4%。   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   * 　　2025年全年全市居民人均可支配收入89090元，比上年增长4.3%，扣除价格因素实际增长4.4%。 按常住地分，城镇居民人均可支配收入96292元，增长4.1%；农村居民人均可支配收入42012元，增长5.4%。"
+    },
+    "id": "110000-2025-disposable-urban",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "110000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 42012,
+    "source": {
+      "title": "居民收入_居民收入_首都之窗_北京市人民政府门户网站",
+      "url": "https://www.beijing.gov.cn/renwen/bjgk/rmsh/jmsr/202603/t20260327_4567455.html",
+      "publishedAt": "2026-03-27",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "日期：2026-03-27 11:00    来源：北京市统计局　国家统计局北京调查总队 ...   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   * 　　2025年全年全市居民人均可支配收入89090元，比上年增长4.3%，扣除价格因素实际增长4.4%。  ... 按常住地分，城镇居民人均可支配收入96292元，增长4.1%；农村居民人均可支配收入42012元，增长5.4%。   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   * 　　2025年全年全市居民人均可支配收入89090元，比上年增长4.3%，扣除价格因素实际增长4.4%。 按常住地分，城镇居民人均可支配收入96292元，增长4.1%；农村居民人均可支配收入42012元，增长5.4%。"
+    },
+    "id": "110000-2025-disposable-rural",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "120000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 55918,
+    "source": {
+      "title": "2025年天津市国民经济和社会发展统计公报_统计公报_天津政务网",
+      "url": "https://www.tj.gov.cn/sq/tjgb/202603/t20260327_7271193.html",
+      "publishedAt": "2026-03-27",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "... 按常住地分，城镇居民人均可支配收入60099元，增长4.1%；农村居民人均可支配收入34465元，增长5.3%，快于城镇居民增速1.2个百分点。 全年全市居民人均可支配收入55918元，比上年增长4.4%。 按常住地分，城镇居民人均可支配收入60099元，增长4.1%；农村居民人均可支配收入34465元，增长5.3%，快于城镇居民增速1.2个百分点。"
+    },
+    "id": "120000-2025-disposable-all",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "120000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 60099,
+    "source": {
+      "title": "2025年天津市国民经济和社会发展统计公报_统计公报_天津政务网",
+      "url": "https://www.tj.gov.cn/sq/tjgb/202603/t20260327_7271193.html",
+      "publishedAt": "2026-03-27",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "... 按常住地分，城镇居民人均可支配收入60099元，增长4.1%；农村居民人均可支配收入34465元，增长5.3%，快于城镇居民增速1.2个百分点。 全年全市居民人均可支配收入55918元，比上年增长4.4%。 按常住地分，城镇居民人均可支配收入60099元，增长4.1%；农村居民人均可支配收入34465元，增长5.3%，快于城镇居民增速1.2个百分点。"
+    },
+    "id": "120000-2025-disposable-urban",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "120000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 34465,
+    "source": {
+      "title": "2025年天津市国民经济和社会发展统计公报_统计公报_天津政务网",
+      "url": "https://www.tj.gov.cn/sq/tjgb/202603/t20260327_7271193.html",
+      "publishedAt": "2026-03-27",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "... 按常住地分，城镇居民人均可支配收入60099元，增长4.1%；农村居民人均可支配收入34465元，增长5.3%，快于城镇居民增速1.2个百分点。 全年全市居民人均可支配收入55918元，比上年增长4.4%。 按常住地分，城镇居民人均可支配收入60099元，增长4.1%；农村居民人均可支配收入34465元，增长5.3%，快于城镇居民增速1.2个百分点。"
+    },
+    "id": "120000-2025-disposable-rural",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "500000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 41580,
+    "source": {
+      "title": "2025年重庆市国民经济和社会发展统计公报",
+      "url": "https://tjj.cq.gov.cn/zwgk_233/fdzdgknr/tjxx/sjjd_55469/202603/t20260326_15568538_wap.html",
+      "publishedAt": "2026-03-26",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "... 按常住地分，城镇居民人均可支配收入51854元，增长4.2%；农村居民人均可支配收入23448元，增长5.5%。 全市居民人均可支配收入41580元，比上年增长4.7%。 按常住地分，城镇居民人均可支配收入51854元，增长4.2%；农村居民人均可支配收入23448元，增长5.5%。 人均可支配收入  | 41580  | 4.7  | 51854  | 4.2  | 23448  | 5.5"
+    },
+    "id": "500000-2025-disposable-all",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "500000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 51854,
+    "source": {
+      "title": "2025年重庆市国民经济和社会发展统计公报",
+      "url": "https://tjj.cq.gov.cn/zwgk_233/fdzdgknr/tjxx/sjjd_55469/202603/t20260326_15568538_wap.html",
+      "publishedAt": "2026-03-26",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "... 按常住地分，城镇居民人均可支配收入51854元，增长4.2%；农村居民人均可支配收入23448元，增长5.5%。 全市居民人均可支配收入41580元，比上年增长4.7%。 按常住地分，城镇居民人均可支配收入51854元，增长4.2%；农村居民人均可支配收入23448元，增长5.5%。 人均可支配收入  | 41580  | 4.7  | 51854  | 4.2  | 23448  | 5.5"
+    },
+    "id": "500000-2025-disposable-urban",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "500000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 23448,
+    "source": {
+      "title": "2025年重庆市国民经济和社会发展统计公报",
+      "url": "https://tjj.cq.gov.cn/zwgk_233/fdzdgknr/tjxx/sjjd_55469/202603/t20260326_15568538_wap.html",
+      "publishedAt": "2026-03-26",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "... 按常住地分，城镇居民人均可支配收入51854元，增长4.2%；农村居民人均可支配收入23448元，增长5.5%。 全市居民人均可支配收入41580元，比上年增长4.7%。 按常住地分，城镇居民人均可支配收入51854元，增长4.2%；农村居民人均可支配收入23448元，增长5.5%。 人均可支配收入  | 41580  | 4.7  | 51854  | 4.2  | 23448  | 5.5"
+    },
+    "id": "500000-2025-disposable-rural",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "000000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 43377,
+    "growth": 5,
+    "source": {
+      "title": "2025年居民收入和消费支出情况",
+      "url": "https://www.stats.gov.cn/sj/zxfb/202601/t20260119_1962321.html",
+      "publishedAt": "2026-01-19",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年完整年度统计，单位元：全体居民人均可支配收入43377元；城镇居民人均可支配收入56502元；农村居民人均可支配收入24456元"
+    },
+    "id": "000000-2025-disposable-all",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "000000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 56502,
+    "growth": 4.3,
+    "source": {
+      "title": "2025年居民收入和消费支出情况",
+      "url": "https://www.stats.gov.cn/sj/zxfb/202601/t20260119_1962321.html",
+      "publishedAt": "2026-01-19",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年完整年度统计，单位元：全体居民人均可支配收入43377元；城镇居民人均可支配收入56502元；农村居民人均可支配收入24456元"
+    },
+    "id": "000000-2025-disposable-urban",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "000000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 24456,
+    "growth": 5.8,
+    "source": {
+      "title": "2025年居民收入和消费支出情况",
+      "url": "https://www.stats.gov.cn/sj/zxfb/202601/t20260119_1962321.html",
+      "publishedAt": "2026-01-19",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年完整年度统计，单位元：全体居民人均可支配收入43377元；城镇居民人均可支配收入56502元；农村居民人均可支配收入24456元"
+    },
+    "id": "000000-2025-disposable-rural",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "000000",
+    "year": 2025,
+    "metric": "median",
+    "population": "all",
+    "value": 36231,
+    "source": {
+      "title": "2025年居民收入和消费支出情况：收入中位数",
+      "url": "https://www.stats.gov.cn/sj/zxfb/202601/t20260119_1962321.html",
+      "publishedAt": "2026-01-19",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年完整年度统计，单位元：全体居民人均可支配收入中位数36231元；城镇居民人均可支配收入中位数51115元；农村居民人均可支配收入中位数20711元"
+    },
+    "id": "000000-2025-median-all",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "000000",
+    "year": 2025,
+    "metric": "median",
+    "population": "urban",
+    "value": 51115,
+    "source": {
+      "title": "2025年居民收入和消费支出情况：收入中位数",
+      "url": "https://www.stats.gov.cn/sj/zxfb/202601/t20260119_1962321.html",
+      "publishedAt": "2026-01-19",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年完整年度统计，单位元：全体居民人均可支配收入中位数36231元；城镇居民人均可支配收入中位数51115元；农村居民人均可支配收入中位数20711元"
+    },
+    "id": "000000-2025-median-urban",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "000000",
+    "year": 2025,
+    "metric": "median",
+    "population": "rural",
+    "value": 20711,
+    "source": {
+      "title": "2025年居民收入和消费支出情况：收入中位数",
+      "url": "https://www.stats.gov.cn/sj/zxfb/202601/t20260119_1962321.html",
+      "publishedAt": "2026-01-19",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年完整年度统计，单位元：全体居民人均可支配收入中位数36231元；城镇居民人均可支配收入中位数51115元；农村居民人均可支配收入中位数20711元"
+    },
+    "id": "000000-2025-median-rural",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "140000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 33923,
+    "source": {
+      "title": "2025年全省经济总体平稳、稳中有进（山西省统计局）",
+      "url": "https://www.lvliang.gov.cn/zfxxgk/ggsj/ndsj/202601/t20260128_2012418.html",
+      "publishedAt": "2026-01-26",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年完整年度统计，单位元：全体居民人均可支配收入33923元；城镇居民人均可支配收入44649元；农村居民人均可支配收入19766元"
+    },
+    "id": "140000-2025-disposable-all",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "140000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 44649,
+    "source": {
+      "title": "2025年全省经济总体平稳、稳中有进（山西省统计局）",
+      "url": "https://www.lvliang.gov.cn/zfxxgk/ggsj/ndsj/202601/t20260128_2012418.html",
+      "publishedAt": "2026-01-26",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年完整年度统计，单位元：全体居民人均可支配收入33923元；城镇居民人均可支配收入44649元；农村居民人均可支配收入19766元"
+    },
+    "id": "140000-2025-disposable-urban",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "140000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 19766,
+    "source": {
+      "title": "2025年全省经济总体平稳、稳中有进（山西省统计局）",
+      "url": "https://www.lvliang.gov.cn/zfxxgk/ggsj/ndsj/202601/t20260128_2012418.html",
+      "publishedAt": "2026-01-26",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年完整年度统计，单位元：全体居民人均可支配收入33923元；城镇居民人均可支配收入44649元；农村居民人均可支配收入19766元"
+    },
+    "id": "140000-2025-disposable-rural",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "150000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 41921,
+    "source": {
+      "title": "2025年内蒙古经济运行向新向好",
+      "url": "https://www.xlgl.gov.cn/xlgl/zx/qnyw/2026012715571340818/index.html",
+      "publishedAt": "2026-01-27",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年完整年度统计，单位元：全体居民人均可支配收入41921元；城镇居民人均可支配收入52829元；农村居民人均可支配收入23855元"
+    },
+    "id": "150000-2025-disposable-all",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "150000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 52829,
+    "source": {
+      "title": "2025年内蒙古经济运行向新向好",
+      "url": "https://www.xlgl.gov.cn/xlgl/zx/qnyw/2026012715571340818/index.html",
+      "publishedAt": "2026-01-27",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年完整年度统计，单位元：全体居民人均可支配收入41921元；城镇居民人均可支配收入52829元；农村居民人均可支配收入23855元"
+    },
+    "id": "150000-2025-disposable-urban",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "150000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 23855,
+    "source": {
+      "title": "2025年内蒙古经济运行向新向好",
+      "url": "https://www.xlgl.gov.cn/xlgl/zx/qnyw/2026012715571340818/index.html",
+      "publishedAt": "2026-01-27",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年完整年度统计，单位元：全体居民人均可支配收入41921元；城镇居民人均可支配收入52829元；农村居民人均可支配收入23855元"
+    },
+    "id": "150000-2025-disposable-rural",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "360000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 37846,
+    "source": {
+      "title": "2025年全省经济持续向好向新（江西省统计局）",
+      "url": "https://www.ningdu.gov.cn/ndxxxgk/tjxx/202601/8dbbd6dc55f5430a9cdcd308f61637a8.shtml",
+      "publishedAt": "2026-01",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年完整年度统计，单位元：全体居民人均可支配收入37846元；城镇居民人均可支配收入49580元；农村居民人均可支配收入23956元"
+    },
+    "id": "360000-2025-disposable-all",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "360000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 49580,
+    "source": {
+      "title": "2025年全省经济持续向好向新（江西省统计局）",
+      "url": "https://www.ningdu.gov.cn/ndxxxgk/tjxx/202601/8dbbd6dc55f5430a9cdcd308f61637a8.shtml",
+      "publishedAt": "2026-01",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年完整年度统计，单位元：全体居民人均可支配收入37846元；城镇居民人均可支配收入49580元；农村居民人均可支配收入23956元"
+    },
+    "id": "360000-2025-disposable-urban",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "360000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 23956,
+    "source": {
+      "title": "2025年全省经济持续向好向新（江西省统计局）",
+      "url": "https://www.ningdu.gov.cn/ndxxxgk/tjxx/202601/8dbbd6dc55f5430a9cdcd308f61637a8.shtml",
+      "publishedAt": "2026-01",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年完整年度统计，单位元：全体居民人均可支配收入37846元；城镇居民人均可支配收入49580元；农村居民人均可支配收入23956元"
+    },
+    "id": "360000-2025-disposable-rural",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "510000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 36120,
+    "source": {
+      "title": "四川省统计局、国家统计局四川调查总队：2025年四川省统计公报（四川日报刊载）",
+      "url": "https://epaper.scdaily.cn/shtml/scrb/20260317/1073728.html",
+      "publishedAt": "2026-03-17",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年完整年度统计，单位元：全体居民人均可支配收入36120元；城镇居民人均可支配收入49428元；农村居民人均可支配收入22494元"
+    },
+    "id": "510000-2025-disposable-all",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "510000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 49428,
+    "source": {
+      "title": "四川省统计局、国家统计局四川调查总队：2025年四川省统计公报（四川日报刊载）",
+      "url": "https://epaper.scdaily.cn/shtml/scrb/20260317/1073728.html",
+      "publishedAt": "2026-03-17",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年完整年度统计，单位元：全体居民人均可支配收入36120元；城镇居民人均可支配收入49428元；农村居民人均可支配收入22494元"
+    },
+    "id": "510000-2025-disposable-urban",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "510000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 22494,
+    "source": {
+      "title": "四川省统计局、国家统计局四川调查总队：2025年四川省统计公报（四川日报刊载）",
+      "url": "https://epaper.scdaily.cn/shtml/scrb/20260317/1073728.html",
+      "publishedAt": "2026-03-17",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年完整年度统计，单位元：全体居民人均可支配收入36120元；城镇居民人均可支配收入49428元；农村居民人均可支配收入22494元"
+    },
+    "id": "510000-2025-disposable-rural",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "520000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 30001,
+    "source": {
+      "title": "贵州省统计局、国家统计局贵州调查总队：2025年统计公报（贵州日报刊载）",
+      "url": "https://szb.eyesnews.cn/pc/cont/202604/15/content_177814.html",
+      "publishedAt": "2026-04-15",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年完整年度统计，单位元：全体居民人均可支配收入30001元；城镇居民人均可支配收入46289元；农村居民人均可支配收入16764元"
+    },
+    "id": "520000-2025-disposable-all",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "520000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 46289,
+    "source": {
+      "title": "贵州省统计局、国家统计局贵州调查总队：2025年统计公报（贵州日报刊载）",
+      "url": "https://szb.eyesnews.cn/pc/cont/202604/15/content_177814.html",
+      "publishedAt": "2026-04-15",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年完整年度统计，单位元：全体居民人均可支配收入30001元；城镇居民人均可支配收入46289元；农村居民人均可支配收入16764元"
+    },
+    "id": "520000-2025-disposable-urban",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "520000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 16764,
+    "source": {
+      "title": "贵州省统计局、国家统计局贵州调查总队：2025年统计公报（贵州日报刊载）",
+      "url": "https://szb.eyesnews.cn/pc/cont/202604/15/content_177814.html",
+      "publishedAt": "2026-04-15",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年完整年度统计，单位元：全体居民人均可支配收入30001元；城镇居民人均可支配收入46289元；农村居民人均可支配收入16764元"
+    },
+    "id": "520000-2025-disposable-rural",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "610000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 35790,
+    "source": {
+      "title": "陕西省统计局：聚力攻坚担使命 奋楫争先创未来（2026两会统计咨询）",
+      "url": "https://tjj.shaanxi.gov.cn/sy/ztzl/lhfw/2026lhtjzxfw/202601/P020260126375297943556.pdf",
+      "publishedAt": "2026-01",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年完整年度统计，单位元：全体居民人均可支配收入35790元；城镇居民人均可支配收入49053元；农村居民人均可支配收入未收录元"
+    },
+    "id": "610000-2025-disposable-all",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "610000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 49053,
+    "source": {
+      "title": "陕西省统计局：聚力攻坚担使命 奋楫争先创未来（2026两会统计咨询）",
+      "url": "https://tjj.shaanxi.gov.cn/sy/ztzl/lhfw/2026lhtjzxfw/202601/P020260126375297943556.pdf",
+      "publishedAt": "2026-01",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年完整年度统计，单位元：全体居民人均可支配收入35790元；城镇居民人均可支配收入49053元；农村居民人均可支配收入未收录元"
+    },
+    "id": "610000-2025-disposable-urban",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "440600",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 71130,
+    "source": {
+      "title": "佛山市统计局、国家统计局佛山调查队：2025年统计公报（佛山市新闻传媒中心刊载）",
+      "url": "https://online-beta.foshanplus.com/FS_PLUS/1041159.html",
+      "publishedAt": "2026-06-14",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年完整年度统计，单位元：全体居民人均可支配收入71130元；城镇居民人均可支配收入72290元；农村居民人均可支配收入45658元"
+    },
+    "id": "440600-2025-disposable-all",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "440600",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 72290,
+    "source": {
+      "title": "佛山市统计局、国家统计局佛山调查队：2025年统计公报（佛山市新闻传媒中心刊载）",
+      "url": "https://online-beta.foshanplus.com/FS_PLUS/1041159.html",
+      "publishedAt": "2026-06-14",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年完整年度统计，单位元：全体居民人均可支配收入71130元；城镇居民人均可支配收入72290元；农村居民人均可支配收入45658元"
+    },
+    "id": "440600-2025-disposable-urban",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "440600",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 45658,
+    "source": {
+      "title": "佛山市统计局、国家统计局佛山调查队：2025年统计公报（佛山市新闻传媒中心刊载）",
+      "url": "https://online-beta.foshanplus.com/FS_PLUS/1041159.html",
+      "publishedAt": "2026-06-14",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年完整年度统计，单位元：全体居民人均可支配收入71130元；城镇居民人均可支配收入72290元；农村居民人均可支配收入45658元"
+    },
+    "id": "440600-2025-disposable-rural",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "430100",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 72117,
+    "source": {
+      "title": "长沙市2025年国民经济和社会发展统计公报",
+      "url": "https://tjj.hunan.gov.cn/hntj/tjfx/tjgb/szgb/zss_1/202605/t20260512_33975356.html",
+      "publishedAt": "2026-05-12",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年完整年度统计，单位元：全体居民人均可支配收入未收录元；城镇居民人均可支配收入72117元；农村居民人均可支配收入48069元"
+    },
+    "id": "430100-2025-disposable-urban",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "430100",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 48069,
+    "source": {
+      "title": "长沙市2025年国民经济和社会发展统计公报",
+      "url": "https://tjj.hunan.gov.cn/hntj/tjfx/tjgb/szgb/zss_1/202605/t20260512_33975356.html",
+      "publishedAt": "2026-05-12",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年完整年度统计，单位元：全体居民人均可支配收入未收录元；城镇居民人均可支配收入72117元；农村居民人均可支配收入48069元"
+    },
+    "id": "430100-2025-disposable-rural",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "410100",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 48021,
+    "source": {
+      "title": "2025年郑州市国民经济和社会发展统计公报",
+      "url": "https://tjj.zhengzhou.gov.cn/tjgb/10017864.jhtml",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年完整年度统计，单位元：全体居民人均可支配收入48021元；城镇居民人均可支配收入52413元；农村居民人均可支配收入33625元"
+    },
+    "id": "410100-2025-disposable-all",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "410100",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 52413,
+    "source": {
+      "title": "2025年郑州市国民经济和社会发展统计公报",
+      "url": "https://tjj.zhengzhou.gov.cn/tjgb/10017864.jhtml",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年完整年度统计，单位元：全体居民人均可支配收入48021元；城镇居民人均可支配收入52413元；农村居民人均可支配收入33625元"
+    },
+    "id": "410100-2025-disposable-urban",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "410100",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 33625,
+    "source": {
+      "title": "2025年郑州市国民经济和社会发展统计公报",
+      "url": "https://tjj.zhengzhou.gov.cn/tjgb/10017864.jhtml",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年完整年度统计，单位元：全体居民人均可支配收入48021元；城镇居民人均可支配收入52413元；农村居民人均可支配收入33625元"
+    },
+    "id": "410100-2025-disposable-rural",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "450000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 32721,
+    "source": {
+      "title": "2025年广西经济数据（自治区统计局、广西调查总队发布）",
+      "url": "https://www.cabis.gov.cn/html/2026/xinwenbaodao_0127/2421.html",
+      "publishedAt": "2026-01-27",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年，单位：元。全体居民人均可支配收入32721元；城镇居民人均可支配收入44793元；农村居民人均可支配收入21149元"
+    },
+    "id": "450000-2025-disposable-all",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "450000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 44793,
+    "source": {
+      "title": "2025年广西经济数据（自治区统计局、广西调查总队发布）",
+      "url": "https://www.cabis.gov.cn/html/2026/xinwenbaodao_0127/2421.html",
+      "publishedAt": "2026-01-27",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年，单位：元。全体居民人均可支配收入32721元；城镇居民人均可支配收入44793元；农村居民人均可支配收入21149元"
+    },
+    "id": "450000-2025-disposable-urban",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "450000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 21149,
+    "source": {
+      "title": "2025年广西经济数据（自治区统计局、广西调查总队发布）",
+      "url": "https://www.cabis.gov.cn/html/2026/xinwenbaodao_0127/2421.html",
+      "publishedAt": "2026-01-27",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年，单位：元。全体居民人均可支配收入32721元；城镇居民人均可支配收入44793元；农村居民人均可支配收入21149元"
+    },
+    "id": "450000-2025-disposable-rural",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "630000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 31661,
+    "source": {
+      "title": "青海省统计局发布2025年全省经济运行情况（青海日报报道）",
+      "url": "https://www.qhnews.com/newscenter/system/2026/01/28/030509534.shtml",
+      "publishedAt": "2026-01-28",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年，单位：元。全体居民人均可支配收入31661元；城镇居民人均可支配收入未收录元；农村居民人均可支配收入未收录元"
+    },
+    "id": "630000-2025-disposable-all",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "210200",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 52007,
+    "source": {
+      "title": "大连市2025年统计公报（大连日报刊载、大连图书馆地方文献归档）",
+      "url": "https://www.dl-library.net.cn/wenxian/dlnet/content.php?id=529685",
+      "publishedAt": "2026-04-20",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年，单位：元。全体居民人均可支配收入52007元；城镇居民人均可支配收入58441元；农村居民人均可支配收入29185元"
+    },
+    "id": "210200-2025-disposable-all",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "210200",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 58441,
+    "source": {
+      "title": "大连市2025年统计公报（大连日报刊载、大连图书馆地方文献归档）",
+      "url": "https://www.dl-library.net.cn/wenxian/dlnet/content.php?id=529685",
+      "publishedAt": "2026-04-20",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年，单位：元。全体居民人均可支配收入52007元；城镇居民人均可支配收入58441元；农村居民人均可支配收入29185元"
+    },
+    "id": "210200-2025-disposable-urban",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "210200",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 29185,
+    "source": {
+      "title": "大连市2025年统计公报（大连日报刊载、大连图书馆地方文献归档）",
+      "url": "https://www.dl-library.net.cn/wenxian/dlnet/content.php?id=529685",
+      "publishedAt": "2026-04-20",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年，单位：元。全体居民人均可支配收入52007元；城镇居民人均可支配收入58441元；农村居民人均可支配收入29185元"
+    },
+    "id": "210200-2025-disposable-rural",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "130200",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 47200,
+    "source": {
+      "title": "唐山劳动日报：十四五高质量发展成就（2025年居民收入）",
+      "url": "https://epaper.huanbohainews.com.cn/tsldrb/pc/content/202608/11/content_127012.html",
+      "publishedAt": "2026-08-11",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年，单位：元。全体居民人均可支配收入47200元；城镇居民人均可支配收入未收录元；农村居民人均可支配收入未收录元"
+    },
+    "id": "130200-2025-disposable-all",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "130200",
+    "year": 2024,
+    "metric": "disposable",
+    "population": "all",
+    "value": 44798,
+    "source": {
+      "title": "唐山市2024年国民经济和社会发展统计公报",
+      "url": "https://www.tangshan.gov.cn/u/cms/www/202505/06161242d5jk.pdf",
+      "publishedAt": "2025-05",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2024年，单位：元。全体居民人均可支配收入44798元；城镇居民人均可支配收入55121元；农村居民人均可支配收入27691元"
+    },
+    "id": "130200-2024-disposable-all",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "130200",
+    "year": 2024,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 55121,
+    "source": {
+      "title": "唐山市2024年国民经济和社会发展统计公报",
+      "url": "https://www.tangshan.gov.cn/u/cms/www/202505/06161242d5jk.pdf",
+      "publishedAt": "2025-05",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2024年，单位：元。全体居民人均可支配收入44798元；城镇居民人均可支配收入55121元；农村居民人均可支配收入27691元"
+    },
+    "id": "130200-2024-disposable-urban",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "130200",
+    "year": 2024,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 27691,
+    "source": {
+      "title": "唐山市2024年国民经济和社会发展统计公报",
+      "url": "https://www.tangshan.gov.cn/u/cms/www/202505/06161242d5jk.pdf",
+      "publishedAt": "2025-05",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2024年，单位：元。全体居民人均可支配收入44798元；城镇居民人均可支配收入55121元；农村居民人均可支配收入27691元"
+    },
+    "id": "130200-2024-disposable-rural",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "510100",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 54363,
+    "source": {
+      "title": "成都市统计局、国家统计局成都调查队：2025年统计公报（成都日报原刊，新浪全文转载）",
+      "url": "https://finance.sina.com.cn/jjxw/2026-04-15/doc-inhupeis3814625.shtml",
+      "publishedAt": "2026-04-15",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年，单位：元。全体居民人均可支配收入54363元；城镇居民人均可支配收入59509元；农村居民人均可支配收入33779元"
+    },
+    "id": "510100-2025-disposable-all",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "510100",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 59509,
+    "source": {
+      "title": "成都市统计局、国家统计局成都调查队：2025年统计公报（成都日报原刊，新浪全文转载）",
+      "url": "https://finance.sina.com.cn/jjxw/2026-04-15/doc-inhupeis3814625.shtml",
+      "publishedAt": "2026-04-15",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年，单位：元。全体居民人均可支配收入54363元；城镇居民人均可支配收入59509元；农村居民人均可支配收入33779元"
+    },
+    "id": "510100-2025-disposable-urban",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "510100",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 33779,
+    "source": {
+      "title": "成都市统计局、国家统计局成都调查队：2025年统计公报（成都日报原刊，新浪全文转载）",
+      "url": "https://finance.sina.com.cn/jjxw/2026-04-15/doc-inhupeis3814625.shtml",
+      "publishedAt": "2026-04-15",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年，单位：元。全体居民人均可支配收入54363元；城镇居民人均可支配收入59509元；农村居民人均可支配收入33779元"
+    },
+    "id": "510100-2025-disposable-rural",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "370000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "all",
+    "value": 44180,
+    "source": {
+      "title": "山东省统计局：2025年全省居民收入增长5.0%",
+      "url": "https://tjj.shandong.gov.cn/art/2026/2/5/art_6109_10322270.html",
+      "publishedAt": "2026-02-05",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年，单位：元。全体居民人均可支配收入44180元；城镇居民人均可支配收入未收录元；农村居民人均可支配收入未收录元"
+    },
+    "id": "370000-2025-disposable-all",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "530000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 46699,
+    "source": {
+      "title": "云南省2025年国民经济和社会发展统计公报",
+      "url": "https://www.ynrd.gov.cn/html/2026/szyw2025_0401/4045337.html",
+      "publishedAt": "2026-04-01",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年，单位：元。全体居民人均可支配收入未收录元；城镇居民人均可支配收入46699元；农村居民人均可支配收入18514元"
+    },
+    "id": "530000-2025-disposable-urban",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "530000",
+    "year": 2025,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 18514,
+    "source": {
+      "title": "云南省2025年国民经济和社会发展统计公报",
+      "url": "https://www.ynrd.gov.cn/html/2026/szyw2025_0401/4045337.html",
+      "publishedAt": "2026-04-01",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年，单位：元。全体居民人均可支配收入未收录元；城镇居民人均可支配收入46699元；农村居民人均可支配收入18514元"
+    },
+    "id": "530000-2025-disposable-rural",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区全行政区域常住居民完整年度人均可支配收入；包含现金和实物收入。"
+  },
+  {
+    "region": "000000",
+    "year": 2025,
+    "metric": "wage",
+    "population": "private",
+    "value": 71590,
+    "source": {
+      "title": "2025年城镇单位就业人员年平均工资情况",
+      "url": "https://www.stats.gov.cn/sj/zxfb/202605/t20260515_1963707.html",
+      "publishedAt": "2026-05-15",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年，单位：元。城镇私营单位就业人员年平均工资71590元；城镇非私营单位就业人员年平均工资129441元"
+    },
+    "id": "000000-2025-wage-private",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区城镇单位就业人员税前年平均工资；区分私营与非私营，不等于在岗职工或全口径社保参考工资。"
+  },
+  {
+    "region": "000000",
+    "year": 2025,
+    "metric": "wage",
+    "population": "nonPrivate",
+    "value": 129441,
+    "source": {
+      "title": "2025年城镇单位就业人员年平均工资情况",
+      "url": "https://www.stats.gov.cn/sj/zxfb/202605/t20260515_1963707.html",
+      "publishedAt": "2026-05-15",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年，单位：元。城镇私营单位就业人员年平均工资71590元；城镇非私营单位就业人员年平均工资129441元"
+    },
+    "id": "000000-2025-wage-nonPrivate",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区城镇单位就业人员税前年平均工资；区分私营与非私营，不等于在岗职工或全口径社保参考工资。"
+  },
+  {
+    "region": "320000",
+    "year": 2025,
+    "metric": "wage",
+    "population": "private",
+    "value": 79868,
+    "source": {
+      "title": "2025年江苏省城镇单位就业人员年平均工资情况",
+      "url": "https://tj.jiangsu.gov.cn/art/2026/6/24/art_87595_11794085.html",
+      "publishedAt": "2026-06-24",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年，单位：元。城镇私营单位就业人员年平均工资79868元；城镇非私营单位就业人员年平均工资134969元"
+    },
+    "id": "320000-2025-wage-private",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区城镇单位就业人员税前年平均工资；区分私营与非私营，不等于在岗职工或全口径社保参考工资。"
+  },
+  {
+    "region": "320000",
+    "year": 2025,
+    "metric": "wage",
+    "population": "nonPrivate",
+    "value": 134969,
+    "source": {
+      "title": "2025年江苏省城镇单位就业人员年平均工资情况",
+      "url": "https://tj.jiangsu.gov.cn/art/2026/6/24/art_87595_11794085.html",
+      "publishedAt": "2026-06-24",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年，单位：元。城镇私营单位就业人员年平均工资79868元；城镇非私营单位就业人员年平均工资134969元"
+    },
+    "id": "320000-2025-wage-nonPrivate",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区城镇单位就业人员税前年平均工资；区分私营与非私营，不等于在岗职工或全口径社保参考工资。"
+  },
+  {
+    "region": "440300",
+    "year": 2025,
+    "metric": "wage",
+    "population": "private",
+    "value": 99220,
+    "source": {
+      "title": "2025年深圳市城镇单位就业人员年平均工资情况",
+      "url": "https://www.sz.gov.cn/cn/xxgk/zfxxgj/tjsj/tjgb/content/mpost_12907800.html",
+      "publishedAt": "2026-07-24",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年，单位：元。城镇私营单位就业人员年平均工资99220元；城镇非私营单位就业人员年平均工资191367元"
+    },
+    "id": "440300-2025-wage-private",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区城镇单位就业人员税前年平均工资；区分私营与非私营，不等于在岗职工或全口径社保参考工资。"
+  },
+  {
+    "region": "440300",
+    "year": 2025,
+    "metric": "wage",
+    "population": "nonPrivate",
+    "value": 191367,
+    "source": {
+      "title": "2025年深圳市城镇单位就业人员年平均工资情况",
+      "url": "https://www.sz.gov.cn/cn/xxgk/zfxxgj/tjsj/tjgb/content/mpost_12907800.html",
+      "publishedAt": "2026-07-24",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年，单位：元。城镇私营单位就业人员年平均工资99220元；城镇非私营单位就业人员年平均工资191367元"
+    },
+    "id": "440300-2025-wage-nonPrivate",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区城镇单位就业人员税前年平均工资；区分私营与非私营，不等于在岗职工或全口径社保参考工资。"
+  },
+  {
+    "region": "420100",
+    "year": 2025,
+    "metric": "wage",
+    "population": "nonPrivate",
+    "value": 144289,
+    "source": {
+      "title": "武汉市统计局：2025年城镇非私营单位就业人员平均工资答复",
+      "url": "https://tjj.wuhan.gov.cn/zfxxgk/fdzdgknr/qtzdgknr/hygq/202607/t20260707_2817832.shtml",
+      "publishedAt": "2026-07-07",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年，单位：元。城镇私营单位就业人员年平均工资未收录元；城镇非私营单位就业人员年平均工资144289元"
+    },
+    "id": "420100-2025-wage-nonPrivate",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区城镇单位就业人员税前年平均工资；区分私营与非私营，不等于在岗职工或全口径社保参考工资。"
+  },
+  {
+    "region": "360000",
+    "year": 2025,
+    "metric": "wage",
+    "population": "private",
+    "value": 57223,
+    "source": {
+      "title": "2025年江西省平均工资（江西统计发布）",
+      "url": "https://www.jdzzsq.gov.cn/qrsj/qtfdgkxx/gzdt/t1095997.shtml",
+      "publishedAt": "2026-06-26",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年，单位：元。城镇私营单位就业人员年平均工资57223元；城镇非私营单位就业人员年平均工资99446元"
+    },
+    "id": "360000-2025-wage-private",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区城镇单位就业人员税前年平均工资；区分私营与非私营，不等于在岗职工或全口径社保参考工资。"
+  },
+  {
+    "region": "360000",
+    "year": 2025,
+    "metric": "wage",
+    "population": "nonPrivate",
+    "value": 99446,
+    "source": {
+      "title": "2025年江西省平均工资（江西统计发布）",
+      "url": "https://www.jdzzsq.gov.cn/qrsj/qtfdgkxx/gzdt/t1095997.shtml",
+      "publishedAt": "2026-06-26",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年，单位：元。城镇私营单位就业人员年平均工资57223元；城镇非私营单位就业人员年平均工资99446元"
+    },
+    "id": "360000-2025-wage-nonPrivate",
+    "version": 1,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "对应地区城镇单位就业人员税前年平均工资；区分私营与非私营，不等于在岗职工或全口径社保参考工资。"
+  },
+  {
+    "id": "320400-2025-wage-private",
+    "region": "320400",
+    "year": 2025,
+    "metric": "wage",
+    "population": "private",
+    "value": 85445,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "全市城镇对应单位就业人员税前年平均工资，含个人税费；不含个体工商户及自由职业者。",
+    "source": {
+      "title": "2025年常州市城镇单位就业人员年平均工资情况",
+      "url": "https://tjj.changzhou.gov.cn/html/tjj/2026/OPOEMFCL_0709/29110.html",
+      "publishedAt": "2026-07-09",
+      "excerpt": "2025年，常州市城镇非私营单位就业人员年平均工资为133226元，其中，在岗职工年平均工资为136356元；城镇私营单位就业人员年平均工资为85445元。",
+      "verifiedAt": "2026-10-19"
+    },
+    "version": 1
+  },
+  {
+    "id": "320400-2025-wage-nonPrivate",
+    "region": "320400",
+    "year": 2025,
+    "metric": "wage",
+    "population": "nonPrivate",
+    "value": 133226,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "全市城镇对应单位就业人员税前年平均工资，含个人税费；不含个体工商户及自由职业者。",
+    "source": {
+      "title": "2025年常州市城镇单位就业人员年平均工资情况",
+      "url": "https://tjj.changzhou.gov.cn/html/tjj/2026/OPOEMFCL_0709/29110.html",
+      "publishedAt": "2026-07-09",
+      "excerpt": "2025年，常州市城镇非私营单位就业人员年平均工资为133226元，其中，在岗职工年平均工资为136356元；城镇私营单位就业人员年平均工资为85445元。",
+      "verifiedAt": "2026-10-19"
+    },
+    "version": 1
+  },
+  {
+    "id": "440100-2025-wage-private",
+    "region": "440100",
+    "year": 2025,
+    "metric": "wage",
+    "population": "private",
+    "value": 86259,
+    "unit": "元/人/年",
+    "availability": "available",
+    "growth": 4,
+    "scope": "全市城镇对应单位就业人员税前年平均工资，含个人税费；不含个体工商户及自由职业者。",
+    "source": {
+      "title": "2025年广州市城镇非私营和私营单位就业人员年平均工资情况",
+      "url": "https://tjj.gz.gov.cn/zzfwzq/tjgb/content/post_10894735.html",
+      "publishedAt": "2026-07-09",
+      "excerpt": "2025年，广州市城镇非私营单位就业人员年平均工资166790元，同比增长4.7%；2025年，广州市城镇私营单位就业人员年平均工资为86259元，同比增长4.0%。",
+      "verifiedAt": "2026-10-19"
+    },
+    "version": 1
+  },
+  {
+    "id": "440100-2025-wage-nonPrivate",
+    "region": "440100",
+    "year": 2025,
+    "metric": "wage",
+    "population": "nonPrivate",
+    "value": 166790,
+    "unit": "元/人/年",
+    "availability": "available",
+    "growth": 4.7,
+    "scope": "全市城镇对应单位就业人员税前年平均工资，含个人税费；不含个体工商户及自由职业者。",
+    "source": {
+      "title": "2025年广州市城镇非私营和私营单位就业人员年平均工资情况",
+      "url": "https://tjj.gz.gov.cn/zzfwzq/tjgb/content/post_10894735.html",
+      "publishedAt": "2026-07-09",
+      "excerpt": "2025年，广州市城镇非私营单位就业人员年平均工资166790元，同比增长4.7%；2025年，广州市城镇私营单位就业人员年平均工资为86259元，同比增长4.0%。",
+      "verifiedAt": "2026-10-19"
+    },
+    "version": 1
+  },
+  {
+    "id": "000000-2024-disposable-all",
+    "region": "000000",
+    "year": 2024,
+    "metric": "disposable",
+    "population": "all",
+    "value": 41314,
+    "unit": "元/人/年",
+    "availability": "available",
+    "growth": 5.3,
+    "scope": "全地区常住居民完整年度人均可支配收入；按常住地划分城乡。",
+    "source": {
+      "title": "2024年居民收入和消费支出情况",
+      "url": "https://www.stats.gov.cn/xxgk/sjfb/zxfb2020/202501/t20250117_1958325.html",
+      "publishedAt": "2025-01-17",
+      "excerpt": "2024年，全国居民人均可支配收入41314元；城镇居民人均可支配收入54188元；农村居民人均可支配收入23119元。",
+      "verifiedAt": "2026-10-19"
+    },
+    "version": 1
+  },
+  {
+    "id": "000000-2024-disposable-urban",
+    "region": "000000",
+    "year": 2024,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 54188,
+    "unit": "元/人/年",
+    "availability": "available",
+    "growth": 4.6,
+    "scope": "全地区常住居民完整年度人均可支配收入；按常住地划分城乡。",
+    "source": {
+      "title": "2024年居民收入和消费支出情况",
+      "url": "https://www.stats.gov.cn/xxgk/sjfb/zxfb2020/202501/t20250117_1958325.html",
+      "publishedAt": "2025-01-17",
+      "excerpt": "2024年，全国居民人均可支配收入41314元；城镇居民人均可支配收入54188元；农村居民人均可支配收入23119元。",
+      "verifiedAt": "2026-10-19"
+    },
+    "version": 1
+  },
+  {
+    "id": "000000-2024-disposable-rural",
+    "region": "000000",
+    "year": 2024,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 23119,
+    "unit": "元/人/年",
+    "availability": "available",
+    "growth": 6.6,
+    "scope": "全地区常住居民完整年度人均可支配收入；按常住地划分城乡。",
+    "source": {
+      "title": "2024年居民收入和消费支出情况",
+      "url": "https://www.stats.gov.cn/xxgk/sjfb/zxfb2020/202501/t20250117_1958325.html",
+      "publishedAt": "2025-01-17",
+      "excerpt": "2024年，全国居民人均可支配收入41314元；城镇居民人均可支配收入54188元；农村居民人均可支配收入23119元。",
+      "verifiedAt": "2026-10-19"
+    },
+    "version": 1
+  },
+  {
+    "id": "330100-2024-disposable-all",
+    "region": "330100",
+    "year": 2024,
+    "metric": "disposable",
+    "population": "all",
+    "value": 76777,
+    "unit": "元/人/年",
+    "availability": "available",
+    "growth": 4,
+    "scope": "全地区常住居民完整年度人均可支配收入；按常住地划分城乡。",
+    "source": {
+      "title": "杭州市统计局：2024年人民生活主要指标表（PDF）",
+      "url": "https://tjj.hangzhou.gov.cn/attach/0/8dc1c6aea43c4a2584b637f47e9b15e8.pdf",
+      "publishedAt": "",
+      "excerpt": "2024年（元）全市居民人均可支配收入76777，同比4.0%；城镇常住居民人均可支配收入83356，同比3.4%；农村常住居民人均可支配收入50805，同比5.4%。",
+      "verifiedAt": "2026-10-19"
+    },
+    "version": 1
+  },
+  {
+    "id": "330100-2024-disposable-urban",
+    "region": "330100",
+    "year": 2024,
+    "metric": "disposable",
+    "population": "urban",
+    "value": 83356,
+    "unit": "元/人/年",
+    "availability": "available",
+    "growth": 3.4,
+    "scope": "全地区常住居民完整年度人均可支配收入；按常住地划分城乡。",
+    "source": {
+      "title": "杭州市统计局：2024年人民生活主要指标表（PDF）",
+      "url": "https://tjj.hangzhou.gov.cn/attach/0/8dc1c6aea43c4a2584b637f47e9b15e8.pdf",
+      "publishedAt": "",
+      "excerpt": "2024年（元）全市居民人均可支配收入76777，同比4.0%；城镇常住居民人均可支配收入83356，同比3.4%；农村常住居民人均可支配收入50805，同比5.4%。",
+      "verifiedAt": "2026-10-19"
+    },
+    "version": 1
+  },
+  {
+    "id": "330100-2024-disposable-rural",
+    "region": "330100",
+    "year": 2024,
+    "metric": "disposable",
+    "population": "rural",
+    "value": 50805,
+    "unit": "元/人/年",
+    "availability": "available",
+    "growth": 5.4,
+    "scope": "全地区常住居民完整年度人均可支配收入；按常住地划分城乡。",
+    "source": {
+      "title": "杭州市统计局：2024年人民生活主要指标表（PDF）",
+      "url": "https://tjj.hangzhou.gov.cn/attach/0/8dc1c6aea43c4a2584b637f47e9b15e8.pdf",
+      "publishedAt": "",
+      "excerpt": "2024年（元）全市居民人均可支配收入76777，同比4.0%；城镇常住居民人均可支配收入83356，同比3.4%；农村常住居民人均可支配收入50805，同比5.4%。",
+      "verifiedAt": "2026-10-19"
+    },
+    "version": 1
+  }
+]

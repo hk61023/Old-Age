@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.npm-cache/
+/data/
+/artifacts/
+*.log
+.env
+id_ed25519_yanglao
+id_ed25519_yanglao.pub
+baseline.json
+/docs/服务器部署-2026-10-18.md
