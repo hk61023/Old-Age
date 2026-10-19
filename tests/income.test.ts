@@ -13,6 +13,14 @@ import { tmpdir } from 'node:os';
 import { seedPolicies } from '../src/data/policies';
 const record=(patch:Partial<IncomeRecord>={}):IncomeRecord=>({id:'330100-2025-disposable-all',region:'330100',year:2025,metric:'disposable',population:'all',value:60000,unit:'元/人/年',availability:'available',scope:'全市常住居民完整年度统计',source:{title:'2025年杭州市居民收入测试公报',url:'https://www.stats.gov.cn/test-income',publishedAt:'2026-01-20',verifiedAt:'2026-10-19',excerpt:'2025年全体居民人均可支配收入60000元，仅为自动化测试资料，不是正式统计数据。'},version:1,...patch});
 const headers={host:'127.0.0.1:3210',origin:'http://127.0.0.1:3210','content-type':'application/json'};
+
+test('最新资料允许上一年度数值，但指定年度不跨年且不恢复同年旧修订',()=>{
+  const older=record({year:2024,value:55000}),missing=record({value:null,availability:'notPublished',version:2});
+  const rows=[older,record(),missing];
+  assert.equal(latestIncome(rows,'330100','disposable','all')?.year,2024);
+  assert.equal(latestIncome(rows,'330100','disposable','all',2025)?.value,null);
+  assert.equal(commonIncomeYear(rows,['330100'],'disposable','all'),2024);
+});
 test('31省、浙江11市、GDP30及去重38市均有自己的官方居民收入记录',()=>{
   const db=openStore(':memory:');try{const records=publishedIncome(db),coverage=incomeCoverage(records,incomeRegions);assert.deepEqual(coverage,{provinces:{complete:31,total:31},zhejiang:{complete:11,total:11},gdp30:{complete:30,total:30},cities:{complete:38,total:38}});
     assert.equal(incomeRegions.length,66);for(const code of ['110000','310000','420100'])assert.ok(records.some(r=>r.region===code&&r.metric==='disposable'&&r.year===2025));

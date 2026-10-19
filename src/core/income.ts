@@ -5,7 +5,12 @@ export interface IncomeSource { title:string; url:string; publishedAt:string; ve
 export interface IncomeRecord { id:string; region:string; year:number; metric:IncomeMetric; population:IncomePopulation; value:number|null; unit:'元/人/年'; availability:'available'|'notPublished'; growth?:number; scope:string; source:IncomeSource; version:number; }
 export interface IncomePayload { records:IncomeRecord[]; regions:IncomeRegion[]; coverage:ReturnType<typeof incomeCoverage>; rankingYear:number; }
 export const incomeLabels:Record<IncomePopulation,string>={all:'全体居民',urban:'城镇居民',rural:'农村居民',private:'城镇私营单位',nonPrivate:'城镇非私营单位'};
-export function latestIncome(records:IncomeRecord[],region:string,metric:IncomeMetric,population:IncomePopulation,year?:number){return records.filter(r=>r.region===region&&r.metric===metric&&r.population===population&&(year===undefined||r.year===year)).sort((a,b)=>b.year-a.year||b.version-a.version)[0];}
+export function latestIncome(records:IncomeRecord[],region:string,metric:IncomeMetric,population:IncomePopulation,year?:number){
+  const ordered=records.filter(r=>r.region===region&&r.metric===metric&&r.population===population&&(year===undefined||r.year===year)).sort((a,b)=>b.year-a.year||b.version-a.version);
+  // Respect the newest revision of each year before considering an older year.
+  const latestVersions=ordered.filter((r,i)=>ordered.findIndex(x=>x.year===r.year)===i);
+  return year===undefined?(latestVersions.find(r=>r.availability==='available'&&r.value!==null)??latestVersions[0]):latestVersions[0];
+}
 export function annualIncome(value:number,period:'annual'|'monthly',extra=0,members=1){
   if(!Number.isFinite(value)||value<0)throw new Error('收入须为大于或等于0的有限金额');
   if(!Number.isFinite(extra)||extra<0)throw new Error('额外年度收入须为大于或等于0的有限金额');

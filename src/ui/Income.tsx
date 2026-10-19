@@ -47,6 +47,7 @@ export default function Income({initialRegion,entry,pension,sample}:{initialRegi
       {!options.length&&<p role="status">没有匹配的地区，请更换关键词。</p>}<p className="muted">GDP仅确定资料覆盖范围；不同指标可能在不同日期公布。缺失分项不估算、不替代为省值。</p>
     </section>
     {!selected&&<div className="notice warning"><p>带入的城市尚未接入收入资料，请在生活地区中选择已覆盖地区。城市数据不会使用省值替代。</p><button className="secondary" onClick={()=>{setRegion(region.slice(0,2)+'0000');setYear('');setCompareCodes(null);}}>改看所在省级地区</button></div>}
+    {!year&&<p className="muted">优先采用最新已核验完整年度；尚未取得2025年资料的分项可采用2024年，实际年度以每项标注为准。“待核验”表示尚未取得可用于比较的官方资料，不等于官方没有公布。</p>}
     <section className="income-overview"><h2>{selected?.name||'未覆盖地区'} · 当地收入概览</h2><div className="income-stat-grid">{(['all','urban','rural'] as const).map(p=><Statistic key={p} title={`${incomeLabels[p]}人均可支配收入`} record={latestIncome(records,region,'disposable',p,yearValue)}/> )}</div><h3>就业人员税前平均工资</h3><div className="income-stat-grid wage-grid">{(['private','nonPrivate'] as const).map(p=><Statistic key={p} title={`${incomeLabels[p]}年平均工资`} record={latestIncome(records,region,'wage',p,yearValue)}/>)}</div><p className="muted">税前工资包含个人缴纳的税、社保、公积金；居民收入包含工资、经营净收入、财产净收入与转移净收入。两者分别比较。</p></section>
     <section className="card"><div className="section-heading"><div><h2>我的收入，在当地是什么水平？</h2><p>收入仅在本浏览器内计算；刷新即清空，不自动保存。</p></div></div>
       <div className="scenario-tabs">{([['personal','个人收入参照'],['household','家庭人均对比'],['salary','个人工资对比']] as const).map(([key,label])=><button key={key} className={mode===key?'active':''} onClick={()=>setMode(key)}>{label}</button>)}</div>

@@ -4141,5 +4141,1867 @@
       "verifiedAt": "2026-10-19"
     },
     "version": 1
+  },
+  {
+    "id": "310000-2024-wage-private",
+    "region": "310000",
+    "year": 2024,
+    "metric": "wage",
+    "population": "private",
+    "value": 113914,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "上海全行政区域城镇私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "上海统计年鉴2025：表2.23 城镇单位就业人员平均工资（2021—2024）",
+      "url": "https://tjj.sh.gov.cn/tjnj/2025tjnj/C0223.htm",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "表2.23：2024年，城镇非私营单位就业人员平均工资239557元，城镇私营单位就业人员平均工资113914元。"
+    },
+    "version": 1
+  },
+  {
+    "id": "310000-2024-wage-nonPrivate",
+    "region": "310000",
+    "year": 2024,
+    "metric": "wage",
+    "population": "nonPrivate",
+    "value": 239557,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "上海全行政区域城镇非私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "上海统计年鉴2025：表2.23 城镇单位就业人员平均工资（2021—2024）",
+      "url": "https://tjj.sh.gov.cn/tjnj/2025tjnj/C0223.htm",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "表2.23：2024年，城镇非私营单位就业人员平均工资239557元，城镇私营单位就业人员平均工资113914元。"
+    },
+    "version": 1
+  },
+  {
+    "id": "120000-2024-wage-private",
+    "region": "120000",
+    "year": 2024,
+    "metric": "wage",
+    "population": "private",
+    "value": 73657,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "天津全行政区域城镇私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "2024年天津市城镇单位就业人员年平均工资情况",
+      "url": "https://www.tj.gov.cn/sq/zfsj/sjfb/202506/t20250609_6950054.html",
+      "publishedAt": "2025-06-09",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2024年，天津市城镇非私营单位和城镇私营单位就业人员年平均工资分别为142437元和73657元。"
+    },
+    "version": 1
+  },
+  {
+    "id": "120000-2024-wage-nonPrivate",
+    "region": "120000",
+    "year": 2024,
+    "metric": "wage",
+    "population": "nonPrivate",
+    "value": 142437,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "天津全行政区域城镇非私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "2024年天津市城镇单位就业人员年平均工资情况",
+      "url": "https://www.tj.gov.cn/sq/zfsj/sjfb/202506/t20250609_6950054.html",
+      "publishedAt": "2025-06-09",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2024年，天津市城镇非私营单位和城镇私营单位就业人员年平均工资分别为142437元和73657元。"
+    },
+    "version": 1
+  },
+  {
+    "id": "140000-2024-wage-private",
+    "region": "140000",
+    "year": 2024,
+    "metric": "wage",
+    "population": "private",
+    "value": 51010,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "山西全行政区域城镇私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "2024年山西省城镇单位就业人员工资数据解读（吕梁市政府转载省统计局）",
+      "url": "https://www.lvliang.gov.cn/zfxxgk/ggsj/sjjd/202506/t20250620_1959745.html",
+      "publishedAt": "2025-06-20",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2024年，全省城镇非私营单位就业人员年平均工资为97781元，城镇私营单位就业人员年平均工资为51010元。"
+    },
+    "version": 1
+  },
+  {
+    "id": "140000-2024-wage-nonPrivate",
+    "region": "140000",
+    "year": 2024,
+    "metric": "wage",
+    "population": "nonPrivate",
+    "value": 97781,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "山西全行政区域城镇非私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "2024年山西省城镇单位就业人员工资数据解读（吕梁市政府转载省统计局）",
+      "url": "https://www.lvliang.gov.cn/zfxxgk/ggsj/sjjd/202506/t20250620_1959745.html",
+      "publishedAt": "2025-06-20",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2024年，全省城镇非私营单位就业人员年平均工资为97781元，城镇私营单位就业人员年平均工资为51010元。"
+    },
+    "version": 1
+  },
+  {
+    "id": "210000-2025-wage-private",
+    "region": "210000",
+    "year": 2025,
+    "metric": "wage",
+    "population": "private",
+    "value": 57008,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "辽宁全行政区域城镇私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "关于发布2025年度辽宁省人力资源和社会保障事业发展统计公报的通知",
+      "url": "https://rst.ln.gov.cn/rst/zxzx/gsgg/2026071015033585012/index.shtml",
+      "publishedAt": "2026-07-10",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "年末全省城镇非私营单位就业人员年平均工资为103673元；城镇私营单位就业人员年平均工资为57008元。有关数据来源于省统计局。"
+    },
+    "version": 1
+  },
+  {
+    "id": "210000-2025-wage-nonPrivate",
+    "region": "210000",
+    "year": 2025,
+    "metric": "wage",
+    "population": "nonPrivate",
+    "value": 103673,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "辽宁全行政区域城镇非私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "关于发布2025年度辽宁省人力资源和社会保障事业发展统计公报的通知",
+      "url": "https://rst.ln.gov.cn/rst/zxzx/gsgg/2026071015033585012/index.shtml",
+      "publishedAt": "2026-07-10",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "年末全省城镇非私营单位就业人员年平均工资为103673元；城镇私营单位就业人员年平均工资为57008元。有关数据来源于省统计局。"
+    },
+    "version": 1
+  },
+  {
+    "id": "000000-2024-wage-private",
+    "region": "000000",
+    "year": 2024,
+    "metric": "wage",
+    "population": "private",
+    "value": 69476,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "全国全行政区域城镇私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "2024年城镇单位就业人员年平均工资情况",
+      "url": "https://www.stats.gov.cn/zwfwck/sjfb/202505/t20250516_1959826.html",
+      "publishedAt": "2025-05-16",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2024年全国城镇非私营单位和私营单位就业人员年平均工资分别为124110元和69476元。"
+    },
+    "version": 1
+  },
+  {
+    "id": "000000-2024-wage-nonPrivate",
+    "region": "000000",
+    "year": 2024,
+    "metric": "wage",
+    "population": "nonPrivate",
+    "value": 124110,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "全国全行政区域城镇非私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "2024年城镇单位就业人员年平均工资情况",
+      "url": "https://www.stats.gov.cn/zwfwck/sjfb/202505/t20250516_1959826.html",
+      "publishedAt": "2025-05-16",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2024年全国城镇非私营单位和私营单位就业人员年平均工资分别为124110元和69476元。"
+    },
+    "version": 1
+  },
+  {
+    "id": "350000-2025-wage-private",
+    "region": "350000",
+    "year": 2025,
+    "metric": "wage",
+    "population": "private",
+    "value": 70581,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "福建全行政区域城镇私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "2025年福建省城镇单位就业人员年平均工资情况",
+      "url": "https://tjj.fujian.gov.cn/xxgk/tjxx/gzqk/202606/t20260617_7164491.htm",
+      "publishedAt": "2026-06-17",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年全省城镇非私营单位就业人员年平均工资为116510元；城镇私营单位就业人员年平均工资70581元。"
+    },
+    "version": 1
+  },
+  {
+    "id": "350000-2025-wage-nonPrivate",
+    "region": "350000",
+    "year": 2025,
+    "metric": "wage",
+    "population": "nonPrivate",
+    "value": 116510,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "福建全行政区域城镇非私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "2025年福建省城镇单位就业人员年平均工资情况",
+      "url": "https://tjj.fujian.gov.cn/xxgk/tjxx/gzqk/202606/t20260617_7164491.htm",
+      "publishedAt": "2026-06-17",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年全省城镇非私营单位就业人员年平均工资为116510元；城镇私营单位就业人员年平均工资70581元。"
+    },
+    "version": 1
+  },
+  {
+    "id": "330000-2024-wage-private",
+    "region": "330000",
+    "year": 2024,
+    "metric": "wage",
+    "population": "private",
+    "value": 77230,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "浙江全行政区域城镇私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "浙江省2024年度单位就业人员年平均工资统计公报",
+      "url": "https://tjj.zj.gov.cn/art/2025/6/11/art_1229129205_5528012.html",
+      "publishedAt": "2025-06-11",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2024年，浙江省非私营单位就业人员年平均工资为137239元；私营单位就业人员年平均工资为77230元。"
+    },
+    "version": 1
+  },
+  {
+    "id": "330000-2024-wage-nonPrivate",
+    "region": "330000",
+    "year": 2024,
+    "metric": "wage",
+    "population": "nonPrivate",
+    "value": 137239,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "浙江全行政区域城镇非私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "浙江省2024年度单位就业人员年平均工资统计公报",
+      "url": "https://tjj.zj.gov.cn/art/2025/6/11/art_1229129205_5528012.html",
+      "publishedAt": "2025-06-11",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2024年，浙江省非私营单位就业人员年平均工资为137239元；私营单位就业人员年平均工资为77230元。"
+    },
+    "version": 1
+  },
+  {
+    "id": "320500-2025-wage-nonPrivate",
+    "region": "320500",
+    "year": 2025,
+    "metric": "wage",
+    "population": "nonPrivate",
+    "value": 146353,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "苏州全行政区域城镇非私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "2025年度苏州市城镇非私营单位从业人员年平均工资是多少？",
+      "url": "https://tjj.suzhou.gov.cn/sztjj/rdwd/202606/5c41527977254069a812a7f991ea2447.shtml",
+      "publishedAt": "2026-06-25",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "答：2025年度苏州市城镇非私营单位从业人员年平均工资为146353元。"
+    },
+    "version": 1
+  },
+  {
+    "id": "320500-2025-wage-private",
+    "region": "320500",
+    "year": 2025,
+    "metric": "wage",
+    "population": "private",
+    "value": 88358,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "苏州全行政区域城镇私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "2025年度苏州市城镇私营单位从业人员年平均工资是多少？",
+      "url": "https://tjj.suzhou.gov.cn/sztjj/rdwd/202606/310c055f541f4589a51e9285d54aafbc.shtml",
+      "publishedAt": "2026-06-25",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "答：2025年度苏州市城镇私营单位从业人员年平均工资为88358元。"
+    },
+    "version": 1
+  },
+  {
+    "id": "500000-2025-wage-private",
+    "region": "500000",
+    "year": 2025,
+    "metric": "wage",
+    "population": "private",
+    "value": 66197,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "重庆全行政区域城镇私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "2025年重庆市城镇单位就业人员年平均工资情况",
+      "url": "https://tjj.cq.gov.cn/zwgk_233/fdzdgknr/tjxx/sjzl_55471/tjgb_55472/202606/t20260618_15762815.html",
+      "publishedAt": "2026-06-18",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年，全市城镇非私营单位和私营单位就业人员年平均工资分别为121162元和66197元。"
+    },
+    "version": 1
+  },
+  {
+    "id": "500000-2025-wage-nonPrivate",
+    "region": "500000",
+    "year": 2025,
+    "metric": "wage",
+    "population": "nonPrivate",
+    "value": 121162,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "重庆全行政区域城镇非私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "2025年重庆市城镇单位就业人员年平均工资情况",
+      "url": "https://tjj.cq.gov.cn/zwgk_233/fdzdgknr/tjxx/sjzl_55471/tjgb_55472/202606/t20260618_15762815.html",
+      "publishedAt": "2026-06-18",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年，全市城镇非私营单位和私营单位就业人员年平均工资分别为121162元和66197元。"
+    },
+    "version": 1
+  },
+  {
+    "id": "530000-2024-wage-private",
+    "region": "530000",
+    "year": 2024,
+    "metric": "wage",
+    "population": "private",
+    "value": 55317,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "云南全行政区域城镇私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "2024年云南省城镇单位就业人员年平均工资情况",
+      "url": "https://stats.yn.gov.cn/zwgk/zfxxgk/fdzdgknr/tjsj/sjfb/202506/t20250621_1201694.html",
+      "publishedAt": "2025-06-21",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2024年，云南省城镇非私营单位就业人员年平均工资为110206元；城镇私营单位就业人员年平均工资为55317元。"
+    },
+    "version": 1
+  },
+  {
+    "id": "530000-2024-wage-nonPrivate",
+    "region": "530000",
+    "year": 2024,
+    "metric": "wage",
+    "population": "nonPrivate",
+    "value": 110206,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "云南全行政区域城镇非私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "2024年云南省城镇单位就业人员年平均工资情况",
+      "url": "https://stats.yn.gov.cn/zwgk/zfxxgk/fdzdgknr/tjsj/sjfb/202506/t20250621_1201694.html",
+      "publishedAt": "2025-06-21",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2024年，云南省城镇非私营单位就业人员年平均工资为110206元；城镇私营单位就业人员年平均工资为55317元。"
+    },
+    "version": 1
+  },
+  {
+    "id": "330600-2024-wage-nonPrivate",
+    "region": "330600",
+    "year": 2024,
+    "metric": "wage",
+    "population": "nonPrivate",
+    "value": 115444,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "绍兴全行政区域城镇非私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "2024年绍兴市非私营单位就业人员年平均工资统计公报",
+      "url": "https://tjj.sx.gov.cn/art/2025/7/8/art_1229362069_4226791.html",
+      "publishedAt": "2025-07-08",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2024年，绍兴市非私营单位就业人员年平均工资115444元，比2023年度增加4592元，增长4.1%。"
+    },
+    "version": 1
+  },
+  {
+    "id": "110000-2024-wage-private",
+    "region": "110000",
+    "year": 2024,
+    "metric": "wage",
+    "population": "private",
+    "value": 106905,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "北京全行政区域城镇私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "中国统计年鉴2025：4-13 城镇私营单位就业人员平均工资（2024年地区数据）",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C04-13.jpg",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "《中国统计年鉴2025》4-13地区行转录：地区代码110000，2024年城镇私营单位就业人员平均工资106905元。年鉴出版年份2025，地区统计年度2024。"
+    },
+    "version": 1
+  },
+  {
+    "id": "110000-2024-wage-nonPrivate",
+    "region": "110000",
+    "year": 2024,
+    "metric": "wage",
+    "population": "nonPrivate",
+    "value": 224608,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "北京全行政区域城镇非私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "中国统计年鉴2025：4-9 城镇非私营单位就业人员平均工资（2024年地区数据）",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C04-09.jpg",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "《中国统计年鉴2025》4-9地区行转录：地区代码110000，2024年城镇非私营单位就业人员平均工资224608元。年鉴出版年份2025，地区统计年度2024。"
+    },
+    "version": 1
+  },
+  {
+    "id": "130000-2024-wage-private",
+    "region": "130000",
+    "year": 2024,
+    "metric": "wage",
+    "population": "private",
+    "value": 52374,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "河北全行政区域城镇私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "中国统计年鉴2025：4-13 城镇私营单位就业人员平均工资（2024年地区数据）",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C04-13.jpg",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "《中国统计年鉴2025》4-13地区行转录：地区代码130000，2024年城镇私营单位就业人员平均工资52374元。年鉴出版年份2025，地区统计年度2024。"
+    },
+    "version": 1
+  },
+  {
+    "id": "130000-2024-wage-nonPrivate",
+    "region": "130000",
+    "year": 2024,
+    "metric": "wage",
+    "population": "nonPrivate",
+    "value": 97046,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "河北全行政区域城镇非私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "中国统计年鉴2025：4-9 城镇非私营单位就业人员平均工资（2024年地区数据）",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C04-09.jpg",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "《中国统计年鉴2025》4-9地区行转录：地区代码130000，2024年城镇非私营单位就业人员平均工资97046元。年鉴出版年份2025，地区统计年度2024。"
+    },
+    "version": 1
+  },
+  {
+    "id": "150000-2024-wage-private",
+    "region": "150000",
+    "year": 2024,
+    "metric": "wage",
+    "population": "private",
+    "value": 59217,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "内蒙古全行政区域城镇私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "中国统计年鉴2025：4-13 城镇私营单位就业人员平均工资（2024年地区数据）",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C04-13.jpg",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "《中国统计年鉴2025》4-13地区行转录：地区代码150000，2024年城镇私营单位就业人员平均工资59217元。年鉴出版年份2025，地区统计年度2024。"
+    },
+    "version": 1
+  },
+  {
+    "id": "150000-2024-wage-nonPrivate",
+    "region": "150000",
+    "year": 2024,
+    "metric": "wage",
+    "population": "nonPrivate",
+    "value": 113172,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "内蒙古全行政区域城镇非私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "中国统计年鉴2025：4-9 城镇非私营单位就业人员平均工资（2024年地区数据）",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C04-09.jpg",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "《中国统计年鉴2025》4-9地区行转录：地区代码150000，2024年城镇非私营单位就业人员平均工资113172元。年鉴出版年份2025，地区统计年度2024。"
+    },
+    "version": 1
+  },
+  {
+    "id": "210000-2024-wage-private",
+    "region": "210000",
+    "year": 2024,
+    "metric": "wage",
+    "population": "private",
+    "value": 55179,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "辽宁全行政区域城镇私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "中国统计年鉴2025：4-13 城镇私营单位就业人员平均工资（2024年地区数据）",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C04-13.jpg",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "《中国统计年鉴2025》4-13地区行转录：地区代码210000，2024年城镇私营单位就业人员平均工资55179元。年鉴出版年份2025，地区统计年度2024。"
+    },
+    "version": 1
+  },
+  {
+    "id": "210000-2024-wage-nonPrivate",
+    "region": "210000",
+    "year": 2024,
+    "metric": "wage",
+    "population": "nonPrivate",
+    "value": 99069,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "辽宁全行政区域城镇非私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "中国统计年鉴2025：4-9 城镇非私营单位就业人员平均工资（2024年地区数据）",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C04-09.jpg",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "《中国统计年鉴2025》4-9地区行转录：地区代码210000，2024年城镇非私营单位就业人员平均工资99069元。年鉴出版年份2025，地区统计年度2024。"
+    },
+    "version": 1
+  },
+  {
+    "id": "220000-2024-wage-private",
+    "region": "220000",
+    "year": 2024,
+    "metric": "wage",
+    "population": "private",
+    "value": 51584,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "吉林全行政区域城镇私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "中国统计年鉴2025：4-13 城镇私营单位就业人员平均工资（2024年地区数据）",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C04-13.jpg",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "《中国统计年鉴2025》4-13地区行转录：地区代码220000，2024年城镇私营单位就业人员平均工资51584元。年鉴出版年份2025，地区统计年度2024。"
+    },
+    "version": 1
+  },
+  {
+    "id": "220000-2024-wage-nonPrivate",
+    "region": "220000",
+    "year": 2024,
+    "metric": "wage",
+    "population": "nonPrivate",
+    "value": 98418,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "吉林全行政区域城镇非私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "中国统计年鉴2025：4-9 城镇非私营单位就业人员平均工资（2024年地区数据）",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C04-09.jpg",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "《中国统计年鉴2025》4-9地区行转录：地区代码220000，2024年城镇非私营单位就业人员平均工资98418元。年鉴出版年份2025，地区统计年度2024。"
+    },
+    "version": 1
+  },
+  {
+    "id": "230000-2024-wage-private",
+    "region": "230000",
+    "year": 2024,
+    "metric": "wage",
+    "population": "private",
+    "value": 48621,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "黑龙江全行政区域城镇私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "中国统计年鉴2025：4-13 城镇私营单位就业人员平均工资（2024年地区数据）",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C04-13.jpg",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "《中国统计年鉴2025》4-13地区行转录：地区代码230000，2024年城镇私营单位就业人员平均工资48621元。年鉴出版年份2025，地区统计年度2024。"
+    },
+    "version": 1
+  },
+  {
+    "id": "230000-2024-wage-nonPrivate",
+    "region": "230000",
+    "year": 2024,
+    "metric": "wage",
+    "population": "nonPrivate",
+    "value": 99007,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "黑龙江全行政区域城镇非私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "中国统计年鉴2025：4-9 城镇非私营单位就业人员平均工资（2024年地区数据）",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C04-09.jpg",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "《中国统计年鉴2025》4-9地区行转录：地区代码230000，2024年城镇非私营单位就业人员平均工资99007元。年鉴出版年份2025，地区统计年度2024。"
+    },
+    "version": 1
+  },
+  {
+    "id": "320000-2024-wage-private",
+    "region": "320000",
+    "year": 2024,
+    "metric": "wage",
+    "population": "private",
+    "value": 78114,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "江苏全行政区域城镇私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "中国统计年鉴2025：4-13 城镇私营单位就业人员平均工资（2024年地区数据）",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C04-13.jpg",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "《中国统计年鉴2025》4-13地区行转录：地区代码320000，2024年城镇私营单位就业人员平均工资78114元。年鉴出版年份2025，地区统计年度2024。"
+    },
+    "version": 1
+  },
+  {
+    "id": "320000-2024-wage-nonPrivate",
+    "region": "320000",
+    "year": 2024,
+    "metric": "wage",
+    "population": "nonPrivate",
+    "value": 129220,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "江苏全行政区域城镇非私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "中国统计年鉴2025：4-9 城镇非私营单位就业人员平均工资（2024年地区数据）",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C04-09.jpg",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "《中国统计年鉴2025》4-9地区行转录：地区代码320000，2024年城镇非私营单位就业人员平均工资129220元。年鉴出版年份2025，地区统计年度2024。"
+    },
+    "version": 1
+  },
+  {
+    "id": "340000-2024-wage-private",
+    "region": "340000",
+    "year": 2024,
+    "metric": "wage",
+    "population": "private",
+    "value": 60610,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "安徽全行政区域城镇私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "中国统计年鉴2025：4-13 城镇私营单位就业人员平均工资（2024年地区数据）",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C04-13.jpg",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "《中国统计年鉴2025》4-13地区行转录：地区代码340000，2024年城镇私营单位就业人员平均工资60610元。年鉴出版年份2025，地区统计年度2024。"
+    },
+    "version": 1
+  },
+  {
+    "id": "340000-2024-wage-nonPrivate",
+    "region": "340000",
+    "year": 2024,
+    "metric": "wage",
+    "population": "nonPrivate",
+    "value": 105416,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "安徽全行政区域城镇非私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "中国统计年鉴2025：4-9 城镇非私营单位就业人员平均工资（2024年地区数据）",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C04-09.jpg",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "《中国统计年鉴2025》4-9地区行转录：地区代码340000，2024年城镇非私营单位就业人员平均工资105416元。年鉴出版年份2025，地区统计年度2024。"
+    },
+    "version": 1
+  },
+  {
+    "id": "350000-2024-wage-private",
+    "region": "350000",
+    "year": 2024,
+    "metric": "wage",
+    "population": "private",
+    "value": 69055,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "福建全行政区域城镇私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "中国统计年鉴2025：4-13 城镇私营单位就业人员平均工资（2024年地区数据）",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C04-13.jpg",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "《中国统计年鉴2025》4-13地区行转录：地区代码350000，2024年城镇私营单位就业人员平均工资69055元。年鉴出版年份2025，地区统计年度2024。"
+    },
+    "version": 1
+  },
+  {
+    "id": "350000-2024-wage-nonPrivate",
+    "region": "350000",
+    "year": 2024,
+    "metric": "wage",
+    "population": "nonPrivate",
+    "value": 112377,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "福建全行政区域城镇非私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "中国统计年鉴2025：4-9 城镇非私营单位就业人员平均工资（2024年地区数据）",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C04-09.jpg",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "《中国统计年鉴2025》4-9地区行转录：地区代码350000，2024年城镇非私营单位就业人员平均工资112377元。年鉴出版年份2025，地区统计年度2024。"
+    },
+    "version": 1
+  },
+  {
+    "id": "360000-2024-wage-private",
+    "region": "360000",
+    "year": 2024,
+    "metric": "wage",
+    "population": "private",
+    "value": 56492,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "江西全行政区域城镇私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "中国统计年鉴2025：4-13 城镇私营单位就业人员平均工资（2024年地区数据）",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C04-13.jpg",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "《中国统计年鉴2025》4-13地区行转录：地区代码360000，2024年城镇私营单位就业人员平均工资56492元。年鉴出版年份2025，地区统计年度2024。"
+    },
+    "version": 1
+  },
+  {
+    "id": "360000-2024-wage-nonPrivate",
+    "region": "360000",
+    "year": 2024,
+    "metric": "wage",
+    "population": "nonPrivate",
+    "value": 95750,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "江西全行政区域城镇非私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "中国统计年鉴2025：4-9 城镇非私营单位就业人员平均工资（2024年地区数据）",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C04-09.jpg",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "《中国统计年鉴2025》4-9地区行转录：地区代码360000，2024年城镇非私营单位就业人员平均工资95750元。年鉴出版年份2025，地区统计年度2024。"
+    },
+    "version": 1
+  },
+  {
+    "id": "370000-2024-wage-private",
+    "region": "370000",
+    "year": 2024,
+    "metric": "wage",
+    "population": "private",
+    "value": 61196,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "山东全行政区域城镇私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "中国统计年鉴2025：4-13 城镇私营单位就业人员平均工资（2024年地区数据）",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C04-13.jpg",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "《中国统计年鉴2025》4-13地区行转录：地区代码370000，2024年城镇私营单位就业人员平均工资61196元。年鉴出版年份2025，地区统计年度2024。"
+    },
+    "version": 1
+  },
+  {
+    "id": "370000-2024-wage-nonPrivate",
+    "region": "370000",
+    "year": 2024,
+    "metric": "wage",
+    "population": "nonPrivate",
+    "value": 108131,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "山东全行政区域城镇非私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "中国统计年鉴2025：4-9 城镇非私营单位就业人员平均工资（2024年地区数据）",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C04-09.jpg",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "《中国统计年鉴2025》4-9地区行转录：地区代码370000，2024年城镇非私营单位就业人员平均工资108131元。年鉴出版年份2025，地区统计年度2024。"
+    },
+    "version": 1
+  },
+  {
+    "id": "410000-2024-wage-private",
+    "region": "410000",
+    "year": 2024,
+    "metric": "wage",
+    "population": "private",
+    "value": 50625,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "河南全行政区域城镇私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "中国统计年鉴2025：4-13 城镇私营单位就业人员平均工资（2024年地区数据）",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C04-13.jpg",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "《中国统计年鉴2025》4-13地区行转录：地区代码410000，2024年城镇私营单位就业人员平均工资50625元。年鉴出版年份2025，地区统计年度2024。"
+    },
+    "version": 1
+  },
+  {
+    "id": "410000-2024-wage-nonPrivate",
+    "region": "410000",
+    "year": 2024,
+    "metric": "wage",
+    "population": "nonPrivate",
+    "value": 86199,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "河南全行政区域城镇非私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "中国统计年鉴2025：4-9 城镇非私营单位就业人员平均工资（2024年地区数据）",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C04-09.jpg",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "《中国统计年鉴2025》4-9地区行转录：地区代码410000，2024年城镇非私营单位就业人员平均工资86199元。年鉴出版年份2025，地区统计年度2024。"
+    },
+    "version": 1
+  },
+  {
+    "id": "420000-2024-wage-private",
+    "region": "420000",
+    "year": 2024,
+    "metric": "wage",
+    "population": "private",
+    "value": 61542,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "湖北全行政区域城镇私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "中国统计年鉴2025：4-13 城镇私营单位就业人员平均工资（2024年地区数据）",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C04-13.jpg",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "《中国统计年鉴2025》4-13地区行转录：地区代码420000，2024年城镇私营单位就业人员平均工资61542元。年鉴出版年份2025，地区统计年度2024。"
+    },
+    "version": 1
+  },
+  {
+    "id": "420000-2024-wage-nonPrivate",
+    "region": "420000",
+    "year": 2024,
+    "metric": "wage",
+    "population": "nonPrivate",
+    "value": 108795,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "湖北全行政区域城镇非私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "中国统计年鉴2025：4-9 城镇非私营单位就业人员平均工资（2024年地区数据）",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C04-09.jpg",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "《中国统计年鉴2025》4-9地区行转录：地区代码420000，2024年城镇非私营单位就业人员平均工资108795元。年鉴出版年份2025，地区统计年度2024。"
+    },
+    "version": 1
+  },
+  {
+    "id": "430000-2024-wage-private",
+    "region": "430000",
+    "year": 2024,
+    "metric": "wage",
+    "population": "private",
+    "value": 60537,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "湖南全行政区域城镇私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "中国统计年鉴2025：4-13 城镇私营单位就业人员平均工资（2024年地区数据）",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C04-13.jpg",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "《中国统计年鉴2025》4-13地区行转录：地区代码430000，2024年城镇私营单位就业人员平均工资60537元。年鉴出版年份2025，地区统计年度2024。"
+    },
+    "version": 1
+  },
+  {
+    "id": "430000-2024-wage-nonPrivate",
+    "region": "430000",
+    "year": 2024,
+    "metric": "wage",
+    "population": "nonPrivate",
+    "value": 97170,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "湖南全行政区域城镇非私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "中国统计年鉴2025：4-9 城镇非私营单位就业人员平均工资（2024年地区数据）",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C04-09.jpg",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "《中国统计年鉴2025》4-9地区行转录：地区代码430000，2024年城镇非私营单位就业人员平均工资97170元。年鉴出版年份2025，地区统计年度2024。"
+    },
+    "version": 1
+  },
+  {
+    "id": "440000-2024-wage-private",
+    "region": "440000",
+    "year": 2024,
+    "metric": "wage",
+    "population": "private",
+    "value": 80976,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "广东全行政区域城镇私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "中国统计年鉴2025：4-13 城镇私营单位就业人员平均工资（2024年地区数据）",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C04-13.jpg",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "《中国统计年鉴2025》4-13地区行转录：地区代码440000，2024年城镇私营单位就业人员平均工资80976元。年鉴出版年份2025，地区统计年度2024。"
+    },
+    "version": 1
+  },
+  {
+    "id": "440000-2024-wage-nonPrivate",
+    "region": "440000",
+    "year": 2024,
+    "metric": "wage",
+    "population": "nonPrivate",
+    "value": 135395,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "广东全行政区域城镇非私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "中国统计年鉴2025：4-9 城镇非私营单位就业人员平均工资（2024年地区数据）",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C04-09.jpg",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "《中国统计年鉴2025》4-9地区行转录：地区代码440000，2024年城镇非私营单位就业人员平均工资135395元。年鉴出版年份2025，地区统计年度2024。"
+    },
+    "version": 1
+  },
+  {
+    "id": "450000-2024-wage-private",
+    "region": "450000",
+    "year": 2024,
+    "metric": "wage",
+    "population": "private",
+    "value": 52456,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "广西全行政区域城镇私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "中国统计年鉴2025：4-13 城镇私营单位就业人员平均工资（2024年地区数据）",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C04-13.jpg",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "《中国统计年鉴2025》4-13地区行转录：地区代码450000，2024年城镇私营单位就业人员平均工资52456元。年鉴出版年份2025，地区统计年度2024。"
+    },
+    "version": 1
+  },
+  {
+    "id": "450000-2024-wage-nonPrivate",
+    "region": "450000",
+    "year": 2024,
+    "metric": "wage",
+    "population": "nonPrivate",
+    "value": 96547,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "广西全行政区域城镇非私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "中国统计年鉴2025：4-9 城镇非私营单位就业人员平均工资（2024年地区数据）",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C04-09.jpg",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "《中国统计年鉴2025》4-9地区行转录：地区代码450000，2024年城镇非私营单位就业人员平均工资96547元。年鉴出版年份2025，地区统计年度2024。"
+    },
+    "version": 1
+  },
+  {
+    "id": "460000-2024-wage-private",
+    "region": "460000",
+    "year": 2024,
+    "metric": "wage",
+    "population": "private",
+    "value": 65299,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "海南全行政区域城镇私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "中国统计年鉴2025：4-13 城镇私营单位就业人员平均工资（2024年地区数据）",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C04-13.jpg",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "《中国统计年鉴2025》4-13地区行转录：地区代码460000，2024年城镇私营单位就业人员平均工资65299元。年鉴出版年份2025，地区统计年度2024。"
+    },
+    "version": 1
+  },
+  {
+    "id": "460000-2024-wage-nonPrivate",
+    "region": "460000",
+    "year": 2024,
+    "metric": "wage",
+    "population": "nonPrivate",
+    "value": 117433,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "海南全行政区域城镇非私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "中国统计年鉴2025：4-9 城镇非私营单位就业人员平均工资（2024年地区数据）",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C04-09.jpg",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "《中国统计年鉴2025》4-9地区行转录：地区代码460000，2024年城镇非私营单位就业人员平均工资117433元。年鉴出版年份2025，地区统计年度2024。"
+    },
+    "version": 1
+  },
+  {
+    "id": "500000-2024-wage-private",
+    "region": "500000",
+    "year": 2024,
+    "metric": "wage",
+    "population": "private",
+    "value": 65098,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "重庆全行政区域城镇私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "中国统计年鉴2025：4-13 城镇私营单位就业人员平均工资（2024年地区数据）",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C04-13.jpg",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "《中国统计年鉴2025》4-13地区行转录：地区代码500000，2024年城镇私营单位就业人员平均工资65098元。年鉴出版年份2025，地区统计年度2024。"
+    },
+    "version": 1
+  },
+  {
+    "id": "500000-2024-wage-nonPrivate",
+    "region": "500000",
+    "year": 2024,
+    "metric": "wage",
+    "population": "nonPrivate",
+    "value": 117546,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "重庆全行政区域城镇非私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "中国统计年鉴2025：4-9 城镇非私营单位就业人员平均工资（2024年地区数据）",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C04-09.jpg",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "《中国统计年鉴2025》4-9地区行转录：地区代码500000，2024年城镇非私营单位就业人员平均工资117546元。年鉴出版年份2025，地区统计年度2024。"
+    },
+    "version": 1
+  },
+  {
+    "id": "510000-2024-wage-private",
+    "region": "510000",
+    "year": 2024,
+    "metric": "wage",
+    "population": "private",
+    "value": 63161,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "四川全行政区域城镇私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "中国统计年鉴2025：4-13 城镇私营单位就业人员平均工资（2024年地区数据）",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C04-13.jpg",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "《中国统计年鉴2025》4-13地区行转录：地区代码510000，2024年城镇私营单位就业人员平均工资63161元。年鉴出版年份2025，地区统计年度2024。"
+    },
+    "version": 1
+  },
+  {
+    "id": "510000-2024-wage-nonPrivate",
+    "region": "510000",
+    "year": 2024,
+    "metric": "wage",
+    "population": "nonPrivate",
+    "value": 110177,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "四川全行政区域城镇非私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "中国统计年鉴2025：4-9 城镇非私营单位就业人员平均工资（2024年地区数据）",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C04-09.jpg",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "《中国统计年鉴2025》4-9地区行转录：地区代码510000，2024年城镇非私营单位就业人员平均工资110177元。年鉴出版年份2025，地区统计年度2024。"
+    },
+    "version": 1
+  },
+  {
+    "id": "520000-2024-wage-private",
+    "region": "520000",
+    "year": 2024,
+    "metric": "wage",
+    "population": "private",
+    "value": 57205,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "贵州全行政区域城镇私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "中国统计年鉴2025：4-13 城镇私营单位就业人员平均工资（2024年地区数据）",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C04-13.jpg",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "《中国统计年鉴2025》4-13地区行转录：地区代码520000，2024年城镇私营单位就业人员平均工资57205元。年鉴出版年份2025，地区统计年度2024。"
+    },
+    "version": 1
+  },
+  {
+    "id": "520000-2024-wage-nonPrivate",
+    "region": "520000",
+    "year": 2024,
+    "metric": "wage",
+    "population": "nonPrivate",
+    "value": 103867,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "贵州全行政区域城镇非私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "中国统计年鉴2025：4-9 城镇非私营单位就业人员平均工资（2024年地区数据）",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C04-09.jpg",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "《中国统计年鉴2025》4-9地区行转录：地区代码520000，2024年城镇非私营单位就业人员平均工资103867元。年鉴出版年份2025，地区统计年度2024。"
+    },
+    "version": 1
+  },
+  {
+    "id": "540000-2024-wage-private",
+    "region": "540000",
+    "year": 2024,
+    "metric": "wage",
+    "population": "private",
+    "value": 73960,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "西藏全行政区域城镇私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "中国统计年鉴2025：4-13 城镇私营单位就业人员平均工资（2024年地区数据）",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C04-13.jpg",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "《中国统计年鉴2025》4-13地区行转录：地区代码540000，2024年城镇私营单位就业人员平均工资73960元。年鉴出版年份2025，地区统计年度2024。"
+    },
+    "version": 1
+  },
+  {
+    "id": "540000-2024-wage-nonPrivate",
+    "region": "540000",
+    "year": 2024,
+    "metric": "wage",
+    "population": "nonPrivate",
+    "value": 161694,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "西藏全行政区域城镇非私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "中国统计年鉴2025：4-9 城镇非私营单位就业人员平均工资（2024年地区数据）",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C04-09.jpg",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "《中国统计年鉴2025》4-9地区行转录：地区代码540000，2024年城镇非私营单位就业人员平均工资161694元。年鉴出版年份2025，地区统计年度2024。"
+    },
+    "version": 1
+  },
+  {
+    "id": "610000-2024-wage-private",
+    "region": "610000",
+    "year": 2024,
+    "metric": "wage",
+    "population": "private",
+    "value": 58791,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "陕西全行政区域城镇私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "中国统计年鉴2025：4-13 城镇私营单位就业人员平均工资（2024年地区数据）",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C04-13.jpg",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "《中国统计年鉴2025》4-13地区行转录：地区代码610000，2024年城镇私营单位就业人员平均工资58791元。年鉴出版年份2025，地区统计年度2024。"
+    },
+    "version": 1
+  },
+  {
+    "id": "610000-2024-wage-nonPrivate",
+    "region": "610000",
+    "year": 2024,
+    "metric": "wage",
+    "population": "nonPrivate",
+    "value": 111921,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "陕西全行政区域城镇非私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "中国统计年鉴2025：4-9 城镇非私营单位就业人员平均工资（2024年地区数据）",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C04-09.jpg",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "《中国统计年鉴2025》4-9地区行转录：地区代码610000，2024年城镇非私营单位就业人员平均工资111921元。年鉴出版年份2025，地区统计年度2024。"
+    },
+    "version": 1
+  },
+  {
+    "id": "620000-2024-wage-private",
+    "region": "620000",
+    "year": 2024,
+    "metric": "wage",
+    "population": "private",
+    "value": 52499,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "甘肃全行政区域城镇私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "中国统计年鉴2025：4-13 城镇私营单位就业人员平均工资（2024年地区数据）",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C04-13.jpg",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "《中国统计年鉴2025》4-13地区行转录：地区代码620000，2024年城镇私营单位就业人员平均工资52499元。年鉴出版年份2025，地区统计年度2024。"
+    },
+    "version": 1
+  },
+  {
+    "id": "620000-2024-wage-nonPrivate",
+    "region": "620000",
+    "year": 2024,
+    "metric": "wage",
+    "population": "nonPrivate",
+    "value": 101173,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "甘肃全行政区域城镇非私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "中国统计年鉴2025：4-9 城镇非私营单位就业人员平均工资（2024年地区数据）",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C04-09.jpg",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "《中国统计年鉴2025》4-9地区行转录：地区代码620000，2024年城镇非私营单位就业人员平均工资101173元。年鉴出版年份2025，地区统计年度2024。"
+    },
+    "version": 1
+  },
+  {
+    "id": "630000-2024-wage-private",
+    "region": "630000",
+    "year": 2024,
+    "metric": "wage",
+    "population": "private",
+    "value": 57042,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "青海全行政区域城镇私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "中国统计年鉴2025：4-13 城镇私营单位就业人员平均工资（2024年地区数据）",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C04-13.jpg",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "《中国统计年鉴2025》4-13地区行转录：地区代码630000，2024年城镇私营单位就业人员平均工资57042元。年鉴出版年份2025，地区统计年度2024。"
+    },
+    "version": 1
+  },
+  {
+    "id": "630000-2024-wage-nonPrivate",
+    "region": "630000",
+    "year": 2024,
+    "metric": "wage",
+    "population": "nonPrivate",
+    "value": 122787,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "青海全行政区域城镇非私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "中国统计年鉴2025：4-9 城镇非私营单位就业人员平均工资（2024年地区数据）",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C04-09.jpg",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "《中国统计年鉴2025》4-9地区行转录：地区代码630000，2024年城镇非私营单位就业人员平均工资122787元。年鉴出版年份2025，地区统计年度2024。"
+    },
+    "version": 1
+  },
+  {
+    "id": "640000-2024-wage-private",
+    "region": "640000",
+    "year": 2024,
+    "metric": "wage",
+    "population": "private",
+    "value": 62509,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "宁夏全行政区域城镇私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "中国统计年鉴2025：4-13 城镇私营单位就业人员平均工资（2024年地区数据）",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C04-13.jpg",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "《中国统计年鉴2025》4-13地区行转录：地区代码640000，2024年城镇私营单位就业人员平均工资62509元。年鉴出版年份2025，地区统计年度2024。"
+    },
+    "version": 1
+  },
+  {
+    "id": "640000-2024-wage-nonPrivate",
+    "region": "640000",
+    "year": 2024,
+    "metric": "wage",
+    "population": "nonPrivate",
+    "value": 120355,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "宁夏全行政区域城镇非私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "中国统计年鉴2025：4-9 城镇非私营单位就业人员平均工资（2024年地区数据）",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C04-09.jpg",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "《中国统计年鉴2025》4-9地区行转录：地区代码640000，2024年城镇非私营单位就业人员平均工资120355元。年鉴出版年份2025，地区统计年度2024。"
+    },
+    "version": 1
+  },
+  {
+    "id": "650000-2024-wage-private",
+    "region": "650000",
+    "year": 2024,
+    "metric": "wage",
+    "population": "private",
+    "value": 63862,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "新疆全行政区域城镇私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "中国统计年鉴2025：4-13 城镇私营单位就业人员平均工资（2024年地区数据）",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C04-13.jpg",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "《中国统计年鉴2025》4-13地区行转录：地区代码650000，2024年城镇私营单位就业人员平均工资63862元。年鉴出版年份2025，地区统计年度2024。"
+    },
+    "version": 1
+  },
+  {
+    "id": "650000-2024-wage-nonPrivate",
+    "region": "650000",
+    "year": 2024,
+    "metric": "wage",
+    "population": "nonPrivate",
+    "value": 116329,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "新疆全行政区域城镇非私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "中国统计年鉴2025：4-9 城镇非私营单位就业人员平均工资（2024年地区数据）",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C04-09.jpg",
+      "publishedAt": "",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "《中国统计年鉴2025》4-9地区行转录：地区代码650000，2024年城镇非私营单位就业人员平均工资116329元。年鉴出版年份2025，地区统计年度2024。"
+    },
+    "version": 1
+  },
+  {
+    "id": "320200-2025-wage-private",
+    "region": "320200",
+    "year": 2025,
+    "metric": "wage",
+    "population": "private",
+    "value": 82880,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "无锡全行政区域城镇私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "2025年无锡市城镇单位就业人员年平均工资",
+      "url": "https://tj.wuxi.gov.cn/doc/2026/07/08/4801556.shtml",
+      "publishedAt": "2026-07-08",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年无锡市城镇非私营单位就业人员年平均工资为144752元。2025年无锡市城镇私营单位就业人员年平均工资为82880元。"
+    },
+    "version": 1
+  },
+  {
+    "id": "320200-2025-wage-nonPrivate",
+    "region": "320200",
+    "year": 2025,
+    "metric": "wage",
+    "population": "nonPrivate",
+    "value": 144752,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "无锡全行政区域城镇非私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "2025年无锡市城镇单位就业人员年平均工资",
+      "url": "https://tj.wuxi.gov.cn/doc/2026/07/08/4801556.shtml",
+      "publishedAt": "2026-07-08",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年无锡市城镇非私营单位就业人员年平均工资为144752元。2025年无锡市城镇私营单位就业人员年平均工资为82880元。"
+    },
+    "version": 1
+  },
+  {
+    "id": "330100-2025-wage-private",
+    "region": "330100",
+    "year": 2025,
+    "metric": "wage",
+    "population": "private",
+    "value": 95545,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "杭州全行政区域城镇私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "2025年杭州市单位就业人员年平均工资统计公报",
+      "url": "https://tjj.hangzhou.gov.cn/col/col1229279682/art/2026/art_f5c6487fb2ee4fea89963ee31eb56c46.html",
+      "publishedAt": "2026-07-10",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年，杭州市非私营单位就业人员年平均工资为168604元；杭州市私营单位就业人员年平均工资为95545元。"
+    },
+    "version": 1
+  },
+  {
+    "id": "330100-2025-wage-nonPrivate",
+    "region": "330100",
+    "year": 2025,
+    "metric": "wage",
+    "population": "nonPrivate",
+    "value": 168604,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "杭州全行政区域城镇非私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "2025年杭州市单位就业人员年平均工资统计公报",
+      "url": "https://tjj.hangzhou.gov.cn/col/col1229279682/art/2026/art_f5c6487fb2ee4fea89963ee31eb56c46.html",
+      "publishedAt": "2026-07-10",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年，杭州市非私营单位就业人员年平均工资为168604元；杭州市私营单位就业人员年平均工资为95545元。"
+    },
+    "version": 1
+  },
+  {
+    "id": "330000-2025-wage-private",
+    "region": "330000",
+    "year": 2025,
+    "metric": "wage",
+    "population": "private",
+    "value": 80384,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "浙江全行政区域城镇私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "浙江省2025年度单位就业人员年平均工资统计公报",
+      "url": "https://tjj.zj.gov.cn/col/col1229129205/art/2026/art_d56c2fc8a9d2478b9913488b8e5d1eb8.html",
+      "publishedAt": "2026-06-16",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年，浙江省非私营单位就业人员年平均工资为141902元；私营单位就业人员年平均工资为80384元。"
+    },
+    "version": 1
+  },
+  {
+    "id": "330000-2025-wage-nonPrivate",
+    "region": "330000",
+    "year": 2025,
+    "metric": "wage",
+    "population": "nonPrivate",
+    "value": 141902,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "浙江全行政区域城镇非私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "浙江省2025年度单位就业人员年平均工资统计公报",
+      "url": "https://tjj.zj.gov.cn/col/col1229129205/art/2026/art_d56c2fc8a9d2478b9913488b8e5d1eb8.html",
+      "publishedAt": "2026-06-16",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年，浙江省非私营单位就业人员年平均工资为141902元；私营单位就业人员年平均工资为80384元。"
+    },
+    "version": 1
+  },
+  {
+    "id": "370100-2024-wage-private",
+    "region": "370100",
+    "year": 2024,
+    "metric": "wage",
+    "population": "private",
+    "value": 64780,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "济南全行政区域城镇私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "2024年济南市城镇单位就业人员年平均工资",
+      "url": "https://jntj.jinan.gov.cn/col18265/art/2025/art_18265_4756610.html",
+      "publishedAt": "2025-07-23",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2024年济南市城镇非私营单位就业人员年平均工资130347元；城镇私营单位就业人员年平均工资64780元。"
+    },
+    "version": 1
+  },
+  {
+    "id": "370100-2024-wage-nonPrivate",
+    "region": "370100",
+    "year": 2024,
+    "metric": "wage",
+    "population": "nonPrivate",
+    "value": 130347,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "济南全行政区域城镇非私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "2024年济南市城镇单位就业人员年平均工资",
+      "url": "https://jntj.jinan.gov.cn/col18265/art/2025/art_18265_4756610.html",
+      "publishedAt": "2025-07-23",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2024年济南市城镇非私营单位就业人员年平均工资130347元；城镇私营单位就业人员年平均工资64780元。"
+    },
+    "version": 1
+  },
+  {
+    "id": "410100-2024-wage-private",
+    "region": "410100",
+    "year": 2024,
+    "metric": "wage",
+    "population": "private",
+    "value": 57738,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "郑州全行政区域城镇私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "2024年郑州市城镇单位就业人员年平均工资情况",
+      "url": "https://tjj.zhengzhou.gov.cn/tjxx/9445366.jhtml",
+      "publishedAt": "2025-07-04",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2024年，郑州市城镇非私营单位就业人员年平均工资106674元；城镇私营单位就业人员年平均工资为57738元。"
+    },
+    "version": 1
+  },
+  {
+    "id": "410100-2024-wage-nonPrivate",
+    "region": "410100",
+    "year": 2024,
+    "metric": "wage",
+    "population": "nonPrivate",
+    "value": 106674,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "郑州全行政区域城镇非私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "2024年郑州市城镇单位就业人员年平均工资情况",
+      "url": "https://tjj.zhengzhou.gov.cn/tjxx/9445366.jhtml",
+      "publishedAt": "2025-07-04",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2024年，郑州市城镇非私营单位就业人员年平均工资106674元；城镇私营单位就业人员年平均工资为57738元。"
+    },
+    "version": 1
+  },
+  {
+    "id": "320100-2024-wage-private",
+    "region": "320100",
+    "year": 2024,
+    "metric": "wage",
+    "population": "private",
+    "value": 83388,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "南京全行政区域城镇私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "2024年南京市工资与收入",
+      "url": "https://tjj.nanjing.gov.cn/bmfw/njsj/202506/t20250624_5592134.html",
+      "publishedAt": "2025-06-24",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2024年南京市工资与收入表：城镇非私营单位从业人员年平均工资160374元；城镇私营单位就业人员年平均工资83388元。"
+    },
+    "version": 1
+  },
+  {
+    "id": "320100-2024-wage-nonPrivate",
+    "region": "320100",
+    "year": 2024,
+    "metric": "wage",
+    "population": "nonPrivate",
+    "value": 160374,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "南京全行政区域城镇非私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "2024年南京市工资与收入",
+      "url": "https://tjj.nanjing.gov.cn/bmfw/njsj/202506/t20250624_5592134.html",
+      "publishedAt": "2025-06-24",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2024年南京市工资与收入表：城镇非私营单位从业人员年平均工资160374元；城镇私营单位就业人员年平均工资83388元。"
+    },
+    "version": 1
+  },
+  {
+    "id": "320100-2025-wage-private",
+    "region": "320100",
+    "year": 2025,
+    "metric": "wage",
+    "population": "private",
+    "value": 86307,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "南京全行政区域城镇私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "2025年南京市工资与收入",
+      "url": "https://tjj.nanjing.gov.cn/bmfw/njsj/202606/t20260625_5866021.html",
+      "publishedAt": "2026-06-25",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年南京市工资与收入表：城镇非私营单位从业人员年平均工资165111元；城镇私营单位就业人员年平均工资86307元。"
+    },
+    "version": 1
+  },
+  {
+    "id": "320100-2025-wage-nonPrivate",
+    "region": "320100",
+    "year": 2025,
+    "metric": "wage",
+    "population": "nonPrivate",
+    "value": 165111,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "南京全行政区域城镇非私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "2025年南京市工资与收入",
+      "url": "https://tjj.nanjing.gov.cn/bmfw/njsj/202606/t20260625_5866021.html",
+      "publishedAt": "2026-06-25",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年南京市工资与收入表：城镇非私营单位从业人员年平均工资165111元；城镇私营单位就业人员年平均工资86307元。"
+    },
+    "version": 1
+  },
+  {
+    "id": "610100-2025-wage-private",
+    "region": "610100",
+    "year": 2025,
+    "metric": "wage",
+    "population": "private",
+    "value": 66649,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "西安全行政区域城镇私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "2025年西安市城镇单位就业人员年平均工资",
+      "url": "https://tjj.xa.gov.cn/tjsj/tjsj/ndsj/2025/2084099188928344065.html",
+      "publishedAt": "2026-08-03",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年城镇非私营单位就业人员年平均工资130904元。城镇私营单位就业人员年平均工资66649元。"
+    },
+    "version": 1
+  },
+  {
+    "id": "610100-2025-wage-nonPrivate",
+    "region": "610100",
+    "year": 2025,
+    "metric": "wage",
+    "population": "nonPrivate",
+    "value": 130904,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "西安全行政区域城镇非私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "2025年西安市城镇单位就业人员年平均工资",
+      "url": "https://tjj.xa.gov.cn/tjsj/tjsj/ndsj/2025/2084099188928344065.html",
+      "publishedAt": "2026-08-03",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年城镇非私营单位就业人员年平均工资130904元。城镇私营单位就业人员年平均工资66649元。"
+    },
+    "version": 1
+  },
+  {
+    "id": "331000-2025-wage-private",
+    "region": "331000",
+    "year": 2025,
+    "metric": "wage",
+    "population": "private",
+    "value": 72753,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "台州全行政区域城镇私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "2025年度台州市单位就业人员年平均工资统计公报",
+      "url": "https://tjj.zjtz.gov.cn/col/col1229890988/art/2026/art_7d9a451720774ac1b06dbbc463b68294.html",
+      "publishedAt": "2026-07-14",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年城镇非私营单位就业人员年平均工资121522元。城镇私营单位就业人员年平均工资72753元。"
+    },
+    "version": 1
+  },
+  {
+    "id": "331000-2025-wage-nonPrivate",
+    "region": "331000",
+    "year": 2025,
+    "metric": "wage",
+    "population": "nonPrivate",
+    "value": 121522,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "台州全行政区域城镇非私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "2025年度台州市单位就业人员年平均工资统计公报",
+      "url": "https://tjj.zjtz.gov.cn/col/col1229890988/art/2026/art_7d9a451720774ac1b06dbbc463b68294.html",
+      "publishedAt": "2026-07-14",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年城镇非私营单位就业人员年平均工资121522元。城镇私营单位就业人员年平均工资72753元。"
+    },
+    "version": 1
+  },
+  {
+    "id": "330900-2025-wage-private",
+    "region": "330900",
+    "year": 2025,
+    "metric": "wage",
+    "population": "private",
+    "value": 82075,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "舟山全行政区域城镇私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "2025年舟山市单位就业人员年平均工资统计公报",
+      "url": "https://zstj.zhoushan.gov.cn/col/col1229339440/art/2026/art_ddea20eab9d441368dc7569d9176afe9.html",
+      "publishedAt": "2026-07-17",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年城镇非私营单位就业人员年平均工资138061元。城镇私营单位就业人员年平均工资82075元。"
+    },
+    "version": 1
+  },
+  {
+    "id": "330900-2025-wage-nonPrivate",
+    "region": "330900",
+    "year": 2025,
+    "metric": "wage",
+    "population": "nonPrivate",
+    "value": 138061,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "舟山全行政区域城镇非私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "2025年舟山市单位就业人员年平均工资统计公报",
+      "url": "https://zstj.zhoushan.gov.cn/col/col1229339440/art/2026/art_ddea20eab9d441368dc7569d9176afe9.html",
+      "publishedAt": "2026-07-17",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年城镇非私营单位就业人员年平均工资138061元。城镇私营单位就业人员年平均工资82075元。"
+    },
+    "version": 1
+  },
+  {
+    "id": "350100-2025-wage-nonPrivate",
+    "region": "350100",
+    "year": 2025,
+    "metric": "wage",
+    "population": "nonPrivate",
+    "value": 129721,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "福州全行政区域城镇非私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "福州市统计局关于发布2025年福州市城镇非私营单位就业人员年平均工资数据的通告",
+      "url": "https://tjj.fuzhou.gov.cn/zwgk/wjtz/202606/t20260622_5336749.htm",
+      "publishedAt": "2026-06-22",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年城镇非私营单位就业人员年平均工资129721元。"
+    },
+    "version": 1
+  },
+  {
+    "id": "330400-2025-wage-nonPrivate",
+    "region": "330400",
+    "year": 2025,
+    "metric": "wage",
+    "population": "nonPrivate",
+    "value": 133695,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "嘉兴全行政区域城镇非私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "嘉兴市2025年度单位就业人员年平均工资统计公报",
+      "url": "https://tjj.jiaxing.gov.cn/col/col1512323/art/2026/art_77ff37fef2174b0aa951073e07640ca3.html",
+      "publishedAt": "2026-07-15",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年城镇非私营单位就业人员年平均工资133695元。"
+    },
+    "version": 1
+  },
+  {
+    "id": "330500-2025-wage-nonPrivate",
+    "region": "330500",
+    "year": 2025,
+    "metric": "wage",
+    "population": "nonPrivate",
+    "value": 121830,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "湖州全行政区域城镇非私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "2025年湖州市单位就业人员年平均工资统计公报",
+      "url": "https://tjj.huzhou.gov.cn/col/col1229208256/art/2026/art_e8b27c7de4f74d8fbece4c3eff50d325.html",
+      "publishedAt": "2026-07-22",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2025年城镇非私营单位就业人员年平均工资121830元。"
+    },
+    "version": 1
+  },
+  {
+    "id": "441900-2024-wage-private",
+    "region": "441900",
+    "year": 2024,
+    "metric": "wage",
+    "population": "private",
+    "value": 80632,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "东莞全行政区域城镇私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "2024年东莞市平均工资情况",
+      "url": "https://tjj.dg.gov.cn/gkmlpt/content/4/4398/post_4398258.html",
+      "publishedAt": "2025-06-24",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2024年东莞市城镇非私营单位就业人员年平均工资105062元，城镇私营单位就业人员年平均工资80632元。"
+    },
+    "version": 1
+  },
+  {
+    "id": "441900-2024-wage-nonPrivate",
+    "region": "441900",
+    "year": 2024,
+    "metric": "wage",
+    "population": "nonPrivate",
+    "value": 105062,
+    "unit": "元/人/年",
+    "availability": "available",
+    "scope": "东莞全行政区域城镇非私营单位就业人员全年税前平均工资；不以在岗职工、规模以上单位或社保全口径工资替代。",
+    "source": {
+      "title": "2024年东莞市平均工资情况",
+      "url": "https://tjj.dg.gov.cn/gkmlpt/content/4/4398/post_4398258.html",
+      "publishedAt": "2025-06-24",
+      "verifiedAt": "2026-10-19",
+      "excerpt": "2024年东莞市城镇非私营单位就业人员年平均工资105062元，城镇私营单位就业人员年平均工资80632元。"
+    },
+    "version": 1
   }
 ]
