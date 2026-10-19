@@ -4,8 +4,12 @@ import {openStore,activePolicies,regionalReferences} from '../server/store';
 import {buildApp} from '../server/app';
 import {addMonitorSource,getMonitorSource,normalizeSourceUrl,initMonitorSources,listMonitorSources} from '../server/monitor-sources';
 import {createWatcher,fetchOfficial} from '../server/watcher';
-import {publicAddress,resolvePublic} from '../server/safe-fetch';
+import {publicAddress,resolvePublic,createHostGate} from '../server/safe-fetch';
 const response=(content='一段可核验官方正文',links:{url:string;title:string}[]=[])=>({content,links,manual:false});
+test('不同入口重定向到同一主机时，实际连接仍串行且保留间隔',async()=>{
+  const gate=createHostGate(20);let active=0,last=0;
+  await Promise.all([1,2,3].map(()=>gate('redirect-target.gov.cn',async()=>{assert.equal(active,0);assert.ok(Date.now()-last>=20);active++;await new Promise(r=>setTimeout(r,8));active--;last=Date.now();})));
+});
 function isolated(){const db=openStore(':memory:');db.prepare('UPDATE monitor_sources SET enabled=0').run();return db;}
 
 test('400页以上队列全部执行，重复点击复用任务，发布数据保持不变',async()=>{
@@ -82,4 +86,14 @@ test('拒绝内网、回环、链路本地、映射IPv6和云元数据，并验�
   await assert.rejects(resolvePublic('rebinding.gov.cn',async()=>[{address:'127.0.0.1',family:4}]));
   assert.equal(normalizeSourceUrl('https://test.gov.cn/a?b=2&utm_source=x&a=1#hash'),'https://test.gov.cn/a?a=1&b=2');
   const redirect=(async()=>new Response(null,{status:302,headers:{location:'https://metadata.google.internal/'}})) as typeof fetch;await assert.rejects(fetchOfficial('https://test.gov.cn/file',redirect));
+});
+
+test('预置核验证据只初始化一次，重启保留管理员停用与后续失败记录',()=>{
+  const db=openStore(':memory:');try{
+    const source=listMonitorSources(db).find(s=>s.url==='https://www.mof.gov.cn/zhengwuxinxi/zhengcefabu/')!;
+    assert.equal(source.verification,'automatic');assert.ok(source.last_checked);
+    db.prepare("UPDATE monitor_sources SET enabled=0,origin='admin',title='管理员保留标题',verification='manual',last_error='后续核验失败',failures=3 WHERE id=?").run(source.id);
+    initMonitorSources(db,[],regionalReferences(db));
+    const saved=getMonitorSource(db,source.id)!;assert.equal(saved.enabled,false);assert.equal(saved.title,'管理员保留标题');assert.equal(saved.last_error,'后续核验失败');assert.equal(saved.failures,3);
+  }finally{db.close();}
 });

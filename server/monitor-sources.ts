@@ -28,14 +28,18 @@ export function initMonitorSources(db:Store,legacy:{url:string;title:string;kind
     addMonitorSource(db,{...s,region,kind:s.kind==='directory'?'directory':'article'},'legacy');
   }
   for(const s of monitorPresets)addMonitorSource(db,{...s,kind:'directory'},'preset');
-  for(const s of monitorSeed as Parameters<typeof addMonitorSource>[1][])addMonitorSource(db,s,'verified-preset');
+  for(const s of monitorSeed as (Parameters<typeof addMonitorSource>[1]&{verification?:string;checkedAt?:string;error?:string})[]){
+    const id=addMonitorSource(db,s,'verified-preset');
+    // Import dated probe evidence once; never overwrite an administrator's edit or a newer live check.
+    if(s.checkedAt&&['automatic','manual'].includes(s.verification||''))db.prepare("UPDATE monitor_sources SET verification=?,last_checked=?,last_success=?,last_error=?,failures=? WHERE id=? AND origin<>'admin' AND last_checked IS NULL").run(s.verification!,s.checkedAt,s.verification==='automatic'?s.checkedAt:null,s.error||'',s.verification==='manual'?1:0,id);
+  }
   for(const s of income)addMonitorSource(db,{...s,channel:'income',department:'统计',topics:['居民收入','平均工资','统计公报']},'income-legacy');
 }
-const sourceSchema=z.object({url:z.string().url().refine(governmentUrl,'只接受政府HTTPS网址'),title:z.string().trim().min(2).max(300),region:z.string().regex(/^\d{6}$/),department:z.string().trim().min(1).max(80),kind:z.enum(['article','directory','entry']),channel:z.enum(['policy','income']),topics:z.array(z.string().trim().min(1).max(60)).min(1).max(15),enabled:z.boolean()}).strict();
+const sourceSchema=z.object({url:z.string().url().refine(governmentUrl,'只接受政府HTTPS网址'),title:z.string().trim().min(2).max(300),region:z.string().regex(/^\d{6}$/),department:z.string().trim().min(1).max(80),kind:z.enum(['article','directory','entry']),channel:z.enum(['policy','income']),topics:z.array(z.string().trim().min(1).max(60)).min(1).max(15),enabled:z.boolean()}).strict().superRefine((s,c)=>{if(governmentUrl(s.url)&&new URL(s.url).pathname==='/'&&s.kind!=='entry')c.addIssue({code:'custom',message:'部门首页只能登记为待核验入口，请填写具体栏目网址'});});
 export function registerMonitorRoutes(app:FastifyInstance,db:Store,watcher:{run:(sourceId?:number)=>Promise<void>;isRunning:()=>boolean},regions:()=>{code:string;name:string;cities:{code:string;name:string}[]}[]){
   function log(action:string,detail:string){db.prepare('INSERT INTO audit(action,detail,created) VALUES(?,?,?)').run(action,detail,new Date().toISOString());}
   const validRegions=()=>new Set(['000000',...regions().flatMap(p=>[p.code,...p.cities.map(c=>c.code)])]);
-  app.get('/api/admin/sources',async()=>({sources:listMonitorSources(db),regions:regions(),running:watcher.isRunning()}));
+  app.get('/api/admin/sources',async()=>{const job=db.prepare('SELECT id,status,detail FROM jobs ORDER BY id DESC LIMIT 1').get();return {sources:listMonitorSources(db),regions:regions(),running:watcher.isRunning(),job:job?{id:job.id,status:job.status,detail:job.detail?JSON.parse(String(job.detail)):{}}:null};});
   app.post('/api/admin/sources',async(req,reply)=>{
     const s=sourceSchema.parse(req.body);if(!validRegions().has(s.region))throw new Error('未知地区');
     const url=normalizeSourceUrl(s.url);if(db.prepare('SELECT id FROM monitor_sources WHERE url=? AND channel=?').get(url,s.channel))return reply.code(409).send({error:'该分类已登记此网址，请编辑原来源'});

@@ -1,1 +1,325 @@
-[]
+[
+  {
+    "url": "https://shanxi.chinatax.gov.cn/son/list/sz-11406-522",
+    "title": "山西税务 · 通知公告",
+    "region": "140000",
+    "department": "税务",
+    "kind": "directory",
+    "channel": "policy",
+    "topics": [
+      "养老保险",
+      "退休",
+      "缴费基数"
+    ],
+    "enabled": true,
+    "verification": "automatic",
+    "checkedAt": "2026-10-18T17:06:12.504Z",
+    "error": ""
+  },
+  {
+    "url": "https://shanxi.chinatax.gov.cn/zcwj",
+    "title": "山西税务 · 政策文件",
+    "region": "140000",
+    "department": "税务",
+    "kind": "directory",
+    "channel": "policy",
+    "topics": [
+      "养老保险",
+      "退休",
+      "缴费基数"
+    ],
+    "enabled": true,
+    "verification": "automatic",
+    "checkedAt": "2026-10-18T17:06:12.504Z",
+    "error": ""
+  },
+  {
+    "url": "https://shanxi.chinatax.gov.cn/web/list/sx-11400-522",
+    "title": "山西税务 · 通知公告",
+    "region": "140000",
+    "department": "税务",
+    "kind": "directory",
+    "channel": "policy",
+    "topics": [
+      "养老保险",
+      "退休",
+      "缴费基数"
+    ],
+    "enabled": true,
+    "verification": "automatic",
+    "checkedAt": "2026-10-18T17:06:12.504Z",
+    "error": ""
+  },
+  {
+    "url": "https://shanxi.chinatax.gov.cn/web/list/sx-11400-545",
+    "title": "山西税务 · 最新文件",
+    "region": "140000",
+    "department": "税务",
+    "kind": "directory",
+    "channel": "policy",
+    "topics": [
+      "养老保险",
+      "退休",
+      "缴费基数"
+    ],
+    "enabled": true,
+    "verification": "manual",
+    "checkedAt": "2026-10-18T17:06:12.504Z",
+    "error": "Error: 未取得可核验正文，可能需要人工访问"
+  },
+  {
+    "url": "https://shanxi.chinatax.gov.cn/web/detail/sx-11400-522-1824057",
+    "title": "山西税务 · 山西省人力资源和社会保障厅山西省财政厅国家税务总局山西省税务局山西省医疗保障局关于公布2026年缴纳社会保险费基数标准等有关问题的通知",
+    "region": "140000",
+    "department": "税务",
+    "kind": "article",
+    "channel": "policy",
+    "topics": [
+      "养老保险",
+      "退休",
+      "缴费基数"
+    ],
+    "enabled": true,
+    "verification": "automatic",
+    "checkedAt": "2026-10-18T17:06:12.504Z",
+    "error": ""
+  },
+  {
+    "url": "https://neimenggu.chinatax.gov.cn/zcwj",
+    "title": "内蒙古2025缴费年度全口径工资官方原文 · 政策文件",
+    "region": "150000",
+    "department": "人社/政府",
+    "kind": "directory",
+    "channel": "policy",
+    "topics": [
+      "养老保险",
+      "退休",
+      "缴费基数"
+    ],
+    "enabled": true,
+    "verification": "manual",
+    "checkedAt": "2026-10-18T17:06:12.504Z",
+    "error": "Error: 仅允许已认可的HTTPS官方来源"
+  },
+  {
+    "url": "https://neimenggu.chinatax.gov.cn/xxgk/tzgg/",
+    "title": "内蒙古2025缴费年度全口径工资官方原文 · 通知公告",
+    "region": "150000",
+    "department": "人社/政府",
+    "kind": "directory",
+    "channel": "policy",
+    "topics": [
+      "养老保险",
+      "退休",
+      "缴费基数"
+    ],
+    "enabled": true,
+    "verification": "automatic",
+    "checkedAt": "2026-10-18T17:06:12.504Z",
+    "error": ""
+  },
+  {
+    "url": "https://rsj.weihai.gov.cn/col/col45565/index.html",
+    "title": "威海市人社局通知公告",
+    "region": "371000",
+    "department": "人社/政府",
+    "kind": "directory",
+    "channel": "policy",
+    "topics": [
+      "养老保险",
+      "退休",
+      "缴费基数"
+    ],
+    "enabled": true,
+    "verification": "manual",
+    "checkedAt": "2026-10-18T17:06:12.504Z",
+    "error": "Error: 未取得可核验正文，可能需要人工访问"
+  },
+  {
+    "url": "https://ywzl.hrss.henan.gov.cn/viewCmsCac.do?cacId=4aef140825e3728f012621731f21029c",
+    "title": "河南人社 · 养老保险",
+    "region": "410000",
+    "department": "人社/政府",
+    "kind": "directory",
+    "channel": "policy",
+    "topics": [
+      "养老保险",
+      "退休",
+      "缴费基数"
+    ],
+    "enabled": true,
+    "verification": "manual",
+    "checkedAt": "2026-10-18T17:06:12.504Z",
+    "error": "AbortError: The operation was aborted"
+  },
+  {
+    "url": "https://hrss.henan.gov.cn/zcwj/",
+    "title": "河南人社 · 政策文件",
+    "region": "410000",
+    "department": "人社/政府",
+    "kind": "directory",
+    "channel": "policy",
+    "topics": [
+      "养老保险",
+      "退休",
+      "缴费基数"
+    ],
+    "enabled": true,
+    "verification": "manual",
+    "checkedAt": "2026-10-18T17:06:12.504Z",
+    "error": "Error: 未取得可核验正文，可能需要人工访问"
+  },
+  {
+    "url": "https://shbx.hrss.henan.gov.cn/hnsi/index.htm",
+    "title": "河南省社会保险中心入口（需核验具体栏目）",
+    "region": "410000",
+    "department": "人社/政府",
+    "kind": "entry",
+    "channel": "policy",
+    "topics": [
+      "养老保险",
+      "退休",
+      "缴费基数"
+    ],
+    "enabled": true,
+    "verification": "manual",
+    "checkedAt": "2026-10-18T17:06:12.504Z",
+    "error": "AbortError: The operation was aborted"
+  },
+  {
+    "url": "https://www.henan.gov.cn/zwgk/fgwj",
+    "title": "河南省政府 · 政策文件",
+    "region": "410000",
+    "department": "人社/政府",
+    "kind": "directory",
+    "channel": "policy",
+    "topics": [
+      "养老保险",
+      "退休",
+      "缴费基数"
+    ],
+    "enabled": true,
+    "verification": "automatic",
+    "checkedAt": "2026-10-18T17:06:12.504Z",
+    "error": ""
+  },
+  {
+    "url": "https://tjj.henan.gov.cn/",
+    "title": "河南省统计局入口",
+    "region": "410000",
+    "department": "统计",
+    "kind": "entry",
+    "channel": "income",
+    "topics": [
+      "养老保险",
+      "退休",
+      "缴费基数"
+    ],
+    "enabled": true,
+    "verification": "manual",
+    "checkedAt": "2026-10-18T17:06:12.504Z",
+    "error": "非可直接解析栏目"
+  },
+  {
+    "url": "https://www.ayx.gov.cn/zwgk/sjfb/",
+    "title": "安阳县数据发布（县级来源，不代表全省或郑州市数据）",
+    "region": "410000",
+    "department": "统计/政府",
+    "kind": "directory",
+    "channel": "income",
+    "topics": [
+      "居民收入",
+      "平均工资",
+      "统计公报"
+    ],
+    "enabled": true,
+    "verification": "automatic",
+    "checkedAt": "2026-10-18T17:06:12.504Z",
+    "error": ""
+  },
+  {
+    "url": "https://www.gov.cn/zhengce/zuixin/",
+    "title": "国务院最新政策发布",
+    "department": "国务院",
+    "channel": "policy",
+    "region": "000000",
+    "kind": "directory",
+    "enabled": true,
+    "topics": [
+      "养老保险",
+      "缴费基数",
+      "退休"
+    ],
+    "verification": "automatic",
+    "checkedAt": "2026-10-18T17:06:12.504Z",
+    "error": ""
+  },
+  {
+    "url": "https://www.mohrss.gov.cn/xxgk2020/fdzdgknr/zcfg/gfxwj/",
+    "title": "人社部规范性文件",
+    "department": "人社",
+    "channel": "policy",
+    "region": "000000",
+    "kind": "directory",
+    "enabled": true,
+    "topics": [
+      "养老保险",
+      "缴费基数",
+      "退休"
+    ],
+    "verification": "manual",
+    "checkedAt": "2026-10-18T17:06:12.504Z",
+    "error": "AbortError: The operation was aborted"
+  },
+  {
+    "url": "https://www.mof.gov.cn/zhengwuxinxi/zhengcefabu/",
+    "title": "财政部政策发布",
+    "department": "财政",
+    "channel": "policy",
+    "region": "000000",
+    "kind": "directory",
+    "enabled": true,
+    "topics": [
+      "养老保险",
+      "缴费基数",
+      "退休"
+    ],
+    "verification": "automatic",
+    "checkedAt": "2026-10-18T17:06:12.504Z",
+    "error": ""
+  },
+  {
+    "url": "https://www.chinatax.gov.cn/chinatax/n810341/n810755/index.html",
+    "title": "税务总局政策文件（历史栏目，需核对迁移）",
+    "department": "税务",
+    "channel": "policy",
+    "region": "000000",
+    "kind": "directory",
+    "enabled": true,
+    "topics": [
+      "养老保险",
+      "缴费基数",
+      "退休"
+    ],
+    "verification": "manual",
+    "checkedAt": "2026-10-18T17:06:12.504Z",
+    "error": "AbortError: The operation was aborted"
+  },
+  {
+    "url": "https://www.stats.gov.cn/sj/zxfb/",
+    "title": "国家统计局数据发布",
+    "department": "统计",
+    "channel": "income",
+    "region": "000000",
+    "kind": "directory",
+    "enabled": true,
+    "topics": [
+      "居民收入",
+      "平均工资",
+      "统计公报"
+    ],
+    "verification": "manual",
+    "checkedAt": "2026-10-18T17:06:12.504Z",
+    "error": "AbortError: The operation was aborted"
+  }
+]
